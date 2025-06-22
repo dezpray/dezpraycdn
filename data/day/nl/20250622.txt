@@ -1,6 +1,94 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            H. Anthelmus van Belly (gedachtenis)<br />
+                H. Jozef Escriva de Balaguer y Albas (gedachtenis)<br />
+                HH. Johannes en Paulus van Rome (gedachtenis)<br />
+                Za. Martelaressen van Arras<br />
+                H. Pelagius van Cordoba (gedachtenis)<br />
+                H. Vigilius van Trento (gedachtenis)<br />
+    
+##########
+<font style="align-text:left" dir="ltr">In Uw wil is al mijn heiligheid!</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+O wil van de almachtige God,<br /><br />
+U bent mijn verrukking, U bent mijn vreugde,<br /><br />
+Wat de hand van mijn Heer mij ook voorhoudt,<br /><br />
+zal ik aanvaarden met blijdschap, onderwerping en liefde.<br /><br />
+<br /><br />
+Uw heilige wil is mijn rust,<br /><br />
+Daarin is al mijn heiligheid,<br /><br />
+En al mijn eeuwige verlossing,<br /><br />
+Want Gods wil doen is de grootste glorie.<br /><br />
+<br /><br />
+Gods wil - Zijn verschillende wensen,<br /><br />
+Mijn ziel vervult ze zonder voorbehoud,<br /><br />
+Want dat zijn Zijn goddelijke verlangens<br /><br />
+Wanneer God Zijn vertrouwen schenkt.<br /><br />
+<br /><br />
+Doe met mij wat U behaagt, Heer,<br /><br />
+Ik maak geen belemmering, geen voorbehoud,<br /><br />
+Want U bent mijn vreugde en de liefde van mijn ziel,<br /><br />
+En het is voor U, wederkerig, dat ik de vloed van mijn vertrouwen uitstort.<br />
+</font><br />
+
+##########
+
+##########
+Uit het boek Genesis <font dir="ltr">16,1-12.15-16.</font>@@@@@Sarai de vrouw van Abram had hem geen kinderen geschonken. Nu had zij een Egyptische slavin, Hagar.<br /><br />
+‘Luister,’ zei Sarai tegen Abram, ‘de Heer houdt mijn moederschoot gesloten. <br /><br />
+Je moest maar met mijn slavin slapen, misschien kan ik door haar <br /><br />
+nakomelingen krijgen. ’ Abram stemde met haar voorstel in<br /><br />
+en Sarai gaf hem haar Egyptische slavin Hagar tot vrouw; Abram woonde toen tien jaar in Kanaän.<br /><br />
+Hij sliep met Hagar en zij werd zwanger. Toen Hagar merkte dat ze zwanger was, <br /><br />
+verloor ze elk respect voor haar meesteres.<br /><br />
+Sarai zei tegen Abram: ‘Voor het onrecht dat mij wordt aangedaan ben jij verantwoordelijk! <br /><br />
+Ik heb je mijn slavin ter beschikking gesteld, en nu ze weet dat ze zwanger is <br /><br />
+toont ze geen enkel respect meer voor mij. Laat de Heer maar beoordelen <br /><br />
+wie er in zijn recht staat: ik of jij.’<br /><br />
+Abram antwoordde: ‘Het is jouw slavin, doe met haar wat je goeddunkt.’ <br /><br />
+Toen maakte Sarai haar het leven zo zwaar dat ze vluchtte.<br /><br />
+Een engel van de Heer trof haar in de woestijn aan bij een waterbron, <br /><br />
+de bron die aan de weg naar Sur ligt.<br /><br />
+Hagar, slavin van Sarai, waar kom je vandaan en waar ga je heen?’ vroeg hij. <br /><br />
+‘Ik ben gevlucht voor Sarai, mijn meesteres,’ antwoordde ze.<br /><br />
+‘Ga naar je meesteres terug,’ zei de engel van de Heer, ‘en wees haar weer gehoorzaam.’<br /><br />
+En hij vervolgde: ‘Ik zal je heel veel nakomelingen geven, zo veel dat ze niet te tellen zullen zijn.<br /><br />
+Je bent nu zwanger en je zult een zoon ter wereld brengen. Die moet je Ismaël noemen, <br /><br />
+want de Heer heeft gehoord hoe zwaar je het te verduren had.<br /><br />
+Een wilde ezel van een mens zal hij zijn: hij schopt iedereen, iedereen schopt hem. <br /><br />
+Met al zijn verwanten zal hij in onmin leven.’<br /><br />
+Zo schonk Hagar aan Abram een zoon, en Abram noemde den zoon, dien Hagar hem baarde, Ismaël.<br /><br />
+Abram was zes en tachtig jaar oud, toen Hagar hem Ismaël baarde.<br />
+
+##########
+Psalmen <font dir="ltr">106(105),1-2.3-4a.4b-5.</font>@@@@@Loof de Heer, want hij is goed,<br /><br />
+eeuwig duurt zijn trouw.<br /><br />
+Wie kan zijn machtige daden verwoorden,<br /><br />
+wie de roem van de Heer laten klinken?<br /><br />
+<br /><br />
+Gelukkig wie zich houden aan het recht<br /><br />
+en doen wat rechtvaardig is, telkens weer.<br /><br />
+Denk aan mij, Heer, uit liefde voor uw volk,<br /><br />
+zie naar mij om wanneer u het komt redden.<br /><br />
+<br /><br />
+Dan zal ik uw uitverkorenen gelukkig zien,<br /><br />
+vreugde vinden in de vreugde van uw volk,<br /><br />
+vervuld zijn van trots op uw liefste bezit.<br />
+
+##########
+Uit het heilig Evangelie van onze Heer Jezus Christus volgens Matteüs <font dir="ltr">7,21-29.</font>@@@@@In die tijd zei Jezus tot zijn leerlingen: Niet ieder die tot Mij zegt: Heer, Heer! zal binnengaan in het Koninkrijk der hemelen, maar hij die de wil doet van mijn Vader die in de hemel is.<br /><br />
+Velen zullen op die dag tot Mij zeggen: Heer, Heer, hebben wij niet in uw Naam geprofeteerd en hebben wij niet in uw Naam duivels uitgedreven en in uw Naam veel wonderen gedaan?<br /><br />
+Maar dan zal Ik hun onomwonden verklaren: Nooit heb Ik u gekend; gaat weg van Mij, gij die ongerech­tigheid doet!<br /><br />
+Ieder nu, die deze woorden van Mij hoort en ernaar handelt, kan men vergelijken met een verstandig man die zijn huis op rotsgrond bouwde.<br /><br />
+De regen viel neer, de bergstromen kwamen omlaag, de storm stak op en zij stortten zich op dat huis, maar het viel niet in, want het stond op gegrondvest op de rots.<br /><br />
+Maar ieder die deze woorden van Mij hoort, doch er niet naar handelt, kan men vergelijken met een dwaas die zijn huis bouwde op het zand.<br /><br />
+De regen viel neer, de bergstromen kwamen omlaag, de storm stak op en zij beukten dat huis, zodat het volledig verwoest werd.&#039;<br /><br />
+Toen Jezus deze toespraak geeindigd had, was het volk buiten zichzelf van verbazing over zijn leer.<br /><br />
+Want Hij onderrichtte niet zoals hun schriftgeleerden, maar als iemand die gezag bezit.<br />
+
+##########
+H. Anthelmus van Belly (gedachtenis)
+##########
+@@@@@<br />
+
+##########
+Donderdag in week 12 door het jaar
+##########
+A @@@  @@@  @@@  @@@   

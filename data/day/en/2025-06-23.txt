@@ -1,6 +1,64 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            St. Etheldreda, Abbess (7th century)<br />
+                St. Liebert<br />
+    
+##########
+<font style="align-text:left" dir="ltr">Don't judge in imitation of God</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+When then any one has acquired this love of goodness of which we have been speaking, and the imitation of God, then he will be endowed with the Lord&#039;s heart of compassion, and will pray also for his persecutors, saying in like manner: Father, forgive them, for they know not what they do. (Luke 23:34) <br /><br />
+<br /><br />
+But it is a clear sign of a soul that is not yet thoroughly purged from the dregs of sin, not to sorrow with a feeling of pity at the offenses of others, but to keep to the rigid censure of the judge: for how will he be able to obtain perfection of heart, who is without that by which, as the Apostle has pointed out, the full requirements of the law can be fulfilled, saying: Bear one another&#039;s burdens and so fulfil the law of Christ, (Galatians 6:2) and who has not that virtue of love, which is not grieved, is not puffed up, thinks no evil, which endures all things, bears all things. (1 Corinthians 13:4-7) For a righteous man pities the life of his beasts: but the heart of the ungodly is without pity. <br /><br />
+<br /><br />
+A monk is quite certain to fall into the same sins which he condemns in another with merciless and inhuman severity, for a stern king will fall into misfortunes, and one who stops his ears so as not to hear the weak, shall himself cry, and there shall be none to hear him.<br />
+</font><br />
+
+##########
+
+##########
+Book of Genesis <font dir="ltr">12,1-9.</font>@@@@@The LORD said to Abram: &quot;Go forth from the land of your kinsfolk and from your father&#039;s house to a land that I will show you.<br /><br />
+I will make of you a great nation, and I will bless you; I will make your name great, so that you will be a blessing.<br /><br />
+I will bless those who bless you and curse those who curse you. All the communities of the earth shall find blessing in you.&quot;<br /><br />
+Abram went as the LORD directed him, and Lot went with him. Abram was seventy-five years old when he left Haran.<br /><br />
+Abram took his wife Sarai, his brother&#039;s son Lot, all the possessions that they had accumulated, and the persons they had acquired in Haran, and they set out for the land of Canaan. When they came to the land of Canaan,<br /><br />
+Abram passed through the land as far as the sacred place at Shechem, by the terebinth of Moreh. (The Canaanites were then in the land.)<br /><br />
+The LORD appeared to Abram and said, &quot;To your descendants I will give this land.&quot; So Abram built an altar there to the LORD who had appeared to him.<br /><br />
+From there he moved on to the hill country east of Bethel, pitching his tent with Bethel to the west and Ai to the east. He built an altar there to the LORD and invoked the LORD by name.<br /><br />
+Then Abram journeyed on by stages to the Negeb.<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Psalms <font dir="ltr">33(32),12-13.18-19.20.22.</font>@@@@@Blessed the nation whose God is the LORD, <br /><br />
+the people he has chosen for his own inheritance.<br /><br />
+From heaven the LORD looks down; <br /><br />
+He sees all mankind.<br /><br />
+<br /><br />
+See, the eyes of the LORD are upon those who fear him, <br /><br />
+upon those who hope for his kindness,<br /><br />
+To deliver them from death <br /><br />
+and preserve them in spite of famine.<br /><br />
+<br /><br />
+Our soul waits for the LORD, <br /><br />
+who is our help and our shield,<br /><br />
+May your kindness, O LORD, be upon us <br /><br />
+who have put our hope in you.<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Holy Gospel of Jesus Christ according to Saint Matthew <font dir="ltr">7,1-5.</font>@@@@@Jesus said to his disciples: &quot;Stop judging, that you may not be judged.<br /><br />
+For as you judge, so will you be judged, and the measure with which you measure will be measured out to you.<br /><br />
+Why do you notice the splinter in your brother&#039;s eye, but do not perceive the wooden beam in your own eye?<br /><br />
+How can you say to your brother, &#039;Let me remove that splinter from your eye,&#039; while the wooden beam is in your eye?<br /><br />
+You hypocrite, remove the wooden beam from your eye first; then you will see clearly to remove the splinter from your brother&#039;s eye.&quot;<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+St. Etheldreda, Abbess (7th century)
+##########
+@@@@@<br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Monday of the Twelfth week in Ordinary Time
+##########
+A @@@  @@@  @@@  @@@   

@@ -1,6 +1,67 @@
+            S. Giuseppe Cafasso, sacerdote (1811-1860)<br />
+                B. Maria Raffaella (Santina) Cimatti, S.O.M. (1861-1945)<br />
+                B. Pietro Giacomo da Pesaro, sacerdote O.E.S.A. († 1496)<br />
+                B. Innocenzo V, Papa O.P. (183°) dal 21/01 al 22/06 del 1276<br />
+                SS. Martiri di Nicomedia († 303)  <br />
+                S. Edeltrude di Ely (GB), regina poi badessa († 679)<br />
+                S. Bili (Bilio) di Vannes (F), vescovo e martire († 914)<br />
+                S. Lanfranco Beccari, vescovo di Pavia († 1194)<br />
+                S. Walter (Valero), sacerdote e martire († sec. XIII)<br />
+                S. Marie d&#039;Oignies (F), fond. delle Beghine (1177-1213)<br />
+                S. Thomas Garnet, sacerdote S.J. e martire (1575-1608)<br />
+    
+##########
+<font style="align-text:left" dir="ltr">Non giudicare per arrivare a imitare Dio</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+      Quando qualcuno arriverà a questo amore del bene e a questa imitazione di Dio (...), sarà rivestito di quei sentimenti di longanimità che furono del Signore, e pregherà anche come lui per i suoi persecutori: &quot;Padre perdona loro perché non sanno quello che fanno&quot; (Lc 23,34).<br /><br />
+<br /><br />
+      Ed è altrettanto vero che il segno evidente di un&#039;anima non ancora purificata dei vizi è che gli errori del prossimo non trovano in lei che la censura rigida del giudizio, piuttosto che il sentimento di misericordia e compassione. Come aspirare alla perfezione del cuore, se non si ha ciò che, a dire dell&#039;Apostolo, è la pienezza della Legge: &quot;Portate i pesi gli uni degli altri, così adempirete la legge di Cristo&quot; (Ga 6,2), se non si possiede la virtù della carità che &quot;non si adira, non si gonfia, non non tiene conto del male ricevuto, tutto scusa, tutto sopporta&quot; (1 Co 13,4-7)? Poiché &quot;il giusto ha pietà dei peccati che sono in lui, ma le viscere degli empi sono senza misericordia&quot; (Pr 12,10 LXX).<br /><br />
+<br /><br />
+      Il monaco, è cosa certa, è soggetto agli stessi vizi che condanna negli altri con una severità rigorosa e disumana. Infatti &quot;Il re severo cadrà in disgrazia&quot; (Pr 13,17 LXX); e &quot;Colui che chiude l&#039;orecchio al grido del povero, griderà lui stesso e non troverà chi lo ascolta&quot; (Pr 21,13 LXX). <br />
+</font><br />
+
+##########
+
+##########
+Libro della Genesi <font dir="ltr">12,1-9.</font>@@@@@In quei giorni, il Signore disse ad Abram: &quot;Vàttene dal tuo paese, dalla tua patria e dalla casa di tuo padre, verso il paese che io ti indicherò.<br /><br />
+Farò di te un grande popolo e ti benedirò, renderò grande il tuo nome e diventerai una benedizione.<br /><br />
+Benedirò coloro che ti benediranno e coloro che ti malediranno maledirò e in te si diranno benedette tutte le famiglie della terra&quot;.<br /><br />
+Allora Abram partì, come gli aveva ordinato il Signore, e con lui partì Lot. Abram aveva settantacinque anni quando lasciò Carran.<br /><br />
+Abram dunque prese la moglie Sarai, e Lot, figlio di suo fratello, e tutti i beni che avevano acquistati in Carran e tutte le persone che lì si erano procurate e si incamminarono verso il paese di Cànaan. Arrivarono al paese di Cànaan<br /><br />
+e Abram attraversò il paese fino alla località di Sichem, presso la Quercia di More. Nel paese si trovavano allora i Cananei.<br /><br />
+Il Signore apparve ad Abram e gli disse: &quot;Alla tua discendenza io darò questo paese&quot;. Allora Abram costruì in quel posto un altare al Signore che gli era apparso.<br /><br />
+Di là passò sulle montagne a oriente di Betel e piantò la tenda, avendo Betel ad occidente e Ai ad oriente. Lì costruì un altare al Signore e invocò il nome del Signore.<br /><br />
+Poi Abram levò la tenda per accamparsi nel Negheb.<br />
+
+##########
+Salmi <font dir="ltr">33(32),12-13.18-19.20.22.</font>@@@@@Beata la nazione il cui Dio è il Signore, <br /><br />
+il popolo che si è scelto come erede.<br /><br />
+Il Signore guarda dal cielo, <br /><br />
+egli vede tutti gli uomini.<br /><br />
+<br /><br />
+Ecco, l&#039;occhio del Signore veglia su chi lo teme, <br /><br />
+su chi spera nella sua grazia,<br /><br />
+per liberarlo dalla morte <br /><br />
+e nutrirlo in tempo di fame.<br /><br />
+<br /><br />
+L&#039;anima nostra attende il Signore, <br /><br />
+egli è nostro aiuto e nostro scudo.<br /><br />
+Signore, sia su di noi la tua grazia, <br /><br />
+perché in te speriamo.<br />
+
+##########
+Dal Vangelo di Gesù Cristo secondo Matteo <font dir="ltr">7,1-5.</font>@@@@@In quel tempo, Gesù disse ai suoi discepoli: «Non giudicate, per non essere giudicati;<br /><br />
+perché col giudizio con cui giudicate sarete giudicati, e con la misura con la quale misurate sarete misurati.<br /><br />
+Perché osservi la pagliuzza nell&#039;occhio del tuo fratello, mentre non ti accorgi della trave che hai nel tuo occhio?<br /><br />
+O come potrai dire al tuo fratello: permetti che tolga la pagliuzza dal tuo occhio, mentre nell&#039;occhio tuo c&#039;è la trave?<br /><br />
+Ipocrita, togli prima la trave dal tuo occhio e poi ci vedrai bene per togliere la pagliuzza dall&#039;occhio del tuo fratello».<br />
+
+##########
+S. Giuseppe Cafasso, sacerdote (1811-1860)
+##########
+@@@@@<br />
 <br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+
+##########
+Lunedì della XII settimana delle ferie del Tempo Ordinario
+##########
+A @@@  @@@  @@@  @@@   

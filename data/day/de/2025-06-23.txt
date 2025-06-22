@@ -1,6 +1,55 @@
+            Hl. Etheldreda von Ely (Edeltraud)<br />
+                Hl. Zeno von Philadelphia<br />
+                Hl. Hildulf von Lobbes<br />
+                Hl. Josef Cafasso<br />
+    
+##########
+<font style="align-text:left" dir="ltr">Nicht richten, um Gott nachzuahmen</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+Ist jemand dahin gelangt, das Gute zu lieben und Gott nachzuahmen […], wird er die Gesinnung der Langmut annehmen, die dem Herrn eigen war, und ebenso wie dieser für seine Verfolger beten: „Vater, vergib ihnen, denn sie wissen nicht, was sie tun“ (Lk 23,34).<br /><br />
+ <br /><br />
+Auf der anderen Seite erkennt man eine noch nicht von den Lastern gereinigte Seele deutlich daran, dass die Fehler ihres Nächsten statt Barmherzigkeit und Mitleid nur das strenge Urteil eines Richters in ihr hervorrufen. Wie kann man die Vollkommenheit des Herzens erlangen, wenn einem das fehlt, was nach den Worten des Apostels die Erfüllung des Gesetzes ist: „Einer trage des anderen Last, so werdet ihr das Gesetz Christi erfüllen“ (Gal 6,2); wenn man die Tugend der Liebe nicht besitzt, die „sich nicht ereifert, nicht aufbläht, das Böse nicht nachträgt, die alles erträgt und allem standhält“ (vgl. 1 Kor 13,4-7)? Denn „der Gerechte hat Mitgefühl mit seinem Vieh, das Gemüt der Gottlosen aber ist erbarmungslos“ (Spr 12,10 LXX).  <br /><br />
+ <br /><br />
+Der Mönch – das steht fest – unterliegt den gleichen Lastern, die er bei anderen mit harter und unmenschlicher Strenge verurteilt. Tatsächlich heißt es: „Der strenge König wird ins Unglück stürzen“ (Spr 13,17 LXX); und: „Wer sein Ohr verstopft, um den Schwachen nicht zu hören, wird selbst rufen, und keiner wird da sein, der ihn hört“ (Spr 21,13 LXX).<br /><br />
+ <br /><br />
 <br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+</font><br />
+
+##########
+
+##########
+Buch Genesis  <font dir="ltr">12,1-9.</font>@@@@@In jenen Tagen sprach der HERR zu Abram: Geh fort aus deinem Land, aus deiner Verwandtschaft und aus deinem Vaterhaus in das Land, das ich dir zeigen werde!<br /><br />
+Ich werde dich zu einem großen Volk machen, dich segnen und deinen Namen groß machen. Ein Segen sollst du sein.<br /><br />
+Ich werde segnen, die dich segnen; wer dich verwünscht, den werde ich verfluchen. Durch dich sollen alle Sippen der Erde Segen erlangen.<br /><br />
+Da ging Abram, wie der HERR ihm gesagt hatte, und mit ihm ging auch Lot. Abram war fünfundsiebzig Jahre alt, als er von Haran auszog.<br /><br />
+Abram nahm seine Frau Sarai mit, seinen Neffen Lot und alle ihre Habe, die sie erworben hatten, und alle, die sie in Haran hinzugewonnen hatten. Sie zogen aus, um in das Land Kanaan zu gehen, und sie kamen in das Land Kanaan.<br /><br />
+Abram zog durch das Land bis zur Stätte von Sichem, bis zur Orakeleiche. Die Kanaaniter waren damals im Land.<br /><br />
+Der HERR erschien Abram und sprach: Deinen Nachkommen gebe ich dieses Land. Dort baute er dem HERRN, der ihm erschienen war, einen Altar.<br /><br />
+Von da brach er auf zu dem Gebirge östlich von Bet-El und schlug sein Zelt so auf, dass er Bet-El im Westen und Ai im Osten hatte. Dort baute er dem HERRN einen Altar und rief den Namen des HERRN an.<br /><br />
+Dann zog Abram immer weiter, dem Negeb zu.<br />
+
+##########
+Psalmen <font dir="ltr">33(32),12-13.18-19.20.22.</font>@@@@@Selig die Nation, deren Gott der HERR ist, <br /><br />
+das Volk, das er sich zum Erbteil erwählt hat.<br /><br />
+Der HERR blickt herab vom Himmel, er sieht alle Menschen.<br /><br />
+Siehe, das Auge des HERRN ruht auf denen, die ihn fürchten, die seine Huld erwarten,<br /><br />
+<br /><br />
+dass er ihre Seele dem Tod entreiße und, wenn sie hungern, sie am Leben erhalte.<br /><br />
+Unsre Seele hofft auf den HERRN; er ist unsre Hilfe und unser Schild.<br /><br />
+Lass deine Huld über uns walten, o HERR, wie wir auf dich hofften!<br />
+
+##########
+Aus dem Heiligen Evangelium nach Matthäus - Mt  <font dir="ltr">7,1-5.</font>@@@@@In jener Zeit sprach Jesus zu seinen Jüngern: Richtet nicht, damit ihr nicht gerichtet werdet!<br /><br />
+Denn wie ihr richtet, so werdet ihr gerichtet werden und nach dem Maß, mit dem ihr messt, werdet ihr gemessen werden.<br /><br />
+Warum siehst du den Splitter im Auge deines Bruders, aber den Balken in deinem Auge bemerkst du nicht?<br /><br />
+Oder wie kannst du zu deinem Bruder sagen: Lass mich den Splitter aus deinem Auge herausziehen! – und siehe, in deinem Auge steckt ein Balken!<br /><br />
+Du Heuchler! Zieh zuerst den Balken aus deinem Auge, dann kannst du zusehen, den Splitter aus dem Auge deines Bruders herauszuziehen!<br />
+
+##########
+Hl. Etheldreda von Ely (Edeltraud)
+##########
+@@@@@<br />
+
+##########
+Montag der 12. Woche im Jahreskreis
+##########
+A @@@  @@@  @@@  @@@   
