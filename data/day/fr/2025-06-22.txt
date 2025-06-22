@@ -1,6 +1,71 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            St Paulin, évêque († 431)<br />
+                St Thomas More, martyr († 1535)<br />
+                St Jean Fisher, évêque et martyr († 1535)<br />
+                St Flavius Clemens, martyr († 94)<br />
+                St Alban, soldat et martyr († v. 287)<br />
+                Sts Jules et Aaron, martyrs († fin IIIe s.)<br />
+                St Eusèbe de Samosate, évêque et martyr († 381)<br />
+                St Nicétas, évêque († 414)<br />
+                Bx Innocent V, pape o.p. (183e) en 1276<br />
+    
+##########
+<font style="align-text:left" dir="ltr">Recevons dans notre cœur celui qui nous sanctifie</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+            Lorsque Jésus donna le pain et le vin consacrés à ses disciples, il s’exprima ainsi&amp;nbsp;: «&amp;nbsp;Ceci est mon corps… ceci est mon sang&amp;nbsp;» (Mt 26,26.28). (…)<br /><br />
+<br /><br />
+            Le pain est nécessairement fait de nombreux grains de blé réduits en farine pétrie avec de l’eau&amp;nbsp;; il est achevé par la cuisson sur le feu. Aussi voit-on en lui avec raison la figure du Corps du Christ. Car nous savons que ce Corps unique est constitué par la multitude du genre humain tout entier et soudé au feu du Saint-Esprit.<br /><br />
+<br /><br />
+            Jésus est né en effet de l’Esprit Saint&amp;nbsp;; et parce qu’il devait accomplir ainsi toute justice, il est entré dans l’eau du baptême pour la consacrer et il est sorti du Jourdain, rempli de l’Esprit Saint qui était descendu sur lui sous la forme d’une colombe, selon le témoignage de l’Évangile&amp;nbsp;: «&amp;nbsp;Jésus, rempli de l’Esprit Saint, revint des bords du Jourdain&amp;nbsp;» (Lc 4,1).<br /><br />
+<br /><br />
+            Le sang du Christ est un vin pressé au pressoir de la croix, il est tiré des nombreux raisins de la vigne que Jésus a plantée lui-même et il fermente par sa propre vertu dans les amphores que sont les cœurs fidèles de ceux qui le boivent.<br /><br />
+<br /><br />
+            Ce sacrifice de la Pâque du Sauveur, nous tous qui sortons de l’emprise du Pharaon d’Égypte, le diable, recevons-le avec l’avidité religieuse de notre cœur. Ainsi, le plus intime de notre être sera sanctifié par notre Seigneur Jésus Christ lui-même que nous croyons présent dans ses sacrements. Sa force inestimable demeure pour l’éternité.<br />
+</font><br />
+
+##########
+<font style="align-text:left" dir="ltr">Saint Sacrement du Corps et du Sang du Christ, solennité</font>
+##########
+Livre de la Genèse <font dir="ltr">14,18-20.</font>@@@@@En ces jours-là, Melkisédek, roi de Salem, fit apporter du pain et du vin : il était prêtre du Dieu très-haut.<br /><br />
+Il le bénit en disant : « Béni soit Abram par le Dieu très-haut, qui a créé le ciel et la terre ;<br /><br />
+et béni soit le Dieu très-haut, qui a livré tes ennemis entre tes mains. » Et Abram lui donna le dixième de tout ce qu’il avait pris.<br />
+
+##########
+Psaume <font dir="ltr">110(109),1.2.3.4.</font>@@@@@Oracle du Seigneur à mon seigneur : <br /><br />
+« Siège à ma droite, <br /><br />
+et je ferai de tes ennemis <br /><br />
+le marchepied de ton trône. »<br /><br />
+<br /><br />
+De Sion, le Seigneur te présente <br /><br />
+le sceptre de ta force : <br /><br />
+« Domine jusqu&#039;au cœur de l&#039;ennemi. »<br /><br />
+<br /><br />
+Le jour où paraît ta puissance, <br /><br />
+tu es prince, éblouissant de sainteté : <br /><br />
+« Comme la rosée qui naît de l&#039;aurore,<br /><br />
+je t&#039;ai engendré. »<br /><br />
+<br /><br />
+Le Seigneur l&#039;a juré <br /><br />
+dans un serment irrévocable : <br /><br />
+« Tu es prêtre à jamais <br /><br />
+selon l&#039;ordre du roi Melkisédek. »<br />
+
+##########
+Évangile de Jésus-Christ selon saint Luc <font dir="ltr">9,11b-17.</font>@@@@@En ce temps-là, Jésus parlait aux foules du règne de Dieu et guérissait ceux qui en avaient besoin.<br /><br />
+Le jour commençait à baisser. Alors les Douze s’approchèrent de lui et lui dirent : « Renvoie cette foule : qu’ils aillent dans les villages et les campagnes des environs afin d’y loger et de trouver des vivres ; ici nous sommes dans un endroit désert. »<br /><br />
+Mais il leur dit : « Donnez-leur vous-mêmes à manger. » Ils répondirent : « Nous n’avons pas plus de cinq pains et deux poissons. À moins peut-être d’aller nous-mêmes acheter de la nourriture pour tout ce peuple. »<br /><br />
+Il y avait environ cinq mille hommes. Jésus dit à ses disciples : « Faites-les asseoir par groupes de cinquante environ. »<br /><br />
+Ils exécutèrent cette demande et firent asseoir tout le monde.<br /><br />
+Jésus prit les cinq pains et les deux poissons, et, levant les yeux au ciel, il prononça la bénédiction sur eux, les rompit et les donna à ses disciples pour qu’ils les distribuent à la foule.<br /><br />
+Ils mangèrent et ils furent tous rassasiés ; puis on ramassa les morceaux qui leur restaient : cela faisait douze paniers.<br />
+
+##########
+St Paulin, évêque († 431)
+##########
+Première lettre de saint Paul Apôtre aux Corinthiens <font dir="ltr">11,23-26.</font>@@@@@Frères, moi, Paul, j’ai moi-même reçu ce qui vient du Seigneur, et je vous l’ai transmis : la nuit où il était livré, le Seigneur Jésus prit du pain,<br /><br />
+puis, ayant rendu grâce, il le rompit, et dit : « Ceci est mon corps, qui est pour vous. Faites cela en mémoire de moi. »<br /><br />
+Après le repas, il fit de même avec la coupe, en disant : « Cette coupe est la nouvelle Alliance en mon sang. Chaque fois que vous en boirez, faites cela en mémoire de moi. »<br /><br />
+Ainsi donc, chaque fois que vous mangez ce pain et que vous buvez cette coupe, vous proclamez la mort du Seigneur, jusqu’à ce qu’il vienne.<br />
+
+##########
+Saint Sacrement du Corps et du Sang du Christ, solennité
+##########
+A @@@  @@@  @@@  @@@   
