@@ -1,6 +1,77 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            St. Judith<br />
+    
+##########
+<font style="align-text:left" dir="ltr">"Peter will be the rocky foundation on which he will build the edifice of the Church"</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+&quot;You are Peter, and on this rock I will build my Church.... I will give you the keys of the Kingdom of Heaven, and whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven&quot;. In themselves, the three metaphors that Jesus uses are crystal clear:  Peter will be the rocky foundation on which he will build the edifice of the Church; he will have the keys of the Kingdom of Heaven to open or close it to people as he sees fit; lastly, he will be able to bind or to loose, in the sense of establishing or prohibiting whatever he deems necessary for the life of the Church. It is always Christ&#039;s Church…<br /><br />
+<br /><br />
+This pre-eminent position that Jesus wanted to bestow upon Peter is also encountered after the Resurrection (Mk 16:7; Jn 20:2.4-6)…  Then, Peter was to be the first witness of an appearance of the Risen One (cf. Lk 24: 34; I Cor 15: 5). His role, decisively emphasized (cf. Jn 20: 3-10), marks the continuity between the pre-eminence he had in the group of the Apostles and the pre-eminence he would continue to have in the community born with the paschal events… Moreover, the fact that several of the key texts that refer to Peter can be traced back to the context of the Last Supper, during which Christ conferred upon Peter the ministry of strengthening his brethren (cf. Lk 22: 31ff.)…<br /><br />
+<br /><br />
+This contextualization of the Primacy of Peter at the Last Supper, at the moment of the Institution of the Eucharist, the Lord&#039;s Pasch, also points to the ultimate meaning of this Primacy:  Peter must be the custodian of communion with Christ for all time. He must guide people to communion with Christ; he must ensure that the net does not break (Jn 21:11), and consequently that universal communion endures. Only together can we be with Christ, who is Lord of all. Thus, Peter is responsible for guaranteeing communion with Christ with the love of Christ, guiding people to fulfil this love in everyday life. Let us pray that the Primacy of Peter, entrusted to poor human beings, will always be exercised in this original sense as the Lord desired, and that its true meaning will therefore always be recognized by the brethren who are not yet in full communion with us.<br />
+</font><br />
+
+##########
+<font style="align-text:left" dir="ltr">Saints Peter and Paul, apostles - Solemnity</font>
+##########
+Acts of the Apostles <font dir="ltr">12,1-11.</font>@@@@@In those days, King Herod laid hands upon some members of the Church to harm them.<br /><br />
+He had James, the brother of John, killed by the sword,<br /><br />
+and when he saw that this was pleasing to the Jews he proceeded to arrest Peter also. (It was (the) feast of Unleavened Bread.)<br /><br />
+He had him taken into custody and put in prison under the guard of four squads of four soldiers each. He intended to bring him before the people after Passover.<br /><br />
+Peter thus was being kept in prison, but prayer by the church was fervently being made to God on his behalf.<br /><br />
+On the very night before Herod was to bring him to trial, Peter, secured by double chains, was sleeping between two soldiers, while outside the door guards kept watch on the prison.<br /><br />
+Suddenly the angel of the Lord stood by him and a light shone in the cell. He tapped Peter on the side and awakened him, saying, &quot;Get up quickly.&quot; The chains fell from his wrists.<br /><br />
+The angel said to him, &quot;Put on your belt and your sandals.&quot; He did so. Then he said to him, &quot;Put on your cloak and follow me.&quot;<br /><br />
+So he followed him out, not realizing that what was happening through the angel was real; he thought he was seeing a vision.<br /><br />
+They passed the first guard, then the second, and came to the iron gate leading out to the city, which opened for them by itself. They emerged and made their way down an alley, and suddenly the angel left him.<br /><br />
+Then Peter recovered his senses and said, &quot;Now I know for certain that (the) Lord sent his angel and rescued me from the hand of Herod and from all that the Jewish people had been expecting.&quot;<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Psalms <font dir="ltr">34(33),2-3.4-5.6-7.8-9.</font>@@@@@I will bless the LORD at all times; <br /><br />
+his praise shall be ever in my mouth.<br /><br />
+Let my soul glory in the LORD; <br /><br />
+the lowly will hear me and be glad.<br /><br />
+<br /><br />
+Glorify the LORD with me, <br /><br />
+let us together extol his name.<br /><br />
+I sought the LORD, and he answered me <br /><br />
+and delivered me from all my fears.<br /><br />
+<br /><br />
+Look to him that you may be radiant with joy, <br /><br />
+and your faces may not blush with shame.<br /><br />
+When the poor one called out, the LORD heard, <br /><br />
+and from all his distress he saved him.<br /><br />
+<br /><br />
+The angel of the LORD encamps <br /><br />
+around those who fear him, and delivers them.<br /><br />
+Taste and see how good the LORD is; <br /><br />
+blessed the man who takes refuge in him.<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Holy Gospel of Jesus Christ according to Saint Matthew <font dir="ltr">16,13-19.</font>@@@@@Jesus went into the region of Caesarea Philippi and he asked his disciples, “Who do people say that the Son of Man is?”<br /><br />
+They replied, &quot;Some say John the Baptist, others Elijah, still others Jeremiah or one of the prophets.&quot;<br /><br />
+He said to them, &quot;But who do you say that I am?&quot;<br /><br />
+Simon Peter said in reply, &quot;You are the Messiah, the Son of the living God.&quot;<br /><br />
+Jesus said to him in reply, &quot;Blessed are you, Simon son of Jonah. For flesh and blood has not revealed this to you, but my heavenly Father.<br /><br />
+And so I say to you, you are Peter, and upon this rock I will build my church, and the gates of the netherworld shall not prevail against it.<br /><br />
+I will give you the keys to the kingdom of heaven. Whatever you bind on earth shall be bound in heaven; and whatever you loose on earth shall be loosed in heaven.&quot;<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+St. Judith
+##########
+Second Letter to Timothy <font dir="ltr">4,6-8.17-18.</font>@@@@@Beloved: I am already being poured out like a libation, and the time of my departure is at hand.<br /><br />
+I have competed well; I have finished the race; I have kept the faith.<br /><br />
+From now on the crown of righteousness awaits me, which the Lord, the just judge, will award to me on that day, and not only to me, but to all who have longed for his appearance.<br /><br />
+But the Lord stood by me and gave me strength, so that through me the proclamation might be completed and all the Gentiles might hear it. And I was rescued from the lion&#039;s mouth.<br /><br />
+The Lord will rescue me from every evil threat and will bring me safe to his heavenly kingdom. To him be glory forever and ever. Amen.<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Saints Peter and Paul, apostles - Solemnity
+##########
+A @@@  @@@  @@@  @@@   

@@ -1,6 +1,71 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            St. Camillus of Lellis, Priest (1550-1614)<br />
+                St. Kateri Tekakwitha, Virgin (1656-1680)<br />
+                St. Francis Solano, Priest (1549-1610)<br />
+    
+##########
+<font style="align-text:left" dir="ltr">"Whoever finds his life will lose it, and whoever loses his life for my sake will find it"</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+Let us consider these words of our Lord: that he wants “to draw all things to himself” (Jn 12,32 Vg). Someone who wants to draw all things, first of all gathers them together and afterward draws them. This is what our Lord does: first of all he calls us back from straying about and wandering outside, making us collect our senses, faculties, words, deeds and, within, our thoughts, intention, imagination, desires, inclinations, mind, will and love. Then, when everything is rightfully returned to good order, God draws us to himself. For we must first of all be separated from every exterior or interior possession to which we are attached, putting all our satisfaction in them. This kind of detachment is a painful cross, and all the more painful as the attachment is more firm and more strong...<br /><br />
+<br /><br />
+Why does God rarely allow one day and night to resemble the previous day and night? Why is it that what helped your devotion today is of no help at all tomorrow? Why do you have a host of images and thoughts that come to nothing? My dear child, accept this cross from God and bear it: it will turn into a truly lovable cross if you would hand these trials over to God, accept them from him with true abandonment and thank God for them: “My soul magnifies the Lord” in everything (cf Lk 1,46). Whether God takes or gives, the Son of Man must be raised up on the cross... Dear child, leave all that behind; rather, give your attention to true abandonment...and think about accepting to bear the cross of temptation rather than going in search of spiritual sweetness... Our Lord has said: “If anyone wishes to come after me, let him take up his cross and follow me” (Lk 9,23).<br />
+</font><br />
+
+##########
+
+##########
+Book of Exodus <font dir="ltr">1,8-14.22.</font>@@@@@A new king, who knew nothing of Joseph, came to power in Egypt.<br /><br />
+He said to his subjects, &quot;Look how numerous and powerful the Israelite people are growing, more so than we ourselves!<br /><br />
+Come, let us deal shrewdly with them to stop their increase; otherwise, in time of war they too may join our enemies to fight against us, and so leave our country.&quot;<br /><br />
+Accordingly, taskmasters were set over the Israelites to oppress them with forced labor. Thus they had to build for Pharaoh the supply cities of Pithom and Raamses.<br /><br />
+Yet the more they were oppressed, the more they multiplied and spread. The Egyptians, then, dreaded the Israelites<br /><br />
+and reduced them to cruel slavery,<br /><br />
+making life bitter for them with hard work in mortar and brick and all kinds of field work--the whole cruel fate of slaves.<br /><br />
+Pharaoh then commanded all his subjects, &quot;Throw into the river every boy that is born to the Hebrews, but you may let all the girls live.&quot;<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Psalms <font dir="ltr">124(123),1-3.4-6.7-8.</font>@@@@@Had not the LORD been with us– <br /><br />
+let Israel say, had not the LORD been with us–<br /><br />
+When men rose up against us,<br /><br />
+then would they have swallowed us alive, <br /><br />
+When their fury was inflamed against us.  <br /><br />
+<br /><br />
+Then would the waters have overwhelmed us; <br /><br />
+The torrent would have swept over us;<br /><br />
+over us then would have swept the raging waters.<br /><br />
+Blessed be the LORD, who did not leave us <br /><br />
+a prey to their teeth.  <br /><br />
+<br /><br />
+We were rescued like a bird <br /><br />
+from the fowlers’ snare; <br /><br />
+Broken was the snare, <br /><br />
+and we were freed.<br /><br />
+Our help is in the name of the LORD, <br /><br />
+who made heaven and earth.<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Holy Gospel of Jesus Christ according to Saint Matthew <font dir="ltr">10,34-42.11,1.</font>@@@@@Jesus said to his Apostles: “Do not think that I have come to bring peace upon the earth. I have come to bring not peace but the sword.<br /><br />
+For I have come to set a man &#039;against his father, a daughter against her mother, and a daughter-in-law against her mother-in-law;<br /><br />
+and one&#039;s enemies will be those of his household.&#039;<br /><br />
+Whoever loves father or mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me;<br /><br />
+and whoever does not take up his cross and follow after me is not worthy of me.<br /><br />
+Whoever finds his life will lose it, and whoever loses his life for my sake will find it.<br /><br />
+Whoever receives you receives me, and whoever receives me receives the one who sent me.<br /><br />
+Whoever receives a prophet because he is a prophet will receive a prophet&#039;s reward, and whoever receives a righteous man because he is righteous will receive a righteous man&#039;s reward.<br /><br />
+And whoever gives only a cup of cold water to one of these little ones to drink because he is a disciple--amen, I say to you, he will surely not lose his reward.&quot;<br /><br />
+When Jesus finished giving these commands to his twelve disciples, he went away from that place to teach and to preach in their towns.<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+St. Camillus of Lellis, Priest (1550-1614)
+##########
+@@@@@<br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Monday of the Fifteenth week in Ordinary Time
+##########
+A @@@  @@@  @@@  @@@   

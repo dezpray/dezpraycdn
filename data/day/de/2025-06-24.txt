@@ -1,6 +1,65 @@
+            Hl. Irenäus<br />
+                Hl. Vincenza Gerosa<br />
+                Hl. Eckhard<br />
+                Hl. Paul I.<br />
+                Hl. Theodechild<br />
+    
+##########
+<font style="align-text:left" dir="ltr">Die Tugenden der allerseligsten Jungfrau</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+ <br /><br />
+Während der Messe aber, in der sie kommunizieren sollte, sah sie die glorreiche Mutter des Herrn mit der Schönheit aller Tugenden geschmückt, warf sich demütig zu ihren Füßen nieder und bat, sie möchte sie zum Empfang des verehrungswürdigen Sakramentes des Leibes und Blutes ihres Sohnes vorbereiten. Hierauf legte die seligste Jungfrau ihr ein hell glänzendes Geschmeide auf die Brust, welches die Gestalt von sieben Hörnern und in jedem Horn einen kostbaren Edelstein hatte, als Sinnbild der vorzüglichsten Tugenden, durch welche die seligste Jungfrau dem Herrn gefallen hatte.<br /><br />
+ <br /><br />
+Der erste Edelstein war die anlockende Reinheit, der zweite die fruchtbringende Demut, der dritte die glühende Sehnsucht, der vierte die klare Erkenntnis, der fünfte die unauslöschliche Liebe, der sechste die außerordentliche Freude an Gott und der siebte die friedliche Ruhe. Als Gertrud nun mit diesem Geschmeide vor dem göttlichen Angesicht erschien, wurde der Herr durch den Schmuck jener Tugenden so sehr erfreut und angezogen, dass er, gleichsam von Liebe gefesselt, mit der ganzen Kraft seiner Gottheit sich zu ihr hinneigte und sie ganz in sich hineinzog, sie liebevoll an sein Herz drückte und sie mit Zärtlichkeiten überschüttete.<br /><br />
+ <br /><br />
+[…] Da schien der Heilige Geist, ausgehend aus dem Herzen des Herrn, wie eine unendlich zarte Brise zu wehen. Und mit seinem sanften Hauch bewegte er sachte die sieben Edelsteine des Geschmeides ihrer Seele, und, als wären es Musikinstrumente, ließen sie die Antiphon zu Ehren der allerheiligsten Dreifaltigkeit erklingen.<br /><br />
+ <br /><br />
 <br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+</font><br />
+
+##########
+
+##########
+Buch Jesaja  <font dir="ltr">61,9-11.</font>@@@@@So spricht der Herr: Die Nachkommen meines Volkes werden unter den Nationen bekannt sein und ihre Sprösslinge inmitten der Völker. Jeder, der sie sieht, wird sie erkennen: Das sind die Nachkommen, die der HERR gesegnet hat.<br /><br />
+Von Herzen freue ich mich am HERRN. Meine Seele jubelt über meinen Gott. Denn er kleidet mich in Gewänder des Heils, er hüllt mich in den Mantel der Gerechtigkeit, wie ein Bräutigam sich festlich schmückt und wie eine Braut ihr Geschmeide anlegt.<br /><br />
+Denn wie die Erde ihr Gewächs hervorbringt und der Garten seine Saat sprießen lässt, so lässt GOTT, der Herr, Gerechtigkeit sprießen und Ruhm vor allen Nationen.<br />
+
+##########
+Erstes Buch Samuel  <font dir="ltr">2,1bcde.4-5ab.6-7.8.</font>@@@@@Mein Herz ist voll Freude über den Herrn,<br /><br />
+erhöht ist meine Macht durch den HERRN.<br /><br />
+Weit öffnet sich mein Mund gegen meine Feinde;<br /><br />
+denn ich freue mich über deine Hilfe.<br /><br />
+<br /><br />
+Der Bogen der Helden wird zerbrochen, die Wankenden aber gürten sich mit Kraft.<br /><br />
+Die Satten verdingen sich um Brot,<br /><br />
+und die Hungrigen gibt es nicht mehr.<br /><br />
+Der HERR macht tot und lebendig, er führt zum Totenreich hinab und führt auch herauf.<br /><br />
+<br /><br />
+Der HERR macht arm und macht reich, er erniedrigt und er erhöht.<br /><br />
+Den Schwachen hebt er empor aus dem Staub<br /><br />
+und erhöht den Armen, der im Schmutz liegt;<br /><br />
+er gibt ihm einen Sitz bei den Edlen,<br /><br />
+<br /><br />
+einen Ehrenplatz weist er ihm zu.<br />
+
+##########
+Aus dem Heiligen Evangelium nach Lukas - Lk  <font dir="ltr">2,41-51.</font>@@@@@Die Eltern Jesu gingen jedes Jahr zum Paschafest nach Jerusalem.<br /><br />
+Als er zwölf Jahre alt geworden war, zogen sie wieder hinauf, wie es dem Festbrauch entsprach.<br /><br />
+Nachdem die Festtage zu Ende waren, machten sie sich auf den Heimweg. Der Knabe Jesus aber blieb in Jerusalem, ohne dass seine Eltern es merkten.<br /><br />
+Sie meinten, er sei in der Pilgergruppe, und reisten eine Tagesstrecke weit; dann suchten sie ihn bei den Verwandten und Bekannten.<br /><br />
+Als sie ihn nicht fanden, kehrten sie nach Jerusalem zurück und suchten nach ihm.<br /><br />
+Da geschah es, nach drei Tagen fanden sie ihn im Tempel; er saß mitten unter den Lehrern, hörte ihnen zu und stellte Fragen.<br /><br />
+Alle, die ihn hörten, waren erstaunt über sein Verständnis und über seine Antworten.<br /><br />
+Als seine Eltern ihn sahen, waren sie voll Staunen und seine Mutter sagte zu ihm: Kind, warum hast du uns das angetan? Siehe, dein Vater und ich haben dich mit Schmerzen gesucht.<br /><br />
+Da sagte er zu ihnen: Warum habt ihr mich gesucht? Wusstet ihr nicht, dass ich in dem sein muss, was meinem Vater gehört?<br /><br />
+Doch sie verstanden das Wort nicht, das er zu ihnen gesagt hatte.<br /><br />
+Dann kehrte er mit ihnen nach Nazaret zurück und war ihnen gehorsam. Seine Mutter bewahrte all die Worte in ihrem Herzen.<br />
+
+##########
+Hl. Irenäus
+##########
+@@@@@<br />
+
+##########
+Gedenktag des Unbefleckten Herz Mariens
+##########
+A @@@  @@@  @@@  @@@   

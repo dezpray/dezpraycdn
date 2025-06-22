@@ -1,6 +1,56 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            Santo Irineu, bispo, mártir, +200<br />
+    
+##########
+@@@@@
+##########
+
+##########
+Livro de Isaías <font dir="ltr">61,9-11.</font>@@@@@A linhagem do povo de Deus será conhecida entre os povos e a sua descendência no meio das nações. Quantos os virem, terão de os reconhecer como linhagem que o Senhor abençoou.<br /><br />
+Exulto de alegria no Senhor, a minha alma rejubila no meu Deus, que me revestiu com as vestes da salvação e me envolveu num manto de justiça, como noivo que cinge a fronte com o diadema e a noiva que se adorna com as suas joias.<br /><br />
+Como a terra faz brotar os germes e o jardim germinar as sementes, assim o Senhor Deus fará brotar a justiça e o louvor diante de todas as nações.<br />
+
+##########
+1.º Livro de Samuel <font dir="ltr">2,1.4-5.6-7.8abcd.</font>@@@@@Exulta o meu coração no Senhor, <br /><br />
+no meu Deus se eleva a minha fronte. <br /><br />
+Abre-se a minha boca contra os inimigos, <br /><br />
+porque me alegro com a vossa salvação.<br /><br />
+<br /><br />
+A arma dos fortes foi destruída <br /><br />
+e os fracos foram revestidos de força.<br /><br />
+Os que viviam na abundância andam em busca de pão <br /><br />
+e os que tinham fome foram saciados.<br /><br />
+A mulher estéril deu à luz muitos filhos  <br /><br />
+e a mãe fecunda deixou de conceber.<br /><br />
+<br /><br />
+É o Senhor quem dá a morte e dá a vida, <br /><br />
+faz-nos descer ao túmulo e de novo nos levanta.<br /><br />
+É o Senhor quem despoja e enriquece, <br /><br />
+é o Senhor quem humilha e exalta.<br /><br />
+<br /><br />
+Levanta do chão os que vivem prostrados,<br /><br />
+retira da miséria os indigentes;<br /><br />
+fá-los sentar entre os príncipes<br /><br />
+e destina-lhes um lugar de honra.<br />
+
+##########
+Evangelho segundo São Lucas <font dir="ltr">2,41-51.</font>@@@@@Os pais de Jesus iam todos os anos a Jerusalém, pela festa da Páscoa.<br /><br />
+Quando Ele fez doze anos, subiram até lá, como era costume nessa festa.<br /><br />
+Quando eles regressavam, passados os dias festivos, o Menino Jesus ficou em Jerusalém, sem que seus pais o soubessem.<br /><br />
+Julgando que Ele vinha na caravana, fizeram um dia de viagem e começaram a procurá-lo entre os parentes e conhecidos.<br /><br />
+Não O encontrando, voltaram a Jerusalém, à sua procura.<br /><br />
+Passados três dias, encontraram-no no Templo, sentado no meio dos doutores, a ouvi-los e a fazer-lhes perguntas.<br /><br />
+Todos aqueles que O ouviam estavam surpreendidos com a sua inteligência e as suas respostas.<br /><br />
+Quando viram Jesus, seus pais ficaram admirados; e sua Mãe disse-Lhe: «Filho, porque procedeste assim connosco? Teu pai e eu andávamos aflitos à tua procura».<br /><br />
+Jesus respondeu-lhes: «Porque Me procuráveis? Não sabíeis que Eu devia estar na casa de meu Pai?».<br /><br />
+Mas eles não entenderam as palavras que Jesus lhes disse.<br /><br />
+Jesus desceu então com eles para Nazaré e era-lhes submisso. Sua Mãe guardava todos estes acontecimentos em seu coração.<br />
+
+##########
+Santo Irineu, bispo, mártir, +200
+##########
+@@@@@<br />
+
+##########
+Imaculado Coração de Maria – memória
+##########
+A @@@  @@@  @@@  @@@   

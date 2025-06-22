@@ -1,6 +1,56 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            Św. Ireneusz<br />
+                Św. Argymir, męczennik w Kordobie (+ 856)<br />
+                Św. Paweł I, papież (+ 767)<br />
+    
+##########
+@@@@@
+##########
+
+##########
+Księga Izajasza <font dir="ltr">61,9-11.</font>@@@@@Plemię ich będzie znane wśród narodów i między ludami – ich potomstwo. Wszyscy, co ich zobaczą, uznają, że oni są błogosławionym szczepem Pana.<br /><br />
+«Ogromnie się weselę w Panu, dusza moja raduje się w Bogu moim, bo mnie przyodział w szaty zbawienia, okrył mnie płaszczem sprawiedliwości, jak oblubieńca, który wkłada zawój, jak oblubienicę strojną w swe klejnoty.<br /><br />
+Zaiste, jak ziemia wydaje swe plony, jak ogród rozplenia swe zasiewy, tak Pan Bóg sprawi, że się rozpleni sprawiedliwość i chwała wobec wszystkich narodów».<br />
+
+##########
+Pierwsza Księga Samuela <font dir="ltr">2,1.4-5.6-7.8abcd.</font>@@@@@Moje serce raduje się w Panu, <br /><br />
+dzięki Niemu moc moja wzrasta. <br /><br />
+Szeroko otwarłem usta przeciw moim wrogom,  <br /><br />
+bo cieszyć się mogę Twoją pomocą.<br /><br />
+<br /><br />
+Łuk potężnych się łamie, <br /><br />
+a mocą przepasują się słabi.<br /><br />
+Syci za chleb się najmują, głodni zaś odpoczywają, <br /><br />
+niepłodna rodzi siedmioro, a matka wielu dzieci usycha.<br /><br />
+<br /><br />
+Pan daje śmierć i życie, <br /><br />
+wtrąca do otchłani i z niej wyprowadza.<br /><br />
+Pan czyni ubogim lub bogatym, <br /><br />
+poniża i wywyższa.<br /><br />
+<br /><br />
+Biedaka z prochu podnosi,<br /><br />
+z błota dźwiga nędzarza,<br /><br />
+by go wśród książąt posadzić<br /><br />
+i dać mu tron chwały.<br />
+
+##########
+Ewangelia wg św. Łukasza <font dir="ltr">2,41-51.</font>@@@@@Rodzice Jezusa chodzili co roku do Jeruzalem na Święto Paschy.<br /><br />
+Gdy miał lat dwanaście, udali się tam zwyczajem świątecznym.<br /><br />
+Kiedy wracali po skończonych uroczystościach, został młody Jezus w Jerozolimie, a tego nie zauważyli Jego rodzice.<br /><br />
+Przypuszczając, że jest wśród pątników, uszli dzień drogi i szukali Go między krewnymi i znajomymi.<br /><br />
+Gdy Go nie znaleźli, wrócili do Jeruzalem, szukając Go.<br /><br />
+Dopiero po trzech dniach odnaleźli Go w świątyni, gdzie siedział między nauczycielami, przysłuchiwał się im i zadawał pytania.<br /><br />
+Wszyscy zaś, którzy Go słuchali, byli zdumieni bystrością Jego umysłu i odpowiedziami.<br /><br />
+Na ten widok zdziwili się bardzo, a Jego Matka rzekła do Niego: «Synu, czemu nam to uczyniłeś? Oto ojciec Twój i ja z bólem serca szukaliśmy Ciebie».<br /><br />
+Lecz On im odpowiedział: «Czemu Mnie szukaliście? Czy nie wiedzieliście, że powinienem być w tym, co należy do mego Ojca?»<br /><br />
+Oni jednak nie zrozumieli tego, co im powiedział.<br /><br />
+Potem poszedł z nimi i wrócił do Nazaretu; i był im poddany. A Matka Jego chowała wiernie wszystkie te wspomnienia w swym sercu.<br />
+
+##########
+Św. Ireneusz
+##########
+@@@@@<br />
+
+##########
+Wspomnienie Niepokalanego Serca Najświętszej Maryi Panny
+##########
+A @@@  @@@  @@@  @@@   

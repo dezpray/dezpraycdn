@@ -1,6 +1,71 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            St. Irenaeus, Bishop and Martyr († 202) - Memorial<br />
+    
+##########
+<font style="align-text:left" dir="ltr">The virtues of the heart of the Virgin Mary</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+During the mass where Gertrude was to commune, she saw the glorious mother of the Lord wonderfully adorned with the brilliance of all virtues. Throwing herself humbly at her feet, the soul began to pray to her to deign to prepare her to receive the very holy body and blood of her son. The blessed virgin then put on her chest a beautiful necklace which had as seven points, and on each a kind of extremely precious stone. <br /><br />
+<br /><br />
+This symbolized the main virtues by which the Virgin had pleased the Lord. The first of the precious stones appeared her attractive purity; the second, her fertile humility; the third, her fervent desires; The fourth, her luminous knowledge; The fifth, her inextinguishable love; the sixth, her sovereign joy; The seventh, her unalterable peace. Now, when the soul presented itself to the eyes of God, adorned with this necklace, the Lord was so charmed and captivated by the beauty of these virtues, that, as delighted with love, he bowed towards her with the omnipotence of his divinity, attracted him-O wonderful! - All of them and, pressing her tenderly on His heart, gave her His affectionate caresses. <br /><br />
+<br /><br />
+(...) The Holy Spirit, like an infinitely light breeze, seemed to come from the heart of the Lord, and, from his breath full of sweetness, gently make the turn of the seven stones of the necklace worn by the soul. They served him as a musical instrument to sing this antiphon to the praise of the Supreme Trinity. <br />
+</font><br />
+
+##########
+<font style="align-text:left" dir="ltr">The memorial of the Immaculate Heart of Mary</font>
+##########
+Book of Isaiah <font dir="ltr">61,9-11.</font>@@@@@Thus says the Lord: The descendants of my people shall be renowned among the nations, and their offspring among the peoples; All who see them shall acknowledge them as a race the LORD has blessed.<br /><br />
+I rejoice heartily in the LORD, in my God is the joy of my soul; For he has clothed me with a robe of salvation, and wrapped me in a mantle of justice, Like a bridegroom adorned with a diadem, like a bride bedecked with her jewels.<br /><br />
+As the earth brings forth its plants, and a garden makes its growth spring up, So will the Lord GOD make justice and praise spring up before all the nations.<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+1st book of Samuel <font dir="ltr">2,1.4-5.6-7.8abcd.</font>@@@@@My heart exults in the LORD, <br /><br />
+my horn is exalted in my God. <br /><br />
+I have swallowed up my enemies; <br /><br />
+I rejoice in my victory.<br /><br />
+<br /><br />
+The bows of the mighty are broken, <br /><br />
+while the tottering gird on strength.<br /><br />
+The well-fed hire themselves out for bread, <br /><br />
+while the hungry batten on spoil. <br /><br />
+The barren wife bears seven sons, <br /><br />
+while the mother of many languishes.<br /><br />
+<br /><br />
+The LORD puts to death and gives life; <br /><br />
+He casts down to the nether world; <br /><br />
+He raises up again.<br /><br />
+The LORD makes poor and makes rich, <br /><br />
+He humbles, he also exalts.<br /><br />
+<br /><br />
+He raises the needy from the dust;<br /><br />
+from the dung heap he lifts up the poor,<br /><br />
+to seat them with nobles<br /><br />
+and make a glorious throne their heritage.<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Holy Gospel of Jesus Christ according to Saint Luke <font dir="ltr">2,41-51.</font>@@@@@Each year Jesus&#039; parents went to Jerusalem for the feast of Passover,<br /><br />
+and when he was twelve years old, they went up according to festival custom.<br /><br />
+After they had completed its days, as they were returning, the boy Jesus remained behind in Jerusalem, but his parents did not know it.<br /><br />
+Thinking that he was in the caravan, they journeyed for a day and looked for him among their relatives and acquaintances,<br /><br />
+but not finding him, they returned to Jerusalem to look for him.<br /><br />
+After three days they found him in the temple, sitting in the midst of the teachers, listening to them and asking them questions,<br /><br />
+and all who heard him were astounded at his understanding and his answers.<br /><br />
+When his parents saw him, they were astonished, and his mother said to him, &quot;Son, why have you done this to us? Your father and I have been looking for you with great anxiety.&quot;<br /><br />
+And he said to them, &quot;Why were you looking for me? Did you not know that I must be in my Father&#039;s house?&quot;<br /><br />
+But they did not understand what he said to them.<br /><br />
+He went down with them and came to Nazareth, and was obedient to them; and his mother kept all these things in her heart.<br />
+<br /><br /><br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+St. Irenaeus, Bishop and Martyr († 202) - Memorial
+##########
+@@@@@<br />
+<br />Copyright © Confraternity of Christian Doctrine, USCCB<br />
+<br />To receive the Gospel every morning in your mailbox, subscribe here: <a href="https://dailygospel.org/AM/gospel">dailygospel.org</a>
+##########
+Immaculate Heart of Mary - Memorial
+##########
+A @@@  @@@  @@@  @@@   

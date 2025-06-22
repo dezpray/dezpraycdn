@@ -1,6 +1,64 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            Św. Cyryl Aleksandryjski<br />
+                Św. Anekt, męczennik (+ III/IV w.)<br />
+                Św. Sampson, kapłan (+ 560)<br />
+                Bł. Bonawentura z Gubbio, zakonnik (+ 1232)<br />
+                Św. Jan, kapłan (+ VI w.)<br />
+                Błbł. Maria Magdalena Fontaine i towarzyszki, męczennice (+ 1794)<br />
+    
+##########
+@@@@@
+##########
+
+##########
+Księga Ezechiela <font dir="ltr">34,11-16.</font>@@@@@Tak mówi Pan Bóg: «Oto Ja sam będę szukał moich owiec i będę sprawował nad nimi pieczę.<br /><br />
+Jak pasterz dokonuje przeglądu swojej trzody, wtedy gdy znajdzie się wśród rozproszonych owiec, tak Ja dokonam przeglądu moich owiec i uwolnię je ze wszystkich miejsc, dokąd się rozproszyły w dni ciemne i mroczne.<br /><br />
+Wyprowadzę je spomiędzy narodów i zgromadzę je z różnych krajów, sprowadzę je z powrotem do ich ziemi i paść je będę na górach izraelskich, w dolinach i we wszystkich zamieszkałych miejscach kraju.<br /><br />
+Na dobrym pastwisku będę je pasł, na wyżynach Izraela ma być ich pastwisko. Wtedy będą one leżały na dobrym pastwisku, na tłustym pastwisku paść się będą na górach izraelskich.<br /><br />
+Ja sam będę pasł moje owce i Ja sam będę je układał na legowisku» – mówi Pan Bóg.<br /><br />
+«Zagubioną odszukam, zabłąkaną sprowadzę z powrotem, skaleczoną opatrzę, chorą umocnię, a tłustą i mocną będę ochraniał. Będę pasł sprawiedliwie».<br />
+
+##########
+Księga Psalmów <font dir="ltr">23(22),1-3a.3b-4.5.6.</font>@@@@@Pan jest moim pasterzem: <br /><br />
+niczego mi nie braknie,<br /><br />
+Pozwala mi leżeć na zielonych pastwiskach.<br /><br />
+Prowadzi mnie nad wody, gdzie mogę odpocząć, <br /><br />
+orzeźwia moją duszę.<br /><br />
+<br /><br />
+Wiedzie mnie po właściwych ścieżkach <br /><br />
+przez wzgląd na swoją chwałę.<br /><br />
+Chociażbym przechodził przez ciemną dolinę, <br /><br />
+zła się nie ulęknę, bo Ty jesteś ze mną. <br /><br />
+Kij Twój i laska pasterska są moją pociechą.<br /><br />
+<br /><br />
+Stół dla mnie zastawiasz <br /><br />
+na oczach mych wrogów. <br /><br />
+Namaszczasz mi głowę olejkiem, <br /><br />
+kielich mój pełny po brzegi.<br /><br />
+<br /><br />
+Dobroć i łaska pójdą w ślad za mną <br /><br />
+przez wszystkie dni mego życia <br /><br />
+i zamieszkam w domu Pana <br /><br />
+po najdłuższe czasy.<br />
+
+##########
+Ewangelia wg św. Łukasza <font dir="ltr">15,3-7.</font>@@@@@Jezus opowiedział faryzeuszom i uczonym w Piśmie następującą przypowieść:<br /><br />
+«Któż z was, gdy ma sto owiec, a zgubi jedną z nich, nie zostawia dziewięćdziesięciu dziewięciu na pustyni i nie idzie za zgubioną, aż ją znajdzie?<br /><br />
+A gdy ją znajdzie, bierze z radością na ramiona<br /><br />
+i wraca do domu; sprasza przyjaciół i sąsiadów i mówi im: „Cieszcie się ze mną, bo znalazłem owcę, która mi zginęła”.<br /><br />
+Powiadam wam: Tak samo w niebie większa będzie radość z jednego grzesznika, który się nawraca, niż z dziewięćdziesięciu dziewięciu sprawiedliwych, którzy nie potrzebują nawrócenia».<br />
+
+##########
+Św. Cyryl Aleksandryjski
+##########
+List do Rzymian <font dir="ltr">5,5b-11.</font>@@@@@Bracia: Miłość Boża rozlana jest w sercach naszych przez Ducha Świętego, który został nam dany.<br /><br />
+Chrystus bowiem umarł za nas, jako za grzeszników, w oznaczonym czasie, gdy jeszcze byliśmy bezsilni.<br /><br />
+A nawet za człowieka sprawiedliwego podejmuje się ktoś umrzeć tylko z największą trudnością. Chociaż może jeszcze za człowieka życzliwego odważyłby się ktoś ponieść śmierć.<br /><br />
+Bóg zaś okazuje nam swoją miłość właśnie przez to, że Chrystus umarł za nas, gdy byliśmy jeszcze grzesznikami.<br /><br />
+Tym bardziej więc będziemy przez Niego zachowani od karzącego gniewu, gdy teraz przez krew Jego zostaliśmy usprawiedliwieni.<br /><br />
+Jeżeli bowiem, będąc nieprzyjaciółmi, zostaliśmy pojednani z Bogiem przez śmierć Jego Syna, to tym bardziej, będąc już pojednanymi, dostąpimy zbawienia przez Jego życie.<br /><br />
+I nie tylko to – ale i chlubić się możemy w Bogu przez Pana naszego Jezusa Chrystusa, przez którego teraz uzyskaliśmy pojednanie.<br />
+
+##########
+Uroczystość Najświętszego Serca Pana Jezusa
+##########
+A @@@  @@@  @@@  @@@   

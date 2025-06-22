@@ -1,6 +1,78 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            SS. Pietro e Paolo, apostoli e martiri (solennità)<br />
+                B. Raimondo Lullo, terziario franc. e martire (1235-1316)<br />
+                S. Siro di Genova, vescovo († 381 ca.)<br />
+                S. Cassio di Narni, vescovo († 558)<br />
+                S. Emma di Gurk (A), contessa e benefattrice († 1045)<br />
+                S. Paolo Wu Wanshu, martire con lo zio e cugino († 1900)<br />
+                S. Paolo Wu Juan, martire insieme al figlio († 1900)<br />
+                S. Giovan B. Wu Mantang, martire insieme al padre († 1900)<br />
+                SS. Maria Du Tianshi e Maddalena Du Fengju, martiri († 1900)<br />
+    
+##########
+<font style="align-text:left" dir="ltr">La fede di san Pietro, la roccia su cui Cristo ha fondato la Chiesa</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+      “Tu sei Pietro e su questa pietra edificherò la mia Chiesa. (...) A te darò le chiavi del regno dei cieli, e tutto ciò che legherai sulla terra sarà legato nei cieli e tutto ciò che scioglierai sulla terra sarà sciolto nei cieli&quot; (Mt 16, 18-19). Le tre metafore a cui Gesù ricorre sono in se stesse molto chiare: Pietro sarà il fondamento roccioso su cui poggerà l&#039;edificio della Chiesa; egli avrà le chiavi del Regno dei cieli per aprire o chiudere a chi gli sembrerà giusto; infine, egli potrà legare o sciogliere nel senso che potrà stabilire o proibire ciò che riterrà necessario per la vita della Chiesa, che è e resta di Cristo. (...) <br /><br />
+<br /><br />
+      Questa posizione di preminenza che Gesù ha inteso conferire a Pietro si riscontra anche dopo la risurrezione: (Mc 16,7 ; Gv 20,4-6). (...) Sarà poi Pietro, tra gli Apostoli, il primo testimone di un&#039;apparizione del Risorto (Lc 24,34; 1 Cor 15,5). Questo suo ruolo,  sottolineato con decisione (Gv 20,3-10), segna la continuità fra la preminenza avuta nel gruppo apostolico e la preminenza che continuerà ad avere nella comunità nata con gli eventi pasquali. (...)  Diversi dei testi chiave riferiti a Pietro possono essere ricondotti al contesto dell&#039;Ultima Cena, in cui Cristo conferisce a Pietro il ministero di confermare i fratelli (Lc 22,31)...<br /><br />
+<br /><br />
+      Questa contestualizzazione del Primato di Pietro nell’Ultima Cena, nel momento istitutivo dell’Eucaristia, Pasqua del Signore, indica anche il senso ultimo di questo Primato: Pietro, per tutti i tempi, dev’essere il custode della comunione con Cristo; deve guidare alla comunione con Cristo; deve preoccuparsi che la rete non si rompa (Gv 21,11) e possa così perdurare la comunione universale. Solo insieme possiamo essere con Cristo, che è il Signore di tutti. Responsabilità di Pietro è di garantire così la comunione con Cristo con la carità di Cristo, guidando alla realizzazione di questa carità nella vita di ogni giorno. Preghiamo che il Primato di Pietro, affidato a povere persone umane, possa sempre essere esercitato in questo senso originario voluto dal Signore e possa così essere sempre più riconosciuto nel suo vero significato dai fratelli ancora non in piena comunione con noi.<br />
+</font><br />
+
+##########
+<font style="align-text:left" dir="ltr">Santi Pietro e Paolo, apostoli, solennità</font>
+##########
+Atti degli Apostoli <font dir="ltr">12,1-11.</font>@@@@@In quel tempo il re Erode cominciò a perseguitare alcuni membri della Chiesa<br /><br />
+e fece uccidere di spada Giacomo, fratello di Giovanni.<br /><br />
+Vedendo che questo era gradito ai Giudei, decise di arrestare anche Pietro. Erano quelli i giorni degli Azzimi.<br /><br />
+Fattolo catturare, lo gettò in prigione, consegnandolo in custodia a quattro picchetti di quattro soldati ciascuno, col proposito di farlo comparire davanti al popolo dopo la Pasqua.<br /><br />
+Pietro dunque era tenuto in prigione, mentre una preghiera saliva incessantemente a Dio dalla Chiesa per lui.<br /><br />
+E in quella notte, quando poi Erode stava per farlo comparire davanti al popolo, Pietro piantonato da due soldati e legato con due catene stava dormendo, mentre davanti alla porta le sentinelle custodivano il carcere.<br /><br />
+Ed ecco gli si presentò un angelo del Signore e una luce sfolgorò nella cella. Egli toccò il fianco di Pietro, lo destò e disse: &quot;Alzati, in fretta!&quot;. E le catene gli caddero dalle mani.<br /><br />
+E l&#039;angelo a lui: &quot;Mettiti la cintura e legati i sandali&quot;. E così fece. L&#039;angelo disse: &quot;Avvolgiti il mantello, e seguimi!&quot;.<br /><br />
+Pietro uscì e prese a seguirlo, ma non si era ancora accorto che era realtà ciò che stava succedendo per opera dell&#039;angelo: credeva infatti di avere una visione.<br /><br />
+Essi oltrepassarono la prima guardia e la seconda e arrivarono alla porta di ferro che conduce in città: la porta si aprì da sé davanti a loro. Uscirono, percorsero una strada e a un tratto l&#039;angelo si dileguò da lui.<br /><br />
+Pietro allora, rientrato in sé, disse: &quot;Ora sono veramente certo che il Signore ha mandato il suo angelo e mi ha strappato dalla mano di Erode e da tutto ciò che si attendeva il popolo dei Giudei&quot;.<br />
+
+##########
+Salmi <font dir="ltr">34(33),2-3.4-5.6-7.8-9.</font>@@@@@Benedirò il Signore in ogni tempo, <br /><br />
+sulla mia bocca sempre la sua lode.<br /><br />
+Io mi glorio nel Signore, <br /><br />
+ascoltino gli umili e si rallegrino.<br /><br />
+<br /><br />
+Celebrate con me il Signore, <br /><br />
+esaltiamo insieme il suo nome.<br /><br />
+Ho cercato il Signore e mi ha risposto <br /><br />
+e da ogni timore mi ha liberato.<br /><br />
+<br /><br />
+Guardate a lui e sarete raggianti, <br /><br />
+non saranno confusi i vostri volti.<br /><br />
+Questo povero grida e il Signore lo ascolta, <br /><br />
+lo libera da tutte le sue angosce.<br /><br />
+<br /><br />
+L&#039;angelo del Signore si accampa <br /><br />
+attorno a quelli che lo temono e li salva.<br /><br />
+Gustate e vedete quanto è buono il Signore; <br /><br />
+beato l&#039;uomo che in lui si rifugia.<br />
+
+##########
+Dal Vangelo di Gesù Cristo secondo Matteo <font dir="ltr">16,13-19.</font>@@@@@In quel tempo, essendo giunto Gesù nella regione di Cesarèa di Filippo, chiese ai suoi discepoli: «La gente chi dice che sia il Figlio dell&#039;uomo?».<br /><br />
+Risposero: «Alcuni Giovanni il Battista, altri Elia, altri Geremia o qualcuno dei profeti».<br /><br />
+Disse loro: «Voi chi dite che io sia?».<br /><br />
+Rispose Simon Pietro: «Tu sei il Cristo, il Figlio del Dio vivente».<br /><br />
+E Gesù: «Beato te, Simone figlio di Giona, perché né la carne né il sangue te l&#039;hanno rivelato, ma il Padre mio che sta nei cieli.<br /><br />
+E io ti dico: Tu sei Pietro e su questa pietra edificherò la mia chiesa e le porte degli inferi non prevarranno contro di essa.<br /><br />
+A te darò le chiavi del regno dei cieli, e tutto ciò che legherai sulla terra sarà legato nei cieli, e tutto ciò che scioglierai sulla terra sarà sciolto nei cieli».<br />
+
+##########
+SS. Pietro e Paolo, apostoli e martiri (solennità)
+##########
+Seconda lettera di san Paolo apostolo a Timoteo <font dir="ltr">4,6-8.17-18.</font>@@@@@Carissimo, il mio sangue sta ormai per essere sparso in libagione ed è giunto il momento di sciogliere le vele.<br /><br />
+Ho combattuto la buona battaglia, ho terminato la mia corsa, ho conservato la fede.<br /><br />
+Ora mi resta solo la corona di giustizia che il Signore, giusto giudice, mi consegnerà in quel giorno; e non solo a me, ma anche a tutti coloro che attendono con amore la sua manifestazione.<br /><br />
+Il Signore però mi è stato vicino e mi ha dato forza, perché per mio mezzo si compisse la proclamazione del messaggio e potessero sentirlo tutti i Gentili: e così fui liberato dalla bocca del leone.<br /><br />
+Il Signore mi libererà da ogni male e mi salverà per il suo regno eterno; a lui la gloria nei secoli dei secoli. <br /><br />
+Amen.<br />
+
+##########
+Santi Pietro e Paolo, apostoli, solennità
+##########
+A @@@  @@@  @@@  @@@   

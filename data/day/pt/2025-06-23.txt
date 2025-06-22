@@ -1,6 +1,59 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            S. Cirilo de Alexandria, bispo, Doutor da Igreja, +444<br />
+                Santa Maria, Senhora do Perpétuo Socorro<br />
+                Solenidade do Sagrado Coração de Jesus<br />
+    
+##########
+@@@@@
+##########
+
+##########
+Livro de Ezequiel <font dir="ltr">34,11-16.</font>@@@@@Eis o que diz o Senhor Deus: «Eu próprio irei em busca das minhas ovelhas e hei de encontrá-las.<br /><br />
+Como o pastor vigia o seu rebanho, quando estiver no meio das ovelhas que andavam tresmalhadas, assim Eu guardarei as minhas ovelhas, para as tirar de todos os sítios em que se desgarraram num dia de nevoeiro e de trevas.<br /><br />
+Arrancá-las-ei de entre os povos e as reunirei dos vários países, para as reconduzir à sua própria terra. Apascentá-las-ei nos montes de Israel, nas ribeiras e em todos os lugares habitados do país.<br /><br />
+Eu as apascentarei em boas pastagens, e terão as suas devesas nos altos montes de Israel. Descansarão em férteis devesas e encontrarão pasto suculento sobre as montanhas de Israel.<br /><br />
+Eu apascentarei as minhas ovelhas, Eu as levarei a repousar, diz o Senhor Deus.<br /><br />
+Hei de procurar a que anda perdida e reconduzir a que anda tresmalhada. Tratarei a que estiver ferida, darei vigor à que andar enfraquecida e velarei pela gorda e vigorosa. Hei de apascentá-las com justiça.<br />
+
+##########
+Livro dos Salmos <font dir="ltr">23(22),1-3a.3b-4.5.6.</font>@@@@@O Senhor é meu pastor: nada me falta.<br /><br />
+Leva-me a descansar em verdes prados, <br /><br />
+conduz-me às águas refrescantes<br /><br />
+e reconforta a minha alma.<br /><br />
+<br /><br />
+Ele me guia por sendas direitas por amor do seu nome.<br /><br />
+Ainda que tenha de andar por vales tenebrosos, <br /><br />
+não temerei nenhum mal, porque Vós estais comigo: <br /><br />
+o vosso cajado e o vosso báculo me enchem de confiança.<br /><br />
+<br /><br />
+Para mim preparais a mesa, <br /><br />
+à vista dos meus adversários; <br /><br />
+com óleo me perfumais a cabeça, <br /><br />
+e o meu cálice transborda.<br /><br />
+<br /><br />
+A bondade e a graça hão de acompanhar-me<br /><br />
+todos os dias da minha vida, <br /><br />
+e habitarei na casa do Senhor <br /><br />
+para todo o sempre.<br />
+
+##########
+Evangelho segundo São Lucas <font dir="ltr">15,3-7.</font>@@@@@Naquele tempo, disse Jesus aos fariseus e aos escribas a seguinte parábola: «<br /><br />
+«Quem de vós, que possua cem ovelhas e tenha perdido uma delas, não deixa as outras noventa e nove no deserto para ir à procura da que anda perdida, até a encontrar?<br /><br />
+Quando a encontra, põe-na alegremente aos ombros<br /><br />
+e, ao chegar a casa, chama os amigos e vizinhos e diz-lhes: &quot;Alegrai-vos comigo, porque encontrei a minha ovelha perdida&quot;.<br /><br />
+Eu vos digo: assim haverá mais alegria no Céu por um só pecador que se arrependa do que por noventa e nove justos que não precisam de arrependimento.<br />
+
+##########
+S. Cirilo de Alexandria, bispo, Doutor da Igreja, +444
+##########
+Carta aos Romanos <font dir="ltr">5,5b-11.</font>@@@@@Irmãos: O amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado.<br /><br />
+Quando ainda éramos fracos, Cristo morreu pelos ímpios no tempo determinado.<br /><br />
+Dificilmente alguém morre por um justo; por um homem bom, talvez alguém tivesse a coragem de morrer.<br /><br />
+Mas Deus prova assim o seu amor para connosco: Cristo morreu por nós quando éramos ainda pecadores.<br /><br />
+E agora, que fomos justificados pelo seu sangue, com muito mais razão seremos por Ele salvos da ira divina.<br /><br />
+Se, na verdade, quando éramos inimigos, fomos reconciliados com Deus pela morte de seu Filho, com muito mais razão, depois de reconciliados, seremos salvos pela sua vida.<br /><br />
+Mais ainda: também nos gloriamos em Deus, por Nosso Senhor Jesus Cristo, por quem alcançámos agora a reconciliação.<br />
+
+##########
+Sagrado Coração de Jesus – solenidade
+##########
+A @@@  @@@  @@@  @@@   
