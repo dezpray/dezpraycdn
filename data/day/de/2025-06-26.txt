@@ -1,6 +1,59 @@
-<br />
-<b>Fatal error</b>:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'als' , comments. as 'cmt', feasts. as 'fea', firsts. as 'fst', psalms. as...' at line 1 in /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php:604
-Stack trace:
-#0 /www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php(604): mysqli-&gt;prepare()
-#1 {main}
-  thrown in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>604</b><br />
+            Hl. Bonaventura<br />
+                Hl. Otger<br />
+                Hl. Plechelm<br />
+                Hl. Egino<br />
+                Sel. Ceslaus<br />
+                Hl. David<br />
+                Hl. Donewald (Donald) von Ogilvy<br />
+                Hl. Regiswind<br />
+                Hl. Wladimir<br />
+                Hl. Pompilius Maria vom heiligen Nikolaus<br />
+                Hl. Gumbert<br />
+                Sel. Bernhard<br />
+    
+##########
+@@@@@
+##########
+
+##########
+Buch Exodus  <font dir="ltr">2,1-15a.</font>@@@@@In jenen Tagen ging ein Mann aus dem Hause Levi hin und nahm eine Frau aus dem gleichen Stamm.<br /><br />
+Die Frau wurde schwanger und gebar einen Sohn. Weil sie sah, dass er schön war, verbarg sie ihn drei Monate lang.<br /><br />
+Als sie ihn nicht mehr verborgen halten konnte, nahm sie ein Binsenkästchen, dichtete es mit Pech und Teer ab, legte das Kind hinein und setzte es am Nilufer im Schilf aus.<br /><br />
+Seine Schwester blieb in der Nähe stehen, um zu sehen, was mit ihm geschehen würde.<br /><br />
+Die Tochter des Pharao kam herab, um im Nil zu baden. Ihre Dienerinnen gingen unterdessen am Nilufer auf und ab. Auf einmal sah sie im Schilf das Kästchen und ließ es durch ihre Magd holen.<br /><br />
+Als sie es öffnete und hineinsah, lag ein weinendes Kind darin. Sie hatte Mitleid mit ihm und sie sagte: Das ist ein Hebräerkind.<br /><br />
+Da sagte seine Schwester zur Tochter des Pharao: Soll ich zu den Hebräerinnen gehen und dir eine Amme rufen, damit sie dir das Kind stillt?<br /><br />
+Die Tochter des Pharao antwortete ihr: Ja, geh! Das Mädchen ging und rief die Mutter des Knaben herbei.<br /><br />
+Die Tochter des Pharao sagte zu ihr: Nimm das Kind mit und still es mir! Ich werde dich dafür entlohnen. Die Frau nahm das Kind zu sich und stillte es.<br /><br />
+Als der Knabe größer geworden war, brachte sie ihn der Tochter des Pharao. Diese nahm ihn als Sohn an, nannte ihn Mose und sagte: Ich habe ihn aus dem Wasser gezogen.<br /><br />
+Die Jahre vergingen und Mose wuchs heran. Eines Tages ging er zu seinen Brüdern hinaus und schaute ihnen bei der Fronarbeit zu. Da sah er, wie ein Ägypter einen Hebräer schlug, einen seiner Stammesbrüder.<br /><br />
+Mose sah sich nach allen Seiten um, und als er sah, dass sonst niemand da war, erschlug er den Ägypter und verscharrte ihn im Sand.<br /><br />
+Als er am nächsten Tag wieder hinausging, sah er zwei Hebräer miteinander streiten. Er sagte zu dem, der im Unrecht war: Warum schlägst du deinen Stammesgenossen?<br /><br />
+Der Mann erwiderte: Wer hat dich zum Aufseher und Schiedsrichter über uns bestellt? Meinst du, du könntest mich umbringen, wie du den Ägypter umgebracht hast? Da bekam Mose Angst und sagte: Die Sache ist also bekannt geworden.<br /><br />
+Der Pharao hörte von diesem Vorfall und wollte Mose töten; Mose aber entkam ihm. Er wollte in Midian bleiben.<br />
+
+##########
+Psalmen <font dir="ltr">69(68),3.14.30-31.33-34.</font>@@@@@Ich bin versunken im Schlamm des Abgrunds und habe keinen Halt mehr. In Wassertiefen bin ich geraten, die Flut reißt mich fort.<br /><br />
+Ich aber komme zu dir mit meinem Bittgebet, HERR, zur Zeit der Gnade. Gott, in deiner großen Huld erhöre mich, mit deiner rettenden Treue!<br /><br />
+Ich bin elend und voller Schmerzen, doch deine Hilfe, Gott, wird mich erhöhen.<br /><br />
+Ich will im Lied den Namen Gottes loben, ich will ihn mit Dank erheben.<br /><br />
+<br /><br />
+Die Gebeugten haben es gesehen und sie freuen sich! Ihr, die ihr Gott sucht, euer Herz lebe auf!<br /><br />
+Denn der HERR hört auf die Armen, seine Gefangenen verachtet er nicht.<br />
+
+##########
+Aus dem Heiligen Evangelium nach Matthäus - Mt  <font dir="ltr">11,20-24.</font>@@@@@In jener Zeit begann Jesus, den Städten, in denen er die meisten Machttaten getan hatte, Vorwürfe zu machen, weil sie nicht Buße getan hatten:<br /><br />
+Weh dir, Chorazin! Weh dir, Betsaida! Denn wenn in Tyrus und Sidon die Machttaten geschehen wären, die bei euch geschehen sind – längst schon wären sie in Sack und Asche umgekehrt.<br /><br />
+Das sage ich euch: Tyrus und Sidon wird es am Tag des Gerichts erträglicher ergehen als euch.<br /><br />
+Und du, Kafarnaum, wirst du etwa bis zum Himmel erhoben werden? Bis zur Unterwelt wirst du hinabsteigen. Wenn in Sodom die Machttaten geschehen wären, die bei dir geschehen sind, dann stünde es noch heute.<br /><br />
+Das sage ich euch: Dem Gebiet von Sodom wird es am Tag des Gerichts erträglicher ergehen als dir.<br />
+
+##########
+Hl. Bonaventura
+##########
+@@@@@<br />
+
+##########
+Dienstag der 15. Woche im Jahreskreis
+##########
+A @@@  @@@  @@@  @@@   
