@@ -1,117 +1,92 @@
-            Thánh Felicité và bảy con trai của bà († 150)<br />
-                Thánh Canut, Vua Đan Mạch và tử đạo († 1086)  <br />
-                Thánh Rufine và Seconde, tử đạo († thế kỷ III)<br />
-                Thánh Anatolia và Vittoria, tử đạo († khoảng năm 250)<br />
-                Thánh Janvier và Marin, tử đạo († không rõ thế kỷ)<br />
-                Thánh Apollonius thành Sardes, tử đạo († đầu thế kỷ IV)<br />
-                Thánh Anicet, Sisinnius và các bạn, tử đạo  († khoảng năm 320)<br />
-                Thánh Léonce, Maurice, Daniel và Antôn, tử đạo  († khoảng năm 320)<br />
-                Thánh Biance và Silvain, tử đạo  († thế kỷ IV)<br />
-                Thánh Pasquier, giám mục (thế kỷ VII)<br />
-                Thánh Amalberge, trinh nữ († thế kỷ VIII)<br />
-                Thánh Pierre Vincioli, linh mục và viện phụ († 1007)<br />
-                Chân phước Marie-Gertrude de Ripert d’Alauzier, tử đạo († 1794)<br />
-                Chân phước Sylvie-Agnès de Romillon, tử đạo († 1794)<br />
-                Thánh Phêrô Nguyễn Khắc Tự, tử đạo  († 1840)<br />
-                Thánh Antôn Nguyễn Hữu (Nam) Quỳnh, tử đạo († 1840)  <br />
-                Chân phước Emmanuel Ruiz và các bạn, tử đạo († 1860)<br />
+            ThÃ¡nh Henri II, HoÃ ng Äáº¿ Äá»©c (+ 1024)<br />
+                ChÃ¢n phÆ°á»c Ferdinand Marie Baccilieri, linh má»¥c (+ 1893)<br />
+                ThÃ¡nh TÃªrÃªxa ChÃºa GiÃªsu vÃ¹ng Los Andes, táº­p sinh (+ 1920)<br />
+                ThÃ¡nh Silas, mÃ´n Äá» cá»§a ThÃ¡nh PhaolÃ´ (+ tháº¿ ká»· I)<br />
+                ThÃ¡nh Myrope, ná»¯ tá»­ Äáº¡o (+ khoáº£ng 251)<br />
+                CÃ¡c ThÃ¡nh Alexandre vÃ  ba mÆ°Æ¡i binh lÃ­nh khÃ¡c, tá»­ Äáº¡o (+ tháº¿ ká»· IV)<br />
+                ThÃ¡nh EugÃ¨ne, giÃ¡m má»¥c vÃ  tá»­ Äáº¡o (+ 505)<br />
+                ThÃ¡nh Turiau, giÃ¡m má»¥c vÃ  viá»n phá»¥ (+ tháº¿ ká»· VII hoáº·c VIII)<br />
+                ChÃ¢n phÆ°á»c Jacques de Voragine, giÃ¡m má»¥c DÃ²ng Äa Minh (+ 1298)<br />
+                ChÃ¢n phÆ°á»c Thomas Tunstal, linh má»¥c dÃ²ng Biá»n Äá»©c vÃ  tá»­ Äáº¡o (+ 1616)<br />
+                ChÃ¢n phÆ°á»c Louis-Armand Adam, linh má»¥c vÃ  tá»­ Äáº¡o (+ 1794)<br />
+                ChÃ¢n phÆ°á»c BarthÃ©lemy Jarrige de La MorÃ©, linh má»¥c vÃ  tá»­ Äáº¡o (+ 1794)<br />
+                ThÃ¡nh Emmanuel LÃª VÄn Phá»¥ng, tá»­ Äáº¡o (+ 1859)<br />
+                ThÃ¡nh ClÃ©lie Barbieri, trinh ná»¯ vÃ  ngÆ°á»i sÃ¡ng láº­p (+ 1870)<br />
+                ThÃ¡nh PhaolÃ´ Liu Jinde, ngÆ°á»i cao tuá»i vÃ  tá»­ Äáº¡o (+ 1900)<br />
+                ThÃ¡nh Giuse Wang Guiji, tá»­ Äáº¡o (+ 1900)<br />
+                ChÃ¢n phÆ°á»c Marien ChÃºa GiÃªsu Euse Hoyos, linh má»¥c (+ 1926)<br />
+                ChÃ¢n phÆ°á»c Charles-Emmanuel Rodriguez Santiago, giÃ¡o dÃ¢n (+ 1963)<br />
+                CÃ¡c ChÃ¢n phÆ°á»c Ãlisabeth VerchiÃ¨re vÃ  nÄm báº¡n Äá»ng hÃ nh (+ 1794)<br />
     
 ##########
-<font style="align-text:left" dir="ltr">« Trên đường đi, anh em hãy rao giảng rằng: Nước Trời đã đến gần. »</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-      [Chàng trẻ] Phanxicô sốt sắng tham dự Thánh lễ kính các Tông đồ; bài Phúc Âm kể về việc Chúa Kitô sai các môn đệ đi rao giảng và dạy họ cách sống theo Phúc Âm: « không mang vàng, bạc, hay tiền đồng trong túi; không mang túi xách đi đường, không mang hai áo, không dép, không gậy. » Ngay khi hiểu và ghi nhớ lời này, ngài say mê sự nghèo khó của các Tông đồ và thốt lên trong niềm vui sướng tột độ: « Đây chính là điều tôi muốn! Đây chính là điều cả tâm hồn tôi ao ước! » Và không chần chừ, ngài cởi giày ra, bỏ gậy đi đường, vứt bỏ túi và tiền bạc như những thứ ghê tởm, chỉ giữ lại một chiếc áo, vứt bỏ dây lưng và thay bằng một sợi dây thừng: ngài dốc hết lòng thực hiện những gì vừa nghe và hoàn toàn tuân theo bộ quy tắc hoàn hảo đã được ban cho các Tông đồ.<br /><br />
+<font style="align-text:left" dir="ltr">HÃ£y chÄm sÃ³c tha nhÃ¢n!</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+            HÃ£y chÄm sÃ³c sá»©c khá»e cá»§a tha nhÃ¢n vá»i sá»± cáº©n trá»ng nhÆ° chÄm sÃ³c sá»©c khá»e cá»§a chÃ­nh mÃ¬nh, dÃ¹ há» khá»e máº¡nh hay kiá»t sá»©c vÃ¬ bá»nh táº­t. VÃ¬ âchÃºng ta táº¥t cáº£ lÃ  má»t trong ChÃºaâ (Rm 12,5): dÃ¹ giÃ u hay nghÃ¨o, nÃ´ lá» hay ngÆ°á»i tá»± do, khá»e máº¡nh hay bá»nh táº­t. Äá»i vá»i táº¥t cáº£, chá» cÃ³ má»t Äáº§u duy nháº¥t, lÃ  nguyÃªn lÃ½ cá»§a má»i sá»±: Äá»©c KitÃ´.<br /><br />
 <br /><br />
-      Một thôi thúc từ Thiên Chúa thúc đẩy ngài từ đó chinh phục sự hoàn hảo Phúc Âm và một chiến dịch sám hối. Khi ngài nói (...), lời ngài thấm đượm sức mạnh của Chúa Thánh Thần: chúng xuyên thấu tận đáy lòng và khiến thính giả ngạc nhiên. Toàn bộ bài giảng của ngài là một lời rao giảng về hòa bình, và ngài bắt đầu mỗi bài giảng của mình bằng lời chào này với dân chúng: « Xin Chúa ban bình an cho anh chị em! » Ngài tuyên bố sau này, chính là một mặc khải từ Chúa đã dạy ngài công thức này. (...)<br /><br />
+            CÃ¡c chi thá» trong thÃ¢n thá» Äá»i xá»­ vá»i nhau nhÆ° tháº¿ nÃ o, thÃ¬ má»i ngÆ°á»i trong chÃºng ta cÅ©ng Äá»i xá»­ vá»i má»i ngÆ°á»i anh em mÃ¬nh nhÆ° tháº¿, vÃ  táº¥t cáº£ Äá»i xá»­ vá»i táº¥t cáº£. Váº­y Äá»«ng bá» bÃª hay bá» rÆ¡i nhá»¯ng ngÆ°á»i ÄÃ£ rÆ¡i vÃ o tÃ¬nh tráº¡ng yáº¿u Äuá»i trÆ°á»c chÃºng ta, má»t tÃ¬nh tráº¡ng mÃ  táº¥t cáº£ chÃºng ta Äá»u cÃ³ thá» gáº·p pháº£i. Thay vÃ¬ vui má»«ng vÃ¬ mÃ¬nh khá»e máº¡nh, tá»t hÆ¡n lÃ  cáº£m thÃ´ng vá»i nhá»¯ng ná»i báº¥t háº¡nh cá»§a anh em chÃºng ta. Há» ÄÆ°á»£c táº¡o dá»±ng theo hÃ¬nh áº£nh ThiÃªn ChÃºa nhÆ° chÃºng ta, vÃ  dÃ¹ váº» ngoÃ i cÃ³ suy sÃºt, há» váº«n giá»¯ ÄÆ°á»£c sá»± trung tÃ­n cá»§a hÃ¬nh áº£nh ÄÃ³ tá»t hÆ¡n chÃºng ta. Trong há», con ngÆ°á»i ná»i tÃ¢m ÄÃ£ máº·c láº¥y chÃ­nh Äá»©c KitÃ´ vÃ  há» ÄÃ£ nháº­n ÄÆ°á»£c cÃ¹ng âbáº£o chá»©ng cá»§a Tháº§n KhÃ­â (2 Cr 5,5). Há» cÃ³ cÃ¹ng luáº­t phÃ¡p, cÃ¹ng giá»i rÄn, cÃ¹ng giao Æ°á»c, cÃ¹ng há»i ÄoÃ n, cÃ¹ng máº§u nhiá»m, cÃ¹ng hy vá»ng. Äá»©c KitÃ´ cÅ©ng ÄÃ£ cháº¿t vÃ¬ há», âÄáº¥ng xÃ³a bá» tá»i tráº§n gianâ (Ga 1,29). Há» cÃ³ pháº§n vÃ o gia sáº£n sá»± sá»ng trÃªn trá»i, nhá»¯ng ngÆ°á»i ÄÃ£ bá» tÆ°á»c Äoáº¡t nhiá»u cá»§a cáº£i dÆ°á»i tráº§n gian nÃ y. Há» lÃ  báº¡n Äá»ng hÃ nh trong nhá»¯ng Äau khá» cá»§a Äá»©c KitÃ´, há» cÅ©ng sáº½ lÃ  báº¡n Äá»ng hÃ nh trong vinh quang cá»§a NgÆ°á»i.<br /><br />
 <br /><br />
-      Người ta ngày càng nói nhiều hơn về người của Thiên Chúa, về giáo huấn đơn sơ của ngài, về cuộc đời ngài, và một số người, theo gương ngài, đã bị cuốn hút bởi tinh thần sám hối đó rồi gia nhập với ngài, từ bỏ mọi sự, và ăn mặc giống như ngài, bắt đầu chia sẻ cuộc sống của ngài.<br />
+            Báº£n tÃ­nh con ngÆ°á»i lÃ m cho chÃºng ta cÃ³ má»t luáº­t lÃ  pháº£i thÆ°Æ¡ng xÃ³t láº«n nhau. Báº±ng cÃ¡ch dáº¡y chÃºng ta tÃ¬nh liÃªn Äá»i trong sá»± yáº¿u Äuá»i, nÃ³ tháº¥m nhuáº§n trong chÃºng ta sá»± tÃ´n trá»ng vÃ  tÃ¬nh yÃªu dÃ nh cho con ngÆ°á»i.<br />
 </font><br />
 
 ##########
 
 ##########
-Sách Sáng Thế <font dir="ltr">44,18-21.23b-29.45,1-5.</font>@@@@@Trong những ngày ấy, Giuđa và các anh em ông, con cái của Giacóp, đã được đưa trở lại trước mặt Giuse. Giuđa đến gần ông và nói: “Xin lỗi, thưa đức ông, xin cho phép đầy tớ của ngài được thưa một lời mà không làm cho đức ông nổi giận với đầy tớ của ngài, vì ngài vĩ đại như Pharaô!
-<br /><br />
-Đức ông đã hỏi các đầy tớ của ngài: “Các ngươi còn cha hay anh em nào khác không?”
-<br /><br />
-Và chúng tôi đã thưa với đức ông: “Chúng tôi còn cha già và một em trai út, đứa con ông có lúc tuổi già; đứa này có một anh trai đã chết, nên nó là đứa con duy nhất của mẹ nó còn lại, và cha chúng tôi yêu thương nó!”
-<br /><br />
-Bấy giờ ngài đã nói với các đầy tớ của ngài: “Hãy đưa nó đến đây cho tôi: tôi muốn chăm sóc nó.”
-<br /><br />
-Nếu người em út của các ngươi không trở về cùng các ngươi, các ngươi sẽ không còn được phép vào diện kiến tôi.”
-<br /><br />
-Vậy, khi chúng tôi trở về với cha chúng tôi, đầy tớ của ngài, chúng tôi đã thuật lại cho ông những lời của đức ông.
-<br /><br />
-Và, khi cha chúng tôi nói: “Các con hãy trở lại mua một ít thức ăn cho chúng ta”,
-<br /><br />
-chúng tôi đã thưa với ông: “Chúng con không thể trở lại được nếu người em út của chúng con không đi cùng, vì chúng con sẽ không thể được phép vào diện kiến người ấy nếu người em út của chúng con không đi cùng.”
-<br /><br />
-Bấy giờ cha chúng tôi, đầy tớ của ngài, đã nói với chúng tôi: “Các con biết rõ rằng vợ ta là Rađen chỉ sinh cho ta hai con trai.
-<br /><br />
-Đứa đầu đã biến mất. Chắc chắn, một con thú dữ đã xé xác nó, và ta không bao giờ gặp lại nó.
-<br /><br />
-Nếu các con lại đem đứa này đi xa ta và có tai họa xảy đến với nó, các con sẽ làm cho mái tóc bạc của ta xuống âm phủ trong đau khổ khốn cùng.”
-<br /><br />
-Giuse không thể kìm lòng được trước mặt tất cả những người trong đoàn tùy tùng của mình, và ông kêu lên: “Hãy cho mọi người ra ngoài.” Khi không còn ai bên cạnh ông, ông đã tự nhận mình với các anh em.
-<br /><br />
-Ông khóc to đến nỗi người Ai Cập nghe được, và cả nhà Pharaô cũng nghe.
-<br /><br />
-Ông nói với các anh em: “Tôi là Giuse! Cha tôi còn sống không?” Nhưng các anh em ông không thể trả lời, vì họ quá bàng hoàng khi đứng trước mặt ông.
-<br /><br />
-Bấy giờ Giuse nói với các anh em: “Hãy đến gần tôi.” Họ đến gần, và ông nói với họ: “Tôi là Giuse, anh của các anh, người mà các anh đã bán để bị đưa sang Ai Cập.
-<br /><br />
-Nhưng bây giờ đừng buồn phiền, và đừng lo lắng vì đã bán tôi, vì chính để bảo toàn mạng sống cho các anh mà Thiên Chúa đã sai tôi đến đây trước các anh.”`
+SÃ¡ch Äá» Nhá» Luáº­t <font dir="ltr">30,10-14.</font>@@@@@MÃ´sÃª nÃ³i vá»i dÃ¢n: âHÃ£y láº¯ng nghe tiáº¿ng ChÃºa, ThiÃªn ChÃºa cá»§a ngÆ°Æ¡i, báº±ng cÃ¡ch tuÃ¢n giá»¯ cÃ¡c giá»i rÄn vÃ  sáº¯c lá»nh cá»§a NgÆ°á»i ÄÃ£ ghi trong sÃ¡ch Luáº­t nÃ y, vÃ  hÃ£y trá» vá» vá»i ChÃºa, ThiÃªn ChÃºa cá»§a ngÆ°Æ¡i, háº¿t lÃ²ng háº¿t dáº¡.<br /><br />
+VÃ¬ luáº­t mÃ  Ta truyá»n cho ngÆ°Æ¡i hÃ´m nay khÃ´ng vÆ°á»£t quÃ¡ sá»©c ngÆ°Æ¡i cÅ©ng khÃ´ng ngoÃ i táº§m vá»i cá»§a ngÆ°Æ¡i.<br /><br />
+NÃ³ khÃ´ng á» trÃªn trá»i, Äá» ngÆ°Æ¡i pháº£i nÃ³i: âAi sáº½ lÃªn trá»i tÃ¬m nÃ³ cho chÃºng ta? Ai sáº½ cho chÃºng ta nghe, Äá» chÃºng ta thá»±c hÃ nh?â<br /><br />
+NÃ³ khÃ´ng á» bÃªn kia biá»n, Äá» ngÆ°Æ¡i pháº£i nÃ³i: âAi sáº½ vÆ°á»£t biá»n tÃ¬m nÃ³ cho chÃºng ta? Ai sáº½ cho chÃºng ta nghe, Äá» chÃºng ta thá»±c hÃ nh?â<br /><br />
+Lá»i áº¥y á» ráº¥t gáº§n ngÆ°Æ¡i, nÃ³ á» trong miá»ng ngÆ°Æ¡i vÃ  trong lÃ²ng ngÆ°Æ¡i, Äá» ngÆ°Æ¡i thá»±c hÃ nh nÃ³.â<br />
 
 ##########
-Thánh Vịnh <font dir="ltr">105(104),16-17.18-19.20-21.</font>@@@@@Chúa khiến nạn đói ập xuống đất nước,
+ThÃ¡nh Vá»nh <font dir="ltr">69(68),14.17.30-31.33-34.36ab.37.</font>@@@@@Láº¡y ChÃºa, con nÃ i xin NgÃ i: <br /><br />
+giá» há»ng Ã¢n cá»§a NgÃ i; <br /><br />
+Láº¡y ChÃºa, trong tÃ¬nh yÃªu bao la cá»§a NgÃ i, xin ÄÃ¡p lá»i con, <br /><br />
+xin cá»©u con báº±ng sá»± tháº­t cá»§a NgÃ i.<br /><br />
 <br /><br />
-làm cạn kiệt mọi nguồn sống.
+Láº¡y ChÃºa, xin ÄÃ¡p lá»i con, <br /><br />
+vÃ¬ tÃ¬nh yÃªu NgÃ i tháº­t tá»t lÃ nh; <br /><br />
+trong lÃ²ng nhÃ¢n tá»« bao la cá»§a NgÃ i, xin ÄoÃ¡i nhÃ¬n con.<br /><br />
+CÃ²n con, bá» nhá»¥c nhÃ£, bá» thÆ°Æ¡ng tÃ­ch, <br /><br />
 <br /><br />
-Nhưng trước họ, Ngài đã sai một người,
+láº¡y ChÃºa, xin Æ¡n cá»©u Äá» cá»§a NgÃ i nÃ¢ng Äá»¡ con.<br /><br />
+VÃ  con sáº½ ca ngá»£i danh ThiÃªn ChÃºa báº±ng bÃ i thÃ¡nh ca, <br /><br />
+con sáº½ tÃ´n vinh NgÆ°á»i, táº¡ Æ¡n NgÆ°á»i.<br /><br />
+NgÆ°á»i nghÃ¨o ÄÃ£ tháº¥y, há» reo má»«ng: <br /><br />
 <br /><br />
-Giuse, người bị bán làm nô lệ.
+âSá»± sá»ng vÃ  niá»m vui cho nhá»¯ng ai tÃ¬m kiáº¿m ThiÃªn ChÃºa!â<br /><br />
+VÃ¬ ChÃºa láº¯ng nghe nhá»¯ng ngÆ°á»i khiÃªm nhÆ°á»ng,<br /><br />
+NgÆ°á»i khÃ´ng quÃªn nhá»¯ng káº» thuá»c vá» NgÆ°á»i bá» tÃ¹ ÄÃ y.<br /><br />
+VÃ¬ ThiÃªn ChÃºa sáº½ Äáº¿n cá»©u Sion<br /><br />
 <br /><br />
-<br /><br />
-Chân ông bị còng gông xiềng xích,
-<br /><br />
-cổ ông bị mang gông sắt;
-<br /><br />
-ông chịu khổ vì lời Chúa,
-<br /><br />
-cho đến ngày lời tiên tri của Ngài được ứng nghiệm.
-<br /><br />
-<br /><br />
-Vua ra lệnh ông được thả,
-<br /><br />
-người cai trị các dân tộc, ông được tự do.
-<br /><br />
-Ngài đặt ông làm chủ nhà mình,
-<br /><br />
-chủ mọi tài sản của mình.`
+vÃ  xÃ¢y láº¡i cÃ¡c thÃ nh thá» cá»§a GiuÄa:<br /><br />
+gia sáº£n cho con chÃ¡u cá»§a cÃ¡c tÃ´i tá» NgÆ°á»i, <br /><br />
+nÆ¡i cÆ° ngá»¥ cho nhá»¯ng ai yÃªu máº¿n danh NgÆ°á»i.<br />
 
 ##########
-Tin Mừng Chúa Giêsu Kitô theo Thánh Mátthêu <font dir="ltr">10,7-15.</font>@@@@@Vào thời ấy, Chúa Giêsu phán cùng các Tông đồ: “Trên đường đi, anh em hãy rao giảng rằng: Nước Trời đã đến gần.
-<br /><br />
-Hãy chữa lành người bệnh, làm cho kẻ chết sống lại, thanh tẩy người phong hủi, trừ quỷ. Anh em đã được cho không, thì hãy cho không.
-<br /><br />
-Đừng sắm vàng, bạc, hay tiền đồng bỏ vào thắt lưng;
-<br /><br />
-đừng mang túi xách đi đường, đừng mang hai áo, đừng mang dép, đừng mang gậy. Vì thợ thì đáng được nuôi ăn.
-<br /><br />
-Vào bất cứ thành hay làng nào, anh em hãy hỏi xem ai là người xứng đáng đón tiếp anh em, và cứ ở lại đó cho đến khi anh em ra đi.
-<br /><br />
-Khi vào nhà, hãy chào những người ở đó.
-<br /><br />
-Nếu nhà đó xứng đáng, thì bình an của anh em sẽ đến trên nó. Nếu không xứng đáng, thì bình an của anh em sẽ trở lại với anh em.”
-<br /><br />
-Nếu ai không đón tiếp anh em và không nghe lời anh em, thì khi ra khỏi nhà hay thành ấy, hãy giũ bụi chân mình.
-<br /><br />
-Thầy bảo thật anh em: trong ngày phán xét, số phận của đất Xơ-đôm và Gô-mô-ra sẽ dễ chịu hơn số phận của thành ấy.”`
+Tin Má»«ng ChÃºa GiÃªsu KitÃ´ theo ThÃ¡nh Luca <font dir="ltr">10,25-37.</font>@@@@@VÃ o thá»i áº¥y, cÃ³ má»t tháº§y thÃ´ng luáº­t Äá»©ng lÃªn há»i Äá» thá»­ ChÃºa GiÃªsu ráº±ng: âThÆ°a Tháº§y, tÃ´i pháº£i lÃ m gÃ¬ Äá» ÄÆ°á»£c sá»± sá»ng Äá»i Äá»i lÃ m gia nghiá»p?â<br /><br />
+ChÃºa GiÃªsu há»i láº¡i: âTrong Luáº­t ÄÃ£ chÃ©p gÃ¬? Ãng Äá»c tháº¿ nÃ o?â<br /><br />
+NgÆ°á»i áº¥y ÄÃ¡p: âNgÆ°Æ¡i pháº£i yÃªu máº¿n ChÃºa, ThiÃªn ChÃºa cá»§a ngÆ°Æ¡i, háº¿t lÃ²ng, háº¿t linh há»n, háº¿t sá»©c lá»±c vÃ  háº¿t trÃ­ khÃ´n ngÆ°Æ¡i, vÃ  yÃªu ngÆ°á»i thÃ¢n cáº­n nhÆ° chÃ­nh mÃ¬nh.â<br /><br />
+ChÃºa GiÃªsu báº£o: âÃng ÄÃ£ tráº£ lá»i ÄÃºng. HÃ£y lÃ m nhÆ° váº­y vÃ  Ã´ng sáº½ ÄÆ°á»£c sá»ng.â<br /><br />
+NhÆ°ng ngÆ°á»i áº¥y, muá»n tá»± biá»n minh, nÃ³i vá»i ChÃºa GiÃªsu: âVÃ  ai lÃ  ngÆ°á»i thÃ¢n cáº­n cá»§a tÃ´i?â<br /><br />
+ChÃºa GiÃªsu ká» láº¡i: âCÃ³ má»t ngÆ°á»i Äi tá»« GiÃªrusalem xuá»ng GiÃªricÃ´, vÃ  anh ta rÆ¡i vÃ o tay bá»n cÆ°á»p; chÃºng lá»t háº¿t quáº§n Ã¡o, ÄÃ¡nh Äáº­p anh ta, rá»i bá» Äi, Äá» anh ta ná»­a sá»ng ná»­a cháº¿t.<br /><br />
+TÃ¬nh cá», má»t tháº§y tÆ° táº¿ Äi xuá»ng con ÄÆ°á»ng ÄÃ³; Ã´ng ta tháº¥y anh ta vÃ  Äi vÃ²ng qua.<br /><br />
+CÅ©ng váº­y, má»t tháº§y LÃªvi Äáº¿n chá» ÄÃ³; Ã´ng ta tháº¥y anh ta vÃ  Äi vÃ²ng qua.<br /><br />
+NhÆ°ng má»t ngÆ°á»i Samari, Äang trÃªn ÄÆ°á»ng, Äáº¿n gáº§n anh ta; Ã´ng ta tháº¥y anh ta vÃ  Äá»ng lÃ²ng thÆ°Æ¡ng.<br /><br />
+Ãng ta Äáº¿n gáº§n, bÄng bÃ³ váº¿t thÆ°Æ¡ng cho anh ta, Äá» dáº§u vÃ  rÆ°á»£u vÃ o; rá»i Ã´ng ta Äáº·t anh ta lÃªn lÆ°ng con váº­t cá»§a mÃ¬nh, ÄÆ°a Äáº¿n má»t quÃ¡n trá» vÃ  chÄm sÃ³c cho anh ta.<br /><br />
+NgÃ y hÃ´m sau, Ã´ng ta láº¥y ra hai Äá»ng báº¡c, ÄÆ°a cho chá»§ quÃ¡n trá», vÃ  nÃ³i: âHÃ£y chÄm sÃ³c anh ta; táº¥t cáº£ nhá»¯ng gÃ¬ Ã´ng chi tiÃªu thÃªm, tÃ´i sáº½ tráº£ láº¡i cho Ã´ng khi tÃ´i trá» láº¡i.â<br /><br />
+Theo Ã´ng, trong ba ngÆ°á»i ÄÃ³, ai ÄÃ£ lÃ  ngÆ°á»i thÃ¢n cáº­n cá»§a ngÆ°á»i rÆ¡i vÃ o tay bá»n cÆ°á»p?â<br /><br />
+Tháº§y thÃ´ng luáº­t ÄÃ¡p: âNgÆ°á»i ÄÃ£ tá» lÃ²ng thÆ°Æ¡ng xÃ³t anh ta.â ChÃºa GiÃªsu báº£o Ã´ng: âHÃ£y Äi, vÃ  Ã´ng cÅ©ng hÃ£y lÃ m nhÆ° váº­y.â<br />
 
 ##########
-Thánh Felicité và bảy con trai của bà († 150)
+ThÃ¡nh Henri II, HoÃ ng Äáº¿ Äá»©c (+ 1024)
 ##########
-@@@@@<br />
+ThÆ° cá»§a ThÃ¡nh PhaolÃ´ TÃ´ng Äá» gá»­i tÃ­n há»¯u CÃ´lÃ´xÃª <font dir="ltr">1,15-20.</font>@@@@@Äá»©c KitÃ´ lÃ  hÃ¬nh áº£nh cá»§a ThiÃªn ChÃºa vÃ´ hÃ¬nh, lÃ  TrÆ°á»ng tá»­, trÆ°á»c má»i loÃ i thá»¥ táº¡o:<br /><br />
+trong NgÆ°á»i, má»i sá»± ÄÆ°á»£c táº¡o dá»±ng, trÃªn trá»i vÃ  dÆ°á»i Äáº¥t. Nhá»¯ng há»¯u thá» há»¯u hÃ¬nh vÃ  vÃ´ hÃ¬nh, Quyá»n Lá»±c, Ngai Tháº§n, Thá»§ LÃ£nh, Quyá»n Uy, má»i sá»± Äá»u ÄÆ°á»£c táº¡o dá»±ng bá»i NgÆ°á»i vÃ  vÃ¬ NgÆ°á»i.<br /><br />
+NgÆ°á»i cÃ³ trÆ°á»c má»i sá»±, vÃ  má»i sá»± tá»n táº¡i trong NgÆ°á»i.<br /><br />
+NgÆ°á»i cÅ©ng lÃ  Äáº§u cá»§a thÃ¢n thá», Äáº§u cá»§a GiÃ¡o Há»i: NgÆ°á»i lÃ  khá»i nguyÃªn, lÃ  TrÆ°á»ng tá»­ trong sá» nhá»¯ng ngÆ°á»i ÄÃ£ cháº¿t, Äá» trong má»i sá»±, NgÆ°á»i cÃ³ quyá»n Æ°u tiÃªn.<br /><br />
+VÃ¬ ThiÃªn ChÃºa ÄÃ£ xÃ©t lÃ  tá»t lÃ nh khi cho má»i sá»± sung mÃ£n ngá»± trong NgÆ°á»i<br /><br />
+vÃ  qua Äá»©c KitÃ´, má»i sá»± ÄÆ°á»£c hÃ²a giáº£i vá»i NgÆ°á»i, lÃ m hÃ²a báº±ng mÃ¡u trÃªn ThÃ¡nh GiÃ¡ cá»§a NgÆ°á»i, hÃ²a bÃ¬nh cho má»i loÃ i trÃªn Äáº¥t vÃ  trÃªn trá»i.<br />
 
 ##########
-Thứ Năm tuần 14 Mùa Thường Niên
+ChÃºa Nháº­t MÆ°á»i LÄm MÃ¹a ThÆ°á»ng NiÃªn
 ##########
-A @@@  @@@  @@@   
+A @@@  @@@  @@@  @@@   
