@@ -1,73 +1,82 @@
-            ThÃ¡nh Alexi, NgÆ°á»i cá»§a ThiÃªn ChÃºa (â  tháº¿ ká»· V)<br />
-                CÃ¡c ChÃ¢n PhÆ°á»c TÃªrÃªxa ThÃ¡nh AugustinÃ´ vÃ  15 báº¡n tá»­ Äáº¡o<br />
-                CÃ¡c ThÃ¡nh Tá»­ Äáº¡o ScillitanÃ´ (â  180)<br />
-                ThÃ¡nh GiacintÃ´, tá»­ Äáº¡o (â  khoáº£ng tháº¿ ká»· III)<br />
-                CÃ¡c ThÃ¡nh Giusta vÃ  Rufina, trinh ná»¯ vÃ  tá»­ Äáº¡o (â  khoáº£ng 287)<br />
-                ThÃ¡nh Marcellina, trinh ná»¯ (â  khoáº£ng 398)<br />
-                ThÃ¡nh ThÃªÃ´ÄÃ´siÃ´, giÃ¡m má»¥c (â  tháº¿ ká»· VI)<br />
-                ThÃ¡nh EnnÃ´ÄÃ´, giÃ¡m má»¥c (â  521)<br />
-                ThÃ¡nh PhrÃªÄÃªgan (PhrÃªgÃ´), tu sÄ© ngÆ°á»i Ãi NhÄ© Lan (â  tháº¿ ká»· VIII)<br />
-                ThÃ¡nh Kenem, hoÃ ng tá»­ vÃ  tá»­ Äáº¡o (â  812)<br />
-                ThÃ¡nh LÃªÃ´ IV, giÃ¡o hoÃ ng (thá»© 103) tá»« 847 Äáº¿n 855<br />
-                ThÃ¡nh CÃ´nman, lá»¯ hÃ nh vÃ¬ Äá»©c KitÃ´ vÃ  tá»­ Äáº¡o (â  1012)<br />
-                CÃ¡c ThÃ¡nh ZoÃªra (hay AnrÃª) vÃ  BÃªnaÄÃ´, áº©n sÄ© (â  khoáº£ng 1031-34)<br />
-                ThÃ¡nh HÃªÄÆ¡vige, ná»¯ hoÃ ng Ba Lan (â  1399)<br />
-                ThÃ¡nh PhÃªrÃ´ LÆ°u Tá»­ Ngá»¯, tá»­ Äáº¡o vÃ¬ Äá»©c tin (â  1900)<br />
-                ChÃ¢n PhÆ°á»c PhaolÃ´ GojÄic, giÃ¡m má»¥c vÃ  tá»­ Äáº¡o (â  1960)<br />
+            Chân Phước Louis Novarese, linh mục và người sáng lập († 1984)<br />
+                Thánh Êlia, tiên tri († thế kỷ IX TCN)<br />
+                Thánh Giuse Barsabbas, môn đệ của Chúa († thế kỷ I)<br />
+                Thánh Marina, trinh nữ và tử đạo († đầu thế kỷ IV)<br />
+                Thánh Frumentius, giám mục († thế kỷ IV)<br />
+                Thánh Aurêliô, giám mục († 430)<br />
+                Thánh Wulmar, linh mục và tu sĩ († khoảng 700)<br />
+                Thánh Phaolô, phó tế và tử đạo († 851)<br />
+                Chân Phước Bênađô, giám mục († 1153)<br />
+                Các Thánh Madalena Yi Yong-hui, Têrêsa Yi Mae-im, tử đạo<br />
+                Các Thánh Anna Kim Chang-gum, Maria Won Kwi-im, tử đạo<br />
+                Thánh Gioan Baotixita Yi Kwang-nyol, giáo lý viên và tử đạo<br />
+                Các Thánh Matta Kim Song-im, Lucia Kim, Rosa Kim, tử đạo<br />
+                Thánh Giuse-Maria Diaz Sanjurjo, giám mục Dòng Đa Minh và tử đạo<br />
+                Các Thánh Leon-Ignace Mangin và Phaolô Denn, linh mục Dòng Tên († 1900)<br />
+                Thánh Maria Chu Ngũ Trĩ, tử đạo († 1900)<br />
+                Thánh Phêrô Chu Nhật Tân, tử đạo († 1900)<br />
+                Thánh Maria Phụ Quế Lâm, giáo viên và tử đạo († 1900)<br />
+                Thánh Maria Triệu Quốc Trĩ và các con gái, tử đạo († 1900)<br />
+                Thánh Hy Quế Tử, dự tòng và tử đạo († 1900)<br />
+                Chân Phước Phanxica Trái Tim Chúa Giêsu, trinh nữ và tử đạo († 1936)<br />
+                Chân Phước Rita Đức Trinh Nữ Sầu Bi Trái Tim Chúa Giêsu, tử đạo<br />
     
 ##########
-<font style="align-text:left" dir="ltr">HÃ£y Äáº¿n vá»i Ta!</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-            [ThÃ¡nh Catarina ÄÃ£ nghe ThiÃªn ChÃºa phÃ¡n vá»i bÃ :&amp;nbsp;] Táº¥t cáº£ cÃ¡c con ÄÃ£ ÄÆ°á»£c kÃªu gá»i, cÃ¡ch chung vÃ  cÃ¡ch riÃªng bá»i ChÃ¢n LÃ½ cá»§a Ta, tá»©c Con Ta, khi trong ná»i khao khÃ¡t mÃ£nh liá»t, NgÆ°á»i ÄÃ£ kÃªu lÃªn trong Äá»n Thá»:&amp;nbsp;â&amp;nbsp;Ai khÃ¡t hÃ£y Äáº¿n vá»i Ta mÃ  uá»ng;&amp;nbsp;Ta lÃ  Nguá»n NÆ°á»c Háº±ng Sá»ng&amp;nbsp;â (x. Ga 7,37). NgÆ°á»i khÃ´ng nÃ³i:&amp;nbsp;â&amp;nbsp;HÃ£y Äáº¿n vá»i Cha mÃ  uá»ng,&amp;nbsp;NgÆ°á»i nÃ³i:&amp;nbsp;â&amp;nbsp;HÃ£y Äáº¿n vá»i Ta&amp;nbsp;â.<br /><br />
+<font style="align-text:left" dir="ltr">“Lạy Chúa, xin dạy con tìm thấy niềm vui trong việc ngợi khen Chúa!”</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+            Ngợi khen là phần cốt yếu của tình yêu biết bao;&nbsp;vì thế, nó là phần không thể thiếu trong bổn phận của chúng ta đối với Thiên Chúa biết bao:&nbsp;điều đó thật dễ nhận thấy… Nhưng có một nguyên nhân thứ hai khiến chúng ta phải ngợi khen Thiên Chúa:&nbsp;đó là, việc Ngài cho phép chúng ta dâng lời ngợi khen lên Ngài, đó là một ân huệ vô song từ phía Ngài.<br /><br />
 <br /><br />
-            Bá»i vÃ¬ Äau khá» khÃ´ng thá» cháº¡m Äáº¿n Ta, lÃ  Cha, mÃ  chá» cÃ³ thá» cháº¡m Äáº¿n Con Ta. VÃ  cÃ¡c con cÅ©ng váº­y, trong khi cÃ¡c con lÃ  lá»¯ khÃ¡ch vÃ  ngÆ°á»i hÃ nh hÆ°Æ¡ng trÃªn Äá»i sá»ng há»¯u tá»­ nÃ y, cÃ¡c con khÃ´ng thá» tiáº¿n bÆ°á»c mÃ  khÃ´ng gáº·p gian khá», bá»i vÃ¬ tá»i lá»i khiáº¿n Äáº¥t Äai sinh ra gai gÃ³c, nhÆ° Ta ÄÃ£ nÃ³i vá»i con. ÄÃ³ lÃ  lÃ½ do táº¡i sao NgÆ°á»i ÄÃ£ nÃ³i:&amp;nbsp;â&amp;nbsp;HÃ£y Äáº¿n vá»i Ta mÃ  uá»ng.&amp;nbsp;â Bá»i vÃ¬ khi theo giÃ¡o lÃ½ cá»§a NgÆ°á»i, hoáº·c qua viá»c tuÃ¢n giá»¯ cÃ¡c giá»i rÄn cÃ¹ng vá»i tÃ¬nh yÃªu Äá»i vá»i cÃ¡c lá»i khuyÃªn phÃºc Ã¢m, hoáº·c qua viá»c thá»±c hÃ nh Äá»ng thá»i vÃ  cÃ¡ch thá»±c táº¿ cÃ¡c giá»i luáº­t vÃ  lá»i khuyÃªn, nghÄ©a lÃ  qua Äá»©c Ã¡i hoÃ n háº£o hoáº·c Äá»©c Ã¡i thÃ´ng thÆ°á»ng, báº¥t ká» con ÄÆ°á»ng nÃ o cÃ¡c con chá»n, cÃ¡c con Äá»u cÃ³ thá» Äáº¿n vá»i NgÆ°á»i, NgÆ°á»i sáº½ cho cÃ¡c con uá»ng vÃ  cÃ¡c con sáº½ náº¿m ÄÆ°á»£c hoa trÃ¡i cá»§a MÃ¡u nhá» sá»± káº¿t há»£p giá»¯a báº£n tÃ­nh tháº§n linh vÃ  báº£n tÃ­nh nhÃ¢n loáº¡i.<br /><br />
+            Cho phép ai đó nói với chúng ta, lặp đi lặp lại dưới mọi hình thức rằng họ yêu chúng ta, chẳng phải đó là ân huệ lớn nhất mà chúng ta có thể dành cho họ sao?&nbsp;Chẳng phải đó là nói với họ rằng tình yêu của họ làm chúng ta hài lòng, làm chúng ta vui thích, chẳng phải đó gần như là nói với họ rằng chúng ta cũng yêu họ sao?... Thiên Chúa cho phép chúng ta quỳ dưới chân Ngài, không ngừng thì thầm những lời ngưỡng mộ và yêu thương:&nbsp;thật là ân sủng!&nbsp;Thật là lòng nhân từ, thật là hạnh phúc!... Nhưng sẽ là bất ơn biết bao nếu chúng ta coi thường một ân huệ như vậy!&nbsp;Coi thường nó là không tận dụng nó, và không chỉ Thiên Chúa cho phép chúng ta hưởng hạnh phúc của mọi hạnh phúc này, mà Ngài còn truyền lệnh cho chúng ta:&nbsp;Ngài truyền lệnh cho chúng ta nói với Ngài rằng chúng ta ngưỡng mộ Ngài và chúng ta yêu Ngài, mà chúng ta lại không đáp lại một lời mời quý giá và ngọt ngào như vậy sao?&nbsp;Thật bất ơn!&nbsp;Thật vô giá trị!&nbsp;Thật thô lỗ!&nbsp;Thật quái đản!<br /><br />
 <br /><br />
-            Khi cÃ¡c con á» trong NgÆ°á»i, cÃ¡c con sáº½ á» trong Ta, Biá»n HÃ²a BÃ¬nh, vÃ¬ Ta lÃ  má»t vá»i NgÆ°á»i, cÅ©ng nhÆ° NgÆ°á»i lÃ  má»t vá»i Ta. VÃ¬ tháº¿, cÃ¡c con ÄÆ°á»£c má»i gá»i Äáº¿n nguá»n nÆ°á»c háº±ng sá»ng cá»§a Ã¢n sá»§ng.<br />
+            Lạy Chúa và Thiên Chúa của con, xin dạy con tìm thấy mọi niềm vui trong việc ngợi khen Chúa, nghĩa là không ngừng lặp đi lặp lại với Chúa rằng Chúa hoàn hảo vô cùng và con yêu Chúa vô cùng:&nbsp;“Delectare in Domino et dabit tibi petitiones tuas” (Tv 36,4) Chúa đã phán.&nbsp;Xin dạy con vui thích trong Chúa, trong việc chiêm ngắm vẻ đẹp vô biên của Chúa và trong lời thì thầm đầy yêu thương và không ngừng, dưới chân Chúa, những lời ngợi khen Chúa!... Lạy Thánh Mađalêna, xin cầu cho con được ơn ngợi khen Chúa chúng ta, Thầy chung của chúng ta, như Ngài muốn con thực hiện!<br />
 </font><br />
 
 ##########
 
 ##########
-SÃ¡ch Xuáº¥t HÃ nh <font dir="ltr">3,13-20.</font>@@@@@Thá»i áº¥y, MÃ´sÃª ÄÃ£ nghe tiáº¿ng ChÃºa tá»« bá»¥i gai. Ãng thÆ°a vá»i ThiÃªn ChÃºa&amp;nbsp;:&amp;nbsp;â&amp;nbsp;Váº­y con sáº½ Äáº¿n vá»i con cÃ¡i Israel vÃ  nÃ³i vá»i há»&amp;nbsp;: âThiÃªn ChÃºa cá»§a cha Ã´ng anh em ÄÃ£ sai tÃ´i Äáº¿n vá»i anh em.â Há» sáº½ há»i con tÃªn NgÆ°á»i lÃ  gÃ¬, con sáº½ nÃ³i sao ÄÃ¢y&amp;nbsp;?&amp;nbsp;â<br /><br />
-ThiÃªn ChÃºa phÃ¡n vá»i MÃ´sÃª&amp;nbsp;: â&amp;nbsp;Ta LÃ  Äáº¥ng Ta LÃ . NgÆ°Æ¡i sáº½ nÃ³i tháº¿ nÃ y vá»i con cÃ¡i Israel&amp;nbsp;: âÄáº¥ng Ta LÃ  ÄÃ£ sai tÃ´i Äáº¿n vá»i anh em.â&amp;nbsp;â<br /><br />
-ThiÃªn ChÃºa láº¡i phÃ¡n vá»i MÃ´sÃª&amp;nbsp;: â&amp;nbsp;NgÆ°Æ¡i sáº½ nÃ³i tháº¿ nÃ y vá»i con cÃ¡i Israel&amp;nbsp;: âÄá»¨C CHÃA, ThiÃªn ChÃºa cá»§a cha Ã´ng anh em, ThiÃªn ChÃºa cá»§a Ãpraham, ThiÃªn ChÃºa cá»§a IxaÃ¡c, ThiÃªn ChÃºa cá»§a GiacÃ³p, ÄÃ£ sai tÃ´i Äáº¿n vá»i anh em.â ÄÃ³ lÃ  tÃªn cá»§a Ta muÃ´n Äá»i, ÄÃ³ lÃ  danh hiá»u Äá» muÃ´n tháº¿ há» ghi nhá» Ta.&amp;nbsp;â<br /><br />
-NgÆ°Æ¡i hÃ£y Äi táº­p há»£p cÃ¡c ká»³ má»¥c Israel láº¡i. NgÆ°Æ¡i sáº½ nÃ³i vá»i há»&amp;nbsp;: âÄá»¨C CHÃA, ThiÃªn ChÃºa cá»§a cha Ã´ng anh em, ThiÃªn ChÃºa cá»§a Ãpraham, IxaÃ¡c vÃ  GiacÃ³p, ÄÃ£ hiá»n ra vá»i tÃ´i. NgÆ°á»i phÃ¡n&amp;nbsp;: Ta ÄÃ£ ÄoÃ¡i nhÃ¬n cÃ¡c ngÆ°Æ¡i, vÃ  Ta ÄÃ£ tháº¥y nhá»¯ng gÃ¬ ngÆ°á»i Ai Cáº­p Äang lÃ m cho cÃ¡c ngÆ°Æ¡i.<br /><br />
-Ta ÄÃ£ nÃ³i&amp;nbsp;: Ta sáº½ ÄÆ°a cÃ¡c ngÆ°Æ¡i tá»« cáº£nh láº§m than á» Ai Cáº­p lÃªn miá»n Äáº¥t cá»§a ngÆ°á»i Canaan, Hittite, Amorite, Perizzite, Hivvite vÃ  Jebusite, má»t miá»n Äáº¥t cháº£y sá»¯a vÃ  máº­t.â<br /><br />
-Há» sáº½ nghe lá»i ngÆ°Æ¡i&amp;nbsp;; rá»i ngÆ°Æ¡i sáº½ Äi cÃ¹ng vá»i cÃ¡c ká»³ má»¥c Israel Äáº¿n vá»i vua Ai Cáº­p, vÃ  cÃ¡c ngÆ°Æ¡i sáº½ nÃ³i vá»i vua&amp;nbsp;: âÄá»¨C CHÃA, ThiÃªn ChÃºa cá»§a ngÆ°á»i HÃ­p-ri, ÄÃ£ Äáº¿n gáº·p chÃºng tÃ´i. VÃ  bÃ¢y giá», xin cho chÃºng tÃ´i Äi vÃ o sa máº¡c, ÄÆ°á»ng ba ngÃ y, Äá» táº¿ lá» Äá»¨C CHÃA, ThiÃªn ChÃºa cá»§a chÃºng tÃ´i.â<br /><br />
-NhÆ°ng Ta biáº¿t ráº±ng vua Ai Cáº­p sáº½ khÃ´ng cho cÃ¡c ngÆ°Æ¡i Äi, trá»« khi bá» buá»c pháº£i lÃ m váº­y.<br /><br />
-Váº­y Ta sáº½ giÆ¡ tay ra, dÃ¹ng má»i thá»© phÃ©p láº¡ mÃ  Ta sáº½ thá»±c hiá»n giá»¯a Ai Cáº­p mÃ  ÄÃ¡nh phÃ¡ xá»© áº¥y. Sau ÄÃ³, vua sáº½ cho cÃ¡c ngÆ°Æ¡i Äi.â<br />
+Sách Sáng Thế <font dir="ltr">18,1-10a.</font>@@@@@Vào những ngày ấy, tại cây sồi Mamrê, Đức Chúa hiện ra với ông Ápraham, khi ông đang ngồi ở cửa lều. Đó là lúc nóng nhất trong ngày.<br /><br />
+Ông Ápraham ngước mắt lên và thấy ba người đàn ông đang đứng gần ông. Vừa thấy họ, ông liền chạy ra đón từ cửa lều và sấp mình xuống đất.<br /><br />
+Ông nói: “Thưa Ngài, nếu con được đẹp lòng Ngài, xin Ngài đừng bỏ qua mà hãy dừng lại gần đầy tớ Ngài.<br /><br />
+Xin cho phép người ta mang đến chút nước, quý vị sẽ rửa chân, rồi nghỉ ngơi dưới gốc cây này.<br /><br />
+Con sẽ đi lấy thức ăn, quý vị sẽ lấy lại sức trước khi đi xa hơn, vì quý vị đã ghé qua gần đầy tớ Ngài!” Họ đáp: “Cứ làm như ngươi đã nói.”<br /><br />
+Ông Ápraham vội vã vào lều tìm bà Sara và nói: “Mau lấy ba đấu bột mì loại hảo hạng, nhào bột và nướng bánh đi.”<br /><br />
+Rồi ông Ápraham chạy đến đàn gia súc, bắt một con bê non mập mạp, và trao cho một đầy tớ, người đó vội vã chuẩn bị.<br /><br />
+Ông lấy pho mát tươi, sữa, và con bê đã được chuẩn bị, đặt trước mặt họ; ông đứng bên cạnh họ, dưới gốc cây, trong khi họ ăn.<br /><br />
+Họ hỏi ông: “Bà Sara, vợ ông, đâu rồi?” Ông đáp: “Bà ấy ở trong lều.”<br /><br />
+Vị khách du hành tiếp lời: “Ta sẽ trở lại với ngươi vào thời điểm đã định cho việc sinh nở, và lúc đó, bà Sara, vợ ngươi, sẽ có một người con trai.”<br />
 
 ##########
-ThÃ¡nh Vá»nh <font dir="ltr">105(104),1.5.8-9.24-25.26-27.</font>@@@@@HÃ£y táº¡ Æ¡n Äá»¨C CHÃA, kÃªu cáº§u Danh NgÆ°á»i, <br /><br />
-loan bÃ¡o giá»¯a muÃ´n dÃ¢n cÃ´ng trÃ¬nh NgÆ°á»i thá»±c hiá»n;<br /><br />
-hÃ£y nhá» láº¡i nhá»¯ng ká»³ cÃ´ng NgÆ°á»i ÄÃ£ lÃ m, <br /><br />
-nhá»¯ng dáº¥u láº¡ vÃ  phÃ¡n quyáº¿t tá»« miá»ng NgÆ°á»i.<br /><br />
+Thánh Vịnh <font dir="ltr">15(14),2-3a.3bc-4ab.4d-5.</font>@@@@@Người sống ngay thẳng,<br /><br />
+làm điều công chính<br /><br />
+và nói sự thật từ trong lòng.<br /><br />
+Người ấy giữ miệng lưỡi mình.<br /><br />
 <br /><br />
-NgÆ°á»i mÃ£i mÃ£i ghi nhá» giao Æ°á»c cá»§a NgÆ°á»i, <br /><br />
-lá»i ÄÃ£ ban ra cho muÃ´n ngÃ n tháº¿ há»:<br /><br />
-lá»i há»©a ÄÃ£ thá» vá»i Ãpraham, <br /><br />
-lá»i ÄÃ£ thá» vá»i IxaÃ¡c.<br /><br />
+Không làm hại anh em mình<br /><br />
+và không sỉ nhục người thân cận.<br /><br />
+Trong mắt người ấy, kẻ bị loại bỏ là đáng khinh<br /><br />
+nhưng người ấy tôn trọng những người trung tín với Chúa.<br /><br />
 <br /><br />
-ThiÃªn ChÃºa lÃ m cho dÃ¢n NgÆ°á»i ÄÃ´ng ÄÃºc <br /><br />
-vÃ  hÃ¹ng máº¡nh hÆ¡n má»i káº» thÃ¹;<br /><br />
-NgÆ°á»i lÃ m cho nhá»¯ng káº» áº¥y thay lÃ²ng Äá»i dáº¡, <br /><br />
-ghÃ©t dÃ¢n NgÆ°á»i vÃ  lá»«a dá»i tÃ´i tá» NgÆ°á»i.<br /><br />
-<br /><br />
-NhÆ°ng NgÆ°á»i ÄÃ£ sai tÃ´i tá» NgÆ°á»i lÃ  MÃ´sÃª, <br /><br />
-vÃ  ngÆ°á»i NgÆ°á»i ÄÃ£ chá»n lÃ  Aharon,<br /><br />
-Äá» loan bÃ¡o nhá»¯ng Äiá»m thiÃªng, <br /><br />
-nhá»¯ng phÃ©p láº¡ táº¡i Äáº¥t Cham.<br />
+Người ấy không rút lại lời mình.<br /><br />
+Cho vay tiền không tính lãi,<br /><br />
+không nhận gì làm hại người vô tội.<br /><br />
+Ai làm như vậy thì vững vàng không lay chuyển.<br />
 
 ##########
-Tin Má»«ng ChÃºa GiÃªsu KitÃ´ theo thÃ¡nh MÃ¡tthÃªu <font dir="ltr">11,28-30.</font>@@@@@Khi áº¥y, Äá»©c GiÃªsu lÃªn tiáº¿ng nÃ³i: âTáº¥t cáº£ nhá»¯ng ai Äang váº¥t váº£ mang gÃ¡nh náº·ng ná», hÃ£y Äáº¿n cÃ¹ng tÃ´i, tÃ´i sáº½ cho nghá» ngÆ¡i bá»i dÆ°á»¡ng.<br /><br />
-Anh em hÃ£y mang láº¥y Ã¡ch cá»§a tÃ´i, vÃ  hÃ£y há»c vá»i tÃ´i, vÃ¬ tÃ´i cÃ³ lÃ²ng hiá»n lÃ nh vÃ  khiÃªm nhÆ°á»ng; tÃ¢m há»n anh em sáº½ ÄÆ°á»£c nghá» ngÆ¡i bá»i dÆ°á»¡ng.<br /><br />
-VÃ¬ Ã¡ch cá»§a tÃ´i Ãªm Ã¡i, vÃ  gÃ¡nh cá»§a tÃ´i nháº¹ nhÃ ng.â<br />
+Tin Mừng Chúa Giêsu Kitô theo Thánh Luca <font dir="ltr">10,38-42.</font>@@@@@Vào thời ấy, Đức Giêsu vào một làng kia. Có một phụ nữ tên là Matta đón Người vào nhà.<br /><br />
+Bà có một người em gái tên là Maria. Cô này cứ ngồi dưới chân Chúa mà nghe lời Người.<br /><br />
+Còn bà Matta thì tất bật lo việc phục vụ. Bà liền đến bên Người mà thưa: “Thưa Thầy, em con để con một mình làm mọi việc mà Thầy không quan tâm sao? Xin Thầy bảo nó giúp con một tay!”<br /><br />
+Chúa đáp lại: “Matta, Matta, con lo lắng và bận tâm nhiều chuyện quá!<br /><br />
+Chỉ có một điều cần thiết mà thôi. Maria đã chọn phần tốt nhất, và sẽ không ai lấy nó đi khỏi cô ấy.”<br />
 
 ##########
-ThÃ¡nh Alexi, NgÆ°á»i cá»§a ThiÃªn ChÃºa (â  tháº¿ ká»· V)
+Chân Phước Louis Novarese, linh mục và người sáng lập († 1984)
 ##########
-@@@@@<br />
+Thư Thánh Phaolô Tông Đồ gửi tín hữu Côlôxê <font dir="ltr">1,24-28.</font>@@@@@Anh em thân mến, bây giờ tôi vui mừng trong những đau khổ tôi chịu đựng vì anh em; những gì còn lại của những thử thách của Đức Kitô trong thân xác tôi, tôi hoàn tất cho thân thể của Người là Hội Thánh.<br /><br />
+Chính vì Hội Thánh này mà tôi đã trở thành người phục vụ, và sứ mạng mà Thiên Chúa đã giao phó cho tôi, là hoàn thành cho anh em việc công bố lời Ngài,<br /><br />
+mầu nhiệm đã được giấu kín từ muôn thuở đối với mọi thế hệ, nhưng nay đã được biểu lộ cho những người Ngài đã thánh hóa.<br /><br />
+Vì Thiên Chúa đã muốn cho họ biết sự vinh quang vô giá của mầu nhiệm này giữa muôn dân: chính Đức Kitô ở giữa anh em, Người là niềm hy vọng vinh quang!<br /><br />
+Đức Kitô ấy, chúng tôi công bố: chúng tôi cảnh báo mọi người, chúng tôi giáo huấn mỗi người bằng tất cả sự khôn ngoan, để đưa họ đến sự hoàn hảo trong Đức Kitô.<br />
 
 ##########
-Thá»© NÄm tuáº§n 15 MÃ¹a ThÆ°á»ng NiÃªn
+Chúa Nhật XVI Mùa Thường Niên
 ##########
-A @@@  @@@  @@@  @@@   
+A @@@ @@@ @@@
