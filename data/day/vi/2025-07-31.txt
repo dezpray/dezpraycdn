@@ -1,86 +1,74 @@
-            Thánh Inhaxiô Loyola, linh mục và người sáng lập († 1556)<br />
-                Thánh Germain, giám mục († 448)<br />
-                Chân phước Marcel Denis, linh mục MEP và tử đạo († Lào 1961)<br />
-                Thánh Calimero, giám mục và tử đạo († cuối thế kỷ II)<br />
-                Các thánh Démocrite, Second và Denis, tử đạo († thế kỷ III)<br />
-                Thánh Fabius, tử đạo († 303 hoặc 304)<br />
-                Thánh Tertullin, tử đạo († thế kỷ IV)<br />
-                Thánh Hélène de Skövde, góa phụ và tử đạo († 1160)<br />
-                Chân phước Jean Colombini, người sáng lập dòng Giêsuát († 1367)<br />
-                Chân phước Évrard Hanse, linh mục và tử đạo († 1584)<br />
-                Chân phước Jean-François Jarrige, linh mục và tử đạo († 1794)<br />
-                Thánh Emmanuel Lê Văn Phụng, tử đạo († 1859)<br />
-                Thánh Phêrô Đoàn Công Quy, linh mục và tử đạo († 1859)<br />
-                Thánh Justin de Jacobis, giám mục († 1860)<br />
-                Chân phước Denis Ramos, linh mục O.F.M. Conv. và tử đạo († 1936)<br />
-                Chân phước François Remon Jativa, tu sĩ O.F.M. và tử đạo († 1936)<br />
-                Chân phước Jaime Buch Canals, trợ tá S.D.B. và tử đạo († 1936)<br />
-                Chân phước François Stryjas, giáo lý viên và tử đạo († 1944)<br />
-                Chân phước Michal Ozieblowski, linh mục và tử đạo († 1942)<br />
-                Chân phước Pierre Çuni, linh mục và tử đạo († 1948)<br />
-                Chân phước Cécile hay Sidonie Zdenka Schelingová, trinh nữ và tử đạo († 1955)<br />
+            ThÃ¡nh InhaxiÃ´ Loyola, linh má»¥c vÃ  ngÆ°á»i sÃ¡ng láº­p (â  1556)<br />
+                ThÃ¡nh Germain, giÃ¡m má»¥c (â  448)<br />
+                ChÃ¢n phÆ°á»c Marcel Denis, linh má»¥c MEP vÃ  tá»­ Äáº¡o (â  LÃ o 1961)<br />
+                ThÃ¡nh Calimero, giÃ¡m má»¥c vÃ  tá»­ Äáº¡o (â  cuá»i tháº¿ ká»· II)<br />
+                CÃ¡c ThÃ¡nh DÃ©mocrite, Second vÃ  Denis, tá»­ Äáº¡o (â  tháº¿ ká»· III)<br />
+                ThÃ¡nh Fabius, tá»­ Äáº¡o (â  303 hoáº·c 304)<br />
+                ThÃ¡nh Tertullin, tá»­ Äáº¡o (â  tháº¿ ká»· IV)<br />
+                ThÃ¡nh Helena SkÃ¶vde, gÃ³a phá»¥ vÃ  tá»­ Äáº¡o (â  1160)<br />
+                ChÃ¢n phÆ°á»c Jean Colombini, ngÆ°á»i sÃ¡ng láº­p dÃ²ng GiÃªsuate (â  1367)<br />
+                ChÃ¢n phÆ°á»c Ãvrard Hanse, linh má»¥c vÃ  tá»­ Äáº¡o (â  1584)<br />
+                ChÃ¢n phÆ°á»c Jean-FranÃ§ois Jarrige, linh má»¥c vÃ  tá»­ Äáº¡o (â  1794)<br />
+                ThÃ¡nh Emmanuel LÃª VÄn Phá»¥ng, tá»­ Äáº¡o (â  1859)<br />
+                ThÃ¡nh PhÃªrÃ´ ÄoÃ n CÃ´ng QuÃ½, linh má»¥c vÃ  tá»­ Äáº¡o (â  1859)<br />
+                ThÃ¡nh Justin de Jacobis, giÃ¡m má»¥c (â  1860)<br />
+                ChÃ¢n phÆ°á»c Denis Ramos, linh má»¥c O.F.M. Conv. vÃ  tá»­ Äáº¡o (â  1936)<br />
+                ChÃ¢n phÆ°á»c FranÃ§ois Remon Jativa, tu sÄ© O.F.M. vÃ  tá»­ Äáº¡o (â  1936)<br />
+                ChÃ¢n phÆ°á»c Jaime Buch Canals, trá»£ lÃ½ S.D.B. vÃ  tá»­ Äáº¡o (â  1936)<br />
+                ChÃ¢n phÆ°á»c FranÃ§ois Stryjas, giÃ¡o lÃ½ viÃªn vÃ  tá»­ Äáº¡o (â  1944)<br />
+                ChÃ¢n phÆ°á»c Michal Ozieblowski, linh má»¥c vÃ  tá»­ Äáº¡o (â  1942)<br />
+                ChÃ¢n phÆ°á»c Pierre Ãuni, linh má»¥c vÃ  tá»­ Äáº¡o (â  1948)<br />
+                ChÃ¢n phÆ°á»c CÃ©cile hoáº·c Sidonie Zdenka SchelingovÃ¡, trinh ná»¯ vÃ  tá»­ Äáº¡o (â  1955)<br />
     
 ##########
-<font style="text-align:left" dir="ltr">Sự khổ hạnh tỉnh thức của người công chính</font>@@@@@<font style="text-align:left" dir="ltr"><br />
-            “Hơi thở con sẽ mòn mỏi.” (Gióp 17,1 Vg) Hơi thở mòn mỏi vì sợ hãi sự phán xét, bởi vì linh hồn những người được chọn càng cảm thấy gần ngày phán xét tối cao, thì họ càng run rẩy kinh hoàng trong sự xét mình, và nếu họ khám phá ra trong mình vài ý nghĩ xác thịt, họ sẽ tiêu diệt chúng bằng lửa sám hối. (…) Người được chọn càng ăn năn sâu sắc hơn khi họ chờ đợi vị thẩm phán nghiêm khắc, đã rất gần kề.<br /><br />
+<font style="align-text:left" dir="ltr">Sá»± khá» háº¡nh tá»nh thá»©c cá»§a ngÆ°á»i cÃ´ng chÃ­nh</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+            Â«&amp;nbsp;HÆ¡i thá» tÃ´i sáº½ tÃ n phai.&amp;nbsp;Â» (GiÃ³p 17,1 Vg) HÆ¡i thá» tÃ n phai trong ná»i sá»£ phÃ¡n xÃ©t, bá»i vÃ¬, linh há»n cá»§a nhá»¯ng ngÆ°á»i ÄÆ°á»£c chá»n cÃ ng cáº£m tháº¥y gáº§n ngÃ y phÃ¡n xÃ©t tá»i cao, thÃ¬ cÃ ng run sá»£ trong sá»± xÃ©t mÃ¬nh vÃ  náº¿u phÃ¡t hiá»n ra trong mÃ¬nh vÃ i tÆ° tÆ°á»ng xÃ¡c thá»t, há» sáº½ thiÃªu Äá»t chÃºng trong lá»­a sÃ¡m há»i. (â¦) NgÆ°á»i ÄÆ°á»£c chá»n cÃ ng Än nÄn sÃ¡m há»i sÃ¢u sáº¯c hÆ¡n vÃ¬ há» biáº¿t vá» Tháº©m phÃ¡n nghiÃªm kháº¯c ÄÃ£ ráº¥t gáº§n.<br /><br />
 <br /><br />
-            Do đó, những người được chọn tin rằng ngày cuối cùng của họ luôn gần kề. Bởi vì nếu linh hồn những kẻ bị kết án thường hành động một cách độc ác, đó là vì họ cho rằng mình còn sống lâu trên thế gian này. Vì vậy, hơi thở của người công chính yếu đi và hơi thở của kẻ bất chính lại vững mạnh hơn. Thật vậy, vì sự kiêu ngạo của hắn, hắn không biết đến sự hao mòn của hơi thở mình. Nhưng, khi xét đến sự ngắn ngủi của cuộc đời mình, người công chính quay lưng lại với những lỗi lầm của kiêu ngạo và ô uế. Do đó có thêm lời này: “Ngày tháng con sẽ ngắn lại, và chỉ còn lại nấm mồ cho con.” Người nào xem xét mình sẽ ra sao trong cái chết thì không bao giờ hành động mà không sợ hãi; và đã không còn sống, theo một nghĩa nào đó, trong mắt mình, họ sống trong mọi sự thật trước mắt Đấng đã tạo dựng họ. (…)<br /><br />
+            VÃ¬ tháº¿, nhá»¯ng ngÆ°á»i ÄÆ°á»£c chá»n tin ráº±ng ngÃ y cuá»i cÃ¹ng cá»§a há» luÃ´n Äáº¿n gáº§n. Bá»i vÃ¬, náº¿u linh há»n cá»§a nhá»¯ng káº» bá» káº¿t Ã¡n thÆ°á»ng cÆ° xá»­ tÃ n báº¡o, ÄÃ³ lÃ  vÃ¬ há» nghÄ© ráº±ng mÃ¬nh cÃ²n sá»ng lÃ¢u trÃªn tháº¿ gian nÃ y. VÃ¬ váº­y, hÆ¡i thá» cá»§a ngÆ°á»i cÃ´ng chÃ­nh yáº¿u Äi cÃ²n hÆ¡i thá» cá»§a káº» báº¥t chÃ­nh thÃ¬ máº¡nh lÃªn. Quáº£ tháº­t, bá»i vÃ¬ há» Äáº§y kiÃªu hÃ£nh, há» khÃ´ng biáº¿t sá»± yáº¿u Äi cá»§a hÆ¡i thá» mÃ¬nh. NhÆ°ng, khi xem xÃ©t sá»± ngáº¯n ngá»§i cá»§a Äá»i mÃ¬nh, ngÆ°á»i cÃ´ng chÃ­nh trÃ¡nh xa nhá»¯ng lá»i láº§m cá»§a kiÃªu ngáº¡o vÃ  Ã´ uáº¿. Do ÄÃ³ cÃ³ thÃªm cÃ¢u nÃ y&amp;nbsp;: Â«&amp;nbsp;NgÃ y cá»§a tÃ´i sáº½ ngáº¯n láº¡i vÃ  chá» cÃ²n láº¡i náº¥m má».&amp;nbsp;Â» NgÆ°á»i nÃ o suy nghÄ© vá» mÃ¬nh sáº½ ra sao trong cÃ¡i cháº¿t thÃ¬ luÃ´n hÃ nh Äá»ng vá»i sá»± sá»£ hÃ£i&amp;nbsp;; vÃ  dÃ¹ khÃ´ng cÃ²n sá»ng theo nghÄ©a Äen trong máº¯t mÃ¬nh, ngÆ°á»i ÄÃ³ váº«n sá»ng má»t cÃ¡ch chÃ¢n tháº­t trong máº¯t Äáº¥ng ÄÃ£ táº¡o dá»±ng nÃªn mÃ¬nh. (â¦)<br /><br />
 <br /><br />
-            Chính trong sự khổ hạnh tỉnh thức này mà người công chính thoát khỏi cạm bẫy của tội lỗi. Do đó có lời Thánh Kinh này: “Trong mọi việc con làm, hãy nhớ đến cùng tận của con, và con sẽ không bao giờ phạm tội nữa.” (Hc 7,40 Vg)<br />
+            ChÃ­nh trong sá»± khá» háº¡nh tá»nh thá»©c nÃ y mÃ  ngÆ°á»i cÃ´ng chÃ­nh thoÃ¡t khá»i cáº¡m báº«y cá»§a tá»i lá»i. Do ÄÃ³ cÃ³ lá»i Kinh ThÃ¡nh&amp;nbsp;: Â«&amp;nbsp;Trong má»i viá»c lÃ m cá»§a con, hÃ£y nhá» Äáº¿n cÃ¹ng ÄÃ­ch cá»§a con, vÃ  con sáº½ khÃ´ng bao giá» pháº¡m tá»i ná»¯a.&amp;nbsp;Â» (Hc 7,40 Vg)<br />
 </font><br />
 
 ##########
 
 ##########
-Sách Xuất Hành <font dir="ltr">40,16-21.34-38.</font>@@@@@Vào những ngày đó, Môisê đã thực hiện tất cả những gì Chúa đã truyền cho ông.<br /><br />
-Nhà tạm của Thiên Chúa được dựng lên vào năm thứ hai sau khi ra khỏi Ai Cập, ngày đầu tháng giêng.<br /><br />
-Môisê dựng Nhà tạm như vậy: ông đặt nền, dựng cột và các thanh ngang, rồi ông dựng các trụ.<br /><br />
-Phía trên Nhà tạm, ông giăng Lều và che phủ nó như Chúa đã truyền cho ông.<br /><br />
-Ông lấy Chứng Ước và đặt vào Hòm Bia. Ông gắn các thanh ngang vào Hòm Bia và phủ Hòm Bia bằng nắp xá tội bằng vàng.<br /><br />
-Ông mang Hòm Bia vào Nhà tạm, và giăng màn che Hòm Bia Chứng Ước như Chúa đã truyền cho ông.<br /><br />
-Mây bao phủ Lều Hội Ngộ, và vinh quang của Chúa tràn ngập Nhà tạm.<br /><br />
-Môisê không thể vào Lều Hội Ngộ, vì đám mây ngự trong đó và vinh quang của Chúa tràn ngập Nhà tạm.<br /><br />
-Trong mỗi chặng đường, khi đám mây bay lên và rời khỏi Nhà tạm, con cái Israel nhổ trại.<br /><br />
-Nếu đám mây không bay lên, họ sẽ đóng trại cho đến ngày nó bay lên.<br /><br />
-Ban ngày, đám mây của Chúa ngự trên Nhà tạm, và ban đêm, một ngọn lửa chiếu sáng trong đám mây trước mắt toàn thể Israel. Và điều đó đã xảy ra như vậy trong mọi chặng đường của họ.<br />
+SÃ¡ch Xuáº¥t HÃ nh <font dir="ltr">40,16-21.34-38.</font>@@@@@Trong nhá»¯ng ngÃ y áº¥y, MÃ´isÃª ÄÃ£ thá»±c hiá»n má»i Äiá»u mÃ  ChÃºa ÄÃ£ truyá»n cho Ã´ng.<br /><br />
+NhÃ  cá»§a ThiÃªn ChÃºa ÄÆ°á»£c dá»±ng lÃªn vÃ o nÄm thá»© hai sau khi ra khá»i Ai Cáº­p, ngÃ y Äáº§u tiÃªn cá»§a thÃ¡ng thá»© nháº¥t.<br /><br />
+MÃ´isÃª ÄÃ£ dá»±ng NhÃ  nhÆ° tháº¿&nbsp;: Ã´ng Äáº·t ná»n, cÃ¡c xÃ  ngang vÃ  xÃ  dá»c, rá»i dá»±ng cÃ¡c cá»t.<br /><br />
+TrÃªn NhÃ , Ã´ng tráº£i Lá»u vÃ  phá»§ lÃªn ÄÃ³ nhÆ° ChÃºa ÄÃ£ truyá»n cho Ã´ng.<br /><br />
+Ãng láº¥y Chá»©ng Æ¯á»c vÃ  Äáº·t vÃ o trong hÃ²m. Ãng láº¯p cÃ¡c ÄÃ²n khiÃªng vÃ o hÃ²m vÃ  phá»§ lÃªn ÄÃ³ táº¥m vÃ ng gá»i lÃ  náº¯p xÃ¡ tá»i.<br /><br />
+Ãng ÄÆ°a hÃ²m vÃ o NhÃ , vÃ  Äáº·t mÃ n che Äá» che hÃ²m Chá»©ng Æ¯á»c nhÆ° ChÃºa ÄÃ£ truyá»n cho Ã´ng.<br /><br />
+MÃ¢y bao phá»§ Lá»u Há»i Ngá», vÃ  vinh quang cá»§a ChÃºa trÃ n ngáº­p NhÃ .<br /><br />
+MÃ´isÃª khÃ´ng thá» vÃ o Lá»u Há»i Ngá», vÃ¬ mÃ¢y á» ÄÃ³ vÃ  vinh quang cá»§a ChÃºa trÃ n ngáº­p NhÃ .<br /><br />
+Má»i khi lÃªn ÄÆ°á»ng, khi mÃ¢y bay lÃªn vÃ  rá»i khá»i NhÃ , con cÃ¡i Israel nhá» tráº¡i.<br /><br />
+Náº¿u mÃ¢y khÃ´ng bay lÃªn, há» á» láº¡i tráº¡i cho Äáº¿n ngÃ y mÃ¢y bay lÃªn.<br /><br />
+VÃ o ban ngÃ y, mÃ¢y cá»§a ChÃºa ngá»± trÃªn NhÃ , vÃ  ban ÄÃªm, lá»­a chiáº¿u sÃ¡ng trong mÃ¢y trÆ°á»c máº¯t toÃ n thá» Israel. VÃ  Äiá»u ÄÃ³ ÄÃ£ xáº£y ra nhÆ° váº­y trong suá»t cÃ¡c cháº·ng ÄÆ°á»ng cá»§a há».<br />
 
 ##########
-Thánh Vịnh <font dir="ltr">84(83),3.4.5-6.11.</font>@@@@@Linh hồn con mòn mỏi ước ao <br /><br />
-đến sân của Chúa; <br /><br />
-tâm hồn và thân xác con kêu lên <br /><br />
-với Thiên Chúa hằng sống!<br /><br />
+ThÃ¡nh Vá»nh <font dir="ltr">84(83),3.4.5-6.11.</font>@@@@@TÃ¢m há»n con khao khÃ¡t Äáº¿n kiá»t sá»©c <br /><br />
+sÃ¢n cá»§a ChÃºa ; <br /><br />lÃ²ng con vÃ  xÃ¡c con lÃ  tiáº¿ng kÃªu <br /><br />hÆ°á»ng vá» ThiÃªn ChÃºa háº±ng sá»ng !<br /><br />
 <br /><br />
-Chim sẻ cũng tìm được nhà, <br /><br />
-én cũng tìm được tổ để trú ẩn con cái mình: <br /><br />
-bàn thờ của Ngài, lạy Chúa vũ trụ, <br /><br />
-Vua con và Thiên Chúa con!<br /><br />
+Ngay cáº£ chim cÅ©ng tÃ¬m ÄÆ°á»£c nhÃ , <br /><br />vÃ  chim Ã©n, má»t tá» Äá» che chá» ÄÃ n con&nbsp;: <br /><br />bÃ n thá» cá»§a NgÃ i, ChÃºa cá»§a vÅ© trá»¥, <br /><br />Vua con vÃ  ThiÃªn ChÃºa cá»§a con !<br /><br />
 <br /><br />
-Hạnh phúc thay những ai ở trong nhà Ngài: <br /><br />
-họ sẽ còn ca ngợi Ngài!<br /><br />
-Hạnh phúc thay những người mà Ngài là sức mạnh: <br /><br />
-những con đường mở ra trong lòng họ!<br /><br />
+PhÃºc thay nhá»¯ng ngÆ°á»i á» trong nhÃ  NgÃ i&nbsp;: <br /><br />há» váº«n cÃ³ thá» hÃ¡t ca NgÃ i !<br /><br />PhÃºc thay nhá»¯ng ngÆ°á»i mÃ  NgÃ i lÃ  sá»©c máº¡nh&nbsp;: <br /><br />nhá»¯ng con ÄÆ°á»ng má» ra trong lÃ²ng há» !<br /><br />
 <br /><br />
-Vâng, một ngày trong sân Ngài <br /><br />
-hơn ngàn ngày khác. <br /><br />
-Con đã chọn đứng ở ngưỡng cửa, <br /><br />
-trong nhà Thiên Chúa con, <br /><br />
-hơn là ở giữa những kẻ vô tín.<br />
+Pháº£i, má»t ngÃ y trong sÃ¢n cá»§a NgÃ i <br /><br />hÆ¡n ngÃ n ngÃ y khÃ¡c. <br /><br />Con ÄÃ£ chá»n Äá»©ng trÃªn ngÆ°á»¡ng cá»­a, <br /><br />trong nhÃ  cá»§a ThiÃªn ChÃºa con, <br /><br />hÆ¡n lÃ  á» giá»¯a nhá»¯ng káº» báº¥t tÃ­n.<br />
 
 ##########
-Tin Mừng Chúa Giêsu Kitô theo thánh Matthêu <font dir="ltr">13,47-53.</font>@@@@@Vào thời ấy, Đức Giêsu nói với đám đông: “Nước Trời lại giống như một cái lưới thả xuống biển, thu được đủ thứ cá.<br /><br />
-Khi lưới đầy, người ta kéo lên bờ, ngồi xuống, chọn những con tốt bỏ vào giỏ, còn những con không ra gì thì ném đi.<br /><br />
-Trong ngày tận thế cũng vậy: các thiên thần sẽ ra đi tách biệt kẻ ác khỏi người công chính<br /><br />
-và ném chúng vào lò lửa: ở đó sẽ có tiếng khóc lóc và nghiến răng.”<br /><br />
-“Các con có hiểu tất cả những điều này không?” Họ trả lời: “Có ạ.”<br /><br />
-Đức Giêsu nói thêm: “Vì thế, mọi kinh sư đã trở thành môn đệ của Nước Trời thì giống như chủ nhà lấy ra khỏi kho tàng của mình những cái mới và những cái cũ.”<br /><br />
-Khi Đức Giêsu đã kể xong những dụ ngôn này, Người rời khỏi đó.<br />
+Tin Má»«ng ChÃºa GiÃªsu KitÃ´ theo thÃ¡nh MatthÃªu <font dir="ltr">13,47-53.</font>@@@@@Khi áº¥y, Äá»©c GiÃªsu nÃ³i vá»i ÄÃ¡m ÄÃ´ng&nbsp;: Â«NÆ°á»c Trá»i cÃ²n giá»ng nhÆ° má»t cÃ¡i lÆ°á»i tháº£ xuá»ng biá»n, gom ÄÆ°á»£c má»i thá»© cÃ¡.<br /><br />
+Khi lÆ°á»i Äáº§y, ngÆ°á»i ta kÃ©o vÃ o bá», rá»i ngá»i xuá»ng, chá»n cÃ¡ tá»t cho vÃ o giá», cÃ²n cÃ¡ xáº¥u thÃ¬ quÄng Äi.<br /><br />
+Cuá»i thá»i sáº½ xáº£y ra nhÆ° váº­y&nbsp;: cÃ¡c thiÃªn tháº§n sáº½ xuáº¥t hiá»n vÃ  tÃ¡ch biá»t káº» xáº¥u ra khá»i ngÆ°á»i cÃ´ng chÃ­nh<br /><br />
+rá»i quÄng chÃºng vÃ o lÃ² lá»­a&nbsp;: á» ÄÃ³ sáº½ cÃ³ tiáº¿ng khÃ³c lÃ³c vÃ  nghiáº¿n rÄng.Â Â»<br /><br />
+Â«Â CÃ¡c con cÃ³ hiá»u táº¥t cáº£ nhá»¯ng Äiá»u nÃ y khÃ´ng&nbsp;?Â Â» Há» ÄÃ¡p&nbsp;: Â«Â Hiá»uÂ Â» .<br /><br />
+Äá»©c GiÃªsu nÃ³i thÃªm&nbsp;: Â«Â VÃ¬ tháº¿, má»i kinh sÆ° ÄÃ£ trá» thÃ nh mÃ´n Äá» cá»§a NÆ°á»c Trá»i thÃ¬ giá»ng nhÆ° má»t chá»§ nhÃ  láº¥y tá»« kho tÃ ng cá»§a mÃ¬nh ra cáº£ cÃ¡i má»i láº«n cÃ¡i cÅ©.Â Â»<br /><br />
+Khi Äá»©c GiÃªsu ÄÃ£ ká» xong nhá»¯ng dá»¥ ngÃ´n nÃ y, NgÆ°á»i rá»i nÆ¡i ÄÃ³.<br />
 
 ##########
-Thánh Inhaxiô Loyola, linh mục và người sáng lập († 1556)
+ThÃ¡nh InhaxiÃ´ Loyola, linh má»¥c vÃ  ngÆ°á»i sÃ¡ng láº­p (â  1556)
 ##########
 @@@@@<br />
 
 ##########
-Thứ Năm, tuần thứ 17 Mùa Thường Niên
+Thá»© NÄm tuáº§n 17 mÃ¹a ThÆ°á»ng NiÃªn
 ##########
 A @@@  @@@  @@@  @@@   

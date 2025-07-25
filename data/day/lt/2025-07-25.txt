@@ -1,87 +1,87 @@
-            Šv. Jokūbas Vyresnysis, apaštalas ir kankinys (m. apie 42 m.)<br />
-                Pal. Juozapas Luisas Palasijus Munjisas ir 3 bendražygiai, kankiniai (m. 1936 m.)<br />
-                Pal. Angelas Dariejus Akosta Zurita, kunigas ir kankinys (m. 1931 m.)<br />
-                Šv. Marija del Karmenas Saljes i Barangeras, steigėja (m. 1911 m.)<br />
-                Šv. Kristoforas, kankinys (m. apie 250 m.)<br />
-                Šv. Kukufas, kankinys (m. IV a. pradžioje)<br />
-                Šv. Valentina, Tėja ir Paulius, kankiniai (m. 308 m.)<br />
-                Šv. Olimpiada, našlė ir diakonė (m. apie 410 m.)<br />
-                Šv. Magnérikas, vyskupas (m. 596 m.)<br />
-                Šv. Beatas ir Bantus, kunigai ir atsiskyrėliai (m. VI a.)<br />
-                Šv. Gloseinda, abatė (m. VI a.)<br />
-                Šv. Teodomiras, vienuolis ir kankinys (m. 851 m.)<br />
-                Pal. Jonas Sorethas, kunigas karmelitas (m. 1491 m.)<br />
-                Pal. Petras Koradinis iš Moljano, kunigas pranciškonas (m. 1490 m.)<br />
-                Pal. Pranciškus Aranja, jėzuitų ordino vienuolis ir kankinys (m. 1583 m.)<br />
-                Pal. Rodolfas Akvaviva, jėzuitas kunigas ir kankinys (m. 1583 m.)<br />
-                Pal. Antanas Franciskas, jėzuitų ordino kunigas ir kankinys (m. 1583 m.)<br />
-                Pal. Alfonsas Pacheko, jėzuitų ordino kunigas ir kankinys (m. 1583 m.)<br />
-                Pal. Petras Berna, jėzuitų ordino kunigas ir kankinys (m. 1583 m.)<br />
-                Pal. Antanas Lučis, vyskupas konventualas pranciškonas (m. 1762 m.)<br />
-                Pal. Mykolas Luisas Briulardas, kunigas karmelitas ir kankinys (m. 1794 m.)<br />
-                Pal. Petras du Kouras ir 2 bendražygiai pasionistai (m. 1936 m.)<br />
-                Pal. Frederikas Alvaras ir 3 bendražygiai, Dievo broliai, kankiniai (m. 1936 m.)<br />
-                Pal. Dionyzas Pamplona, kunigas ir kankinys (m. 1936 m.)<br />
-                Pal. Deogracijas Palasijus ir 4 bendražygiai, kankiniai (m. 1936 m.)<br />
-                Pal. Marija Teresė Kovalska, klarisė ir kankinė (m. 1941 m.)<br />
-    
-##########
-<font style="align-text:left" dir="ltr">„Jis jiems tarė: „Štai mes keliaujame į Jeruzalę.““</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-    „Veltui keliatės pirma aušros“ (Ps 127, 2). Ką tai reiškia? ... Kristus, mūsų Diena, patekėjo; gera keltis po Kristaus, o ne prieš jį. Kas gi yra tie, kurie keliasi prieš Kristų? ... Tie, kurie nori būti iškelti čia, žemėje, kur jis buvo nusižeminęs. Tegu jie būna nusižeminę šiame pasaulyje, jei nori būti iškelti ten, kur Kristus yra iškeltas. Juk jis pasakė apie tuos, kurie tikėjimu prie jo prisijungė – o juk mes būtent prie tokių priklausome: „Tėve, aš noriu, kad tie, kuriuos man davei, būtų su manimi ten, kur ir aš esu“ (Jn 17, 24). Nuostabi dovana, didžiulė malonė, šlovingas pažadas... Ar norite būti ten, kur jis yra iškeltas? Būkite nusižeminę ten, kur jis buvo nusižeminęs.<br /><br />
+Šv. Jokūbas Vyresnysis, apaštalas ir kankinys († apie 42)
+Pal. Juozapas Luisas Palasijus Muñizas ir 3 bendrakankiniai, kankiniai († 1936)
+Pal. Angelas Daras Akosta Zurita, kunigas ir kankinys († 1931)
+Šv. Marija del Karmenas Sallés y Barangueras, steigėja († 1911)
+Šv. Kristoforas, kankinys († apie 250)
+Šv. Kukufatas, kankinys († IV a. pradžioje)
+Šv. Valentina, Tėja ir Paulius, kankiniai († 308)
+Šv. Olimpiada, našlė ir diakonė († apie 410)
+Šv. Magnėrikas, vyskupas († 596)
+Šv. Beatas ir Bantusas, kunigai ir atsiskyrėliai († VI a.)
+Šv. Glosindė, abatė († VI a.)
+Šv. Teodemiras, vienuolis ir kankinys († 851)
+Pal. Jonas Sorethas, kunigas, Karm. († 1491)
+Pal. Petras Koradinis de Mogliano, kunigas, OFM († 1490)
+Pal. Pranciškus Aranha, vienuolis, SJ ir kankinys († 1583)
+Pal. Rudolfas Akvaviva, kunigas, SJ ir kankinys († 1583)
+Pal. Antanas Franciskas, kunigas, SJ ir kankinys († 1583)
+Pal. Alfonsas Pacheco, kunigas, SJ ir kankinys († 1583)
+Pal. Petras Berna, kunigas, SJ ir kankinys († 1583)
+Pal. Antanas Lucci, vyskupas, OFM Conv. († 1762)
+Pal. Mykolas-Luisas Brulardas, kunigas, Karm. ir kankinys († 1794)
+Pal. Petras du Coeur ir 2 bendrakankiniai, CP († 1936)
+Pal. Frederikas Alvaresas ir 3 bendrakankiniai, OH, kankiniai († 1936)
+Pal. Dionizas Pamplona, kunigas ir kankinys († 1936)
+Pal. Deogratias Palasijus ir 4 bendrakankiniai, kankiniai († 1936)
+Pal. Marija-Teresė Kovalska, klarisė ir kankinė († 1941)
+
+<font style="align-text:left" dir="ltr">„Jis jiems tarė: „Štai mes kylame į Jeruzalę.““</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+&nbsp;&nbsp;&nbsp;&nbsp;„Veltui keliatės prieš aušrą“ (Ps 126,2). Ką tai reiškia? ... Kristus, mūsų Diena, užtekėjo; gerai keltis po Kristaus, o ne prieš Jį. Kas yra tie, kurie keliasi prieš Kristų? ... Tie, kurie nori būti išaukštinti čia, žemėje, kur Jis buvo nuolankus. Tegul jie bus nuolankūs šiame pasaulyje, jei nori būti išaukštinti ten, kur Kristus yra išaukštintas. Juk Jis pasakė apie tuos, kurie tikėjimu prie Jo prilipo – ir būtent mes esame iš jų: „Tėve, noriu, kad tie, kuriuos man davei, būtų kartu su manimi ten, kur esu aš“ (Jn 17,25). Nuostabi dovana, didžiulė malonė, šlovingas pažadas... Ar norite būti ten, kur Jis yra išaukštintas? Būkite nuolankūs ten, kur Jis buvo nuolankus.<br /><br />
 <br /><br />
-    „Mokinys nėra viršesnis už mokytoją“ (Mt 10, 24)... Ir vis dėlto Zebediejaus sūnūs, dar nepatyrę pažeminimo pagal Viešpaties Kančią, jau buvo pasirinkę savo vietas: vienas jo dešinėje, kitas – kairėje. Jie norėjo „keltis pirma Aušros“; todėl ėjo veltui. Viešpats jiems priminė nusižeminimą paklausdamas: „Ar galite gerti taurę, kurią aš gersiu? Aš atėjau, kad būčiau nusižeminęs, o jūs norite būti iškelti prieš mane? Sekite paskui mane, – sakė jis, – keliu, kuriuo aš einu. Nes jei norite eiti keliu, kuriuo aš neinu, tai veltui.“<br />
+&nbsp;&nbsp;&nbsp;&nbsp;„Mokinys ne didesnis už mokytoją“ (Mt 10,24)... Ir vis dėlto, Zebediejaus sūnūs, dar nepatyrę pažeminimo pagal Viešpaties kančią, jau buvo išsirinkę savo vietą: vienas Jo dešinėje, kitas – Jo kairėje. Jie norėjo „keltis prieš Dieną“; todėl ėjo veltui. Viešpats juos priminė apie nuolankumą, paklausdamas: „Ar galite gerti taurę, kurią aš gersiu?“ Aš atėjau būti nuolankus, o jūs norite būti išaukštinti prieš mane? „Sekite mane, – sakė Jis, – keliu, kuriuo einu. Nes jei norite eiti keliu, kuriuo aš neinu, tai veltui.“<br />
 </font><br />
 
 ##########
 
 ##########
-Antrasis šventojo apaštalo Pauliaus laiškas korintiečiams <font dir="ltr">4,7-15.</font>@@@@@Broliai, mes nešame lobį moliniuose induose, kad būtų akivaizdu, jog ta jėgos galybė yra iš Dievo, o ne iš mūsų.<br /><br />
-Esame visaip varginami, bet nesugniuždyti; sielvartaujame, bet neprarandame vilties;<br /><br />
-persekiojami, bet nepalikti; parblokšti, bet nežuvę.<br /><br />
-Visada nešiojame savo kūne Jėzaus mirtį, kad ir Jėzaus gyvybė pasirodytų mūsų kūne.<br /><br />
-Gyvieji mes visuomet esame atiduodami mirčiai dėl Jėzaus, kad ir Jėzaus gyvybė pasirodytų mūsų mirtingame kūne.<br /><br />
+Antrasis šventojo apaštalo Pauliaus laiškas korintiečiams <font dir="ltr">4,7-15.</font>@@@@@Broliai, šį lobį mes nešiojamės moliniuose induose, kad būtų akivaizdu – ta nepaprasta jėga yra iš Dievo, o ne iš mūsų.<br /><br />
+Visaip esame spaudžiami, bet nesuvaržyti; nustebę, bet ne praradę viltį;<br /><br />
+persekiojami, bet nepalikti; parblokšti, bet ne sunaikinti.<br /><br />
+Visur ir visuomet nešiojamės savo kūne mirusiojo Jėzaus žymę, kad ir Jėzaus gyvybė pasirodytų mūsų kūne.<br /><br />
+Juk mes, gyvieji, dėl Jėzaus esame nuolat atiduodami mirčiai, kad ir Jėzaus gyvybė pasirodytų mūsų mirtingame kūne.<br /><br />
 Taigi mumyse veikia mirtis, o jumyse – gyvybė.<br /><br />
-Parašyta: ‘Aš tikėjau, todėl kalbėjau’. Turėdami tą pačią tikėjimo dvasią, ir mes tikime, todėl ir kalbame.<br /><br />
-Žinome, kad tas, kuris prikėlė Viešpatį Jėzų, prikels ir mus su Jėzumi ir pastatys šalia savęs kartu su jumis.<br /><br />
-Visa tai dedasi dėl jūsų, kad malonė, visur gausiau plėsdamasi, gausintų padėkas Dievo garbei.<br />
+Parašyta: „Aš įtikėjau, todėl kalbėjau.“ Turėdami tą pačią tikėjimo dvasią, mes taip pat tikime ir todėl kalbame.<br /><br />
+Žinome, kad tas, kuris prikėlė Viešpatį Jėzų, prikels ir mus su Jėzumi ir pastatys mus šalia savęs kartu su jumis.<br /><br />
+Visa tai jums, kad malonė, apstybėdama vis daugiau žmonių, gausintų padėką Dievo garbei.<br />
 
 ##########
-Psalmė <font dir="ltr">126(125),1-2ab.2cd-3.4-5.6.</font>@@@@@Kai Viešpats grąžino Siono tremtinius, <br /><br />
-buvome tarsi sapne!<br /><br />
-Tada mūsų burna prisipildė juoko,<br /><br />
+Psalmė <font dir="ltr">126(125),1-2ab.2cd-3.4-5.6.</font>@@@@@Kai VIEŠPATS parvedė Siono tremtinius, <br /><br />
+atrodėme kaip sapnuojantys!<br /><br />
+Mūsų lūpos tada buvo kupinos juoko, <br /><br />
 mūsų liežuvis – džiaugsmo šūksnių.<br /><br />
 <br /><br />
-Tada tautos kalbėjo:<br /><br />
-„Kokių nuostabių dalykų Viešpats jiems padarė!“<br /><br />
-Kokių nuostabių dalykų Viešpats padarė mums – <br /><br />
-mes linksminomės!<br /><br />
+Tada tautos kalbėjo: <br /><br />
+„Nuostabių dalykų VIEŠPATS jiems padarė!“<br /><br />
+Taip, nuostabių dalykų VIEŠPATS mums padarė, <br /><br />
+todėl mes džiaugėmės.<br /><br />
 <br /><br />
-Grąžink, Viešpatie, mūsų tremtinius, <br /><br />
-tarsi upelius dykumoje.<br /><br />
-Kas su ašaromis sėja <br /><br />
-tas su džiaugsmu pjaus.<br /><br />
+Parvesk, VIEŠPATIE, mūsų tremtinius, <br /><br />
+kaip atveda upes dykumoj!<br /><br />
+Kas sėja ašarodamas, <br /><br />
+džiaugsmingai pjauna.<br /><br />
 <br /><br />
-Išeina, išeina verkdamas, <br /><br />
-sėklą nešdamas; <br /><br />
-pareina, pareina džiaugsmingas, <br /><br />
-nešinas pėdų.<br />
+Išeidamas sėjėjas eina ir verkia, <br /><br />
+nešdamas sėklų maišą, <br /><br />
+bet sugrįždamas su džiaugsmu grįžta, <br /><br />
+nešdamas savo pėdus.<br />
 
 ##########
-Šventoji Jėzaus Kristaus Evangelija pagal Matą <font dir="ltr">20,20-28.</font>@@@@@Anuo metu Zebediejaus sūnų Jokūbo ir Jono motina prisiartino prie Jėzaus su sūnumis Jokūbu ir Jonu ir nusilenkė, prašydama jį kai ko.<br /><br />
-Jėzus jai tarė: „Ko nori?“ Ji atsakė: „Įsakyk, kad šitie mano du sūnūs sėdėtų vienas tavo dešinėje, kitas – kairėje, tavo Karalystėje.“<br /><br />
-Jėzus atsakė: „Jūs nežinote, ko prašote. Ar galite gerti taurę, kurią aš gersiu?“ Jie jam pasakė: „Galime.“<br /><br />
-Jis jiems tarė: „Mano taurę gersite, bet sėdėti mano dešinėje ir kairėje – ne mano reikalas tai duoti; tai tiems, kuriems paskirta mano Tėvo.“<br /><br />
-Išgirdę dešimt kitų mokinių supyko ant abiejų brolių.<br /><br />
-Jėzus pasišaukė juos ir pasakė: „Žinote, kad tautų valdovai viešpatauja joms, o didžiūnai rodo joms savo galią.<br /><br />
-Tarp jūsų taip nebus: kas norės tapti didžiu tarp jūsų, tebus jūsų tarnas;<br /><br />
-ir kas norės būti pirmas tarp jūsų, tebus jūsų vergas.<br /><br />
-Šitaip Žmogaus Sūnus atėjo ne tam, kad jam tarnautų, bet kad pats tarnautų ir atiduotų savo gyvybę kaip išpirką už daugelį.“<br />
+Evangelija pagal šventąjį Matą <font dir="ltr">20,20-28.</font>@@@@@Anuo metu Zebediejaus sūnų Jokūbo ir Jono motina prisiartino prie Jėzaus drauge su savo sūnumis ir, parpuolusi priešais jį, kažko prašė.<br /><br />
+Jėzus jai tarė: „Ko nori?“ Motina atsakė: „Tark žodį, kad šitie mano du sūnūs sėdėtų vienas tavo dešinėje, kitas – kairėje tavo karalystėje.“<br /><br />
+Jėzus atsakė: „Jūs nežinote, ko prašote. Ar galite gerti taurę, kurią aš gersiu?“ Jie jam sakė: „Galime.“<br /><br />
+Jis tarė: „Mano taurę, tiesa, jūs gersite, bet sėdėti mano dešinėje ar kairėje – ne mano reikalas tai duoti; tai bus tiems, kuriems paskyrė mano Tėvas.“<br /><br />
+Tai išgirdę, kiti dešimt mokinių ėmė piktintis ant tų dviejų brolių.<br /><br />
+O Jėzus pasišaukė juos ir tarė: „Jūs žinote, kad tautų valdovai viešpatauja joms ir didžiūnai rodo joms savo galią.<br /><br />
+Tarp jūsų te nebūna taip! Kas norėtų tapti didžiausias iš jūsų, tebus jūsų tarnas,<br /><br />
+ir kas norėtų tapti pirmas iš jūsų, tebus jūsų vergas.<br /><br />
+Juk ir Žmogaus Sūnus atėjo ne kad jam tarnautų, bet pats tarnauti ir atiduoti savo gyvybę kaip išpirką už daugelį.“<br />
 
 ##########
-<br/><br />
-
+Šv. Jokūbas Vyresnysis, apaštalas ir kankinys († apie 42)
 ##########
 @@@@@<br />
 
 ##########
-0
+Šventojo Jokūbo (vyresniojo), apaštalo, šventė
+##########
+A @@@  @@@  @@@   
