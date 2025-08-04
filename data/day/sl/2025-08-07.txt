@@ -1,69 +1,87 @@
-            Sv. Sikst II. (papež) in drugi, mučenci († 258)<br />
-                Sv. Kajetan iz Thièneja, ustanovitelj († 1547)<br />
-                Sv. Julijana iz Cornillona, redovnica († 1258)<br />
-                Bl. Marija del Carmen in Marija Rosa, mučenki († 1936)<br />
-                Sv. Afra, nekdanja grešnica in mučenka († 304)<br />
-                Sv. Donat, škof in mučenec († 4. stol.)<br />
-                Sv. Donacijan, škof († 4. stol.)<br />
-                Sv. Viktrice, škof († okoli 420)<br />
-                Sv. Donat, škof († po 656)<br />
-                Bl. Jordan Forzaté, opat v Benetkah († okoli 1248)<br />
-                Sv. Albert od opatij, duhovnik o.k. († 1307)<br />
-                Bl. Albert iz Sassoferrata, redovnik o.s.b. kamald. († 1350)<br />
-                Bl. Vincenc, redovnik o.f.m. († 1504)<br />
-                Bl. Agathange iz Vendôma, o.f.m. kapucin in mučenec († 1638)<br />
-                Bl. Kasijan iz Nantesa, kapucinski duhovnik in mučenec († 1638)<br />
-                Bl. Tomaž Whitaker, duhovnik in mučenec († 1646)<br />
-                Bl. Martin od sv. Feliksa, duhovnik in mučenec († 1646)<br />
-                Bl. Edvard Bamber, duhovnik in mučenec († 1646)<br />
-                Bl. Nikolaj Postgate, duhovnik in mučenec († 1679)<br />
-                Bl. Edmond Bojanowski, laik in ustanovitelj († 1871)<br />
-                Sv. Mihael de la Mora, duhovnik in mučenec († 1927)<br />
+<br />
+<b>Warning</b>:  Undefined array key "first" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>653</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "second" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>654</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "reading" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>655</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
+            Sveti Sikst II. (papež) in tovariši, mučenci († 258)<br />
+                Sveti Kajetan iz Thiene, ustanovitelj († 1547)<br />
+                Sveta Julijana iz Cornillona, redovnica († 1258)<br />
+                Blaženi Marija del Carmen in Marija Rosa, mučenki († 1936)<br />
+                Sveta Afra, nekdanja grešnica in mučenka († 304)<br />
+                Sveti Donat, škof in mučenec († IV. st.)<br />
+                Sveti Donacijan, škof († IV. st.)<br />
+                Sveti Viktricij, škof († ok. 420)<br />
+                Sveti Donat, škof († po 656)<br />
+                Blaženi Jordan Forzaté, opat v Benetkah († ok. 1248)<br />
+                Sveti Albert iz Abbatesa, duhovnik o.c. († 1307)<br />
+                Blaženi Albert iz Sassoferrata, redovnik o.s.b. cam. († 1350)<br />
+                Blaženi Vincenc, redovnik o.f.m. († 1504)<br />
+                Blaženi Agatang iz Vendôma, o.f.m. cap. in mučenec († 1638)<br />
+                Blaženi Kasijan iz Nantesa, duhovnik kapucin in mučenec († 1638)<br />
+                Blaženi Tomaž Whitaker, duhovnik in mučenec († 1646)<br />
+                Blaženi Martin iz Saint-Félixa, duhovnik in mučenec († 1646)<br />
+                Blaženi Edvard Bamber, duhovnik in mučenec († 1646)<br />
+                Blaženi Nikolaj Postgate, duhovnik in mučenec († 1679)<br />
+                Blaženi Edmund Bojanowski, laik in ustanovitelj († 1871)<br />
+                Sveti Mihael de la Mora, duhovnik in mučenec († 1927)<br />
     
-<font style="text-align:left" dir="ltr">Zakrament sprave: »Vse, kar boš razvezal na zemlji, bo razvezano v nebesih.«</font>
+##########
+<font style="align-text:left" dir="ltr">Zakrament sprave: »Vse, kar boš razvezal na zemlji, bo razvezano v nebesih.«</font>@@@@@
+##########
 
-Knjiga številec <font dir="ltr">20,1-13.</font><br />Prvi mesec leta je vsa skupnost Izraelovih sinov prišla v puščavo Cin. Ljudstvo se je naselilo v Kadešu. Tam je umrla Mirjam in tam so jo pokopali.<br /><br />
+##########
+4 Mz <font dir="ltr">20,1-13.</font>@@@@@Prvi mesec je prišla vsa skupnost Izraelovih sinov v Sinovo puščavo in ljudstvo se je naselilo v Kadešu. Tam je umrla Mirjam in tam so jo pokopali.<br /><br />
 Ker ni bilo vode za skupnost, so se zbrali proti Mojzesu in Aronu.<br /><br />
-Ljudstvo je tožilo Mojzesa in govorilo: »Ah! Ko bi le umrli, ko so naši bratje umrli pred Gospodom!<br /><br />
-Zakaj ste privedli Gospodovo zborovanje v to puščavo, kjer bomo pomrli mi in naše živine?<br /><br />
-Zakaj ste nas pripeljali iz Egipta in nas privedli v ta nesrečni kraj, kjer se ne da nič sejati, kjer ni ne fig, ne vinske trte, ne granatnih jabolk in celo vode za pitje ne!«<br /><br />
-Mojzes in Aron sta zapustila zborovanje in odšla k vhodu v shodov šotor. Padla sta na obraz in prikazala se jima je Gospodova slava.<br /><br />
-Gospod je govoril Mojzesu. Rekel je:<br /><br />
-»Vzemi svojo palico in s svojim bratom Aronom zberi skupnost. Nato bosta pred njihovimi očmi govorila s skalo, in ta bo dala vodo. Zanje boš iz skale priklical vodo in napojil boš skupnost in njene živine.«<br /><br />
-Kakor mu je bilo ukazano, je Mojzes vzel palico, ki je bila postavljena pred Gospodom.<br /><br />
-Mojzes in Aron sta zbrala zborovanje pred skalo, in Mojzes jim je rekel: »Poslušajte torej, uporniki. Ali vam lahko mi prikličemo vodo iz te skale?«<br /><br />
-Mojzes je dvignil roko in s svojo palico dvakrat udaril po skali: voda je pritekla v obilju, in skupnost je lahko pila in napojila svoje živine.<br /><br />
-Gospod je tedaj rekel Mojzesu in njegovemu bratu Aronu: »Ker nista imela dovolj vere, da bi razodela mojo svetost pred Izraelovimi sinovi, ne bosta pripeljala tega zborovanja v deželo, ki jo dajem.«<br /><br />
-To so vode Meribe (to je: vode Preizkušnje), kjer so Izraelovi sinovi izzvali Gospoda in kjer je Gospod med njimi razodel svojo svetost.<br />
+Ljudstvo je grajalo Mojzesa in govorilo: »Ah, ko bi bili poginili, kakor so poginili naši bratje pred Gospodom!<br /><br />
+Zakaj sta pripeljala Gospodovo skupnost v to puščavo, da tukaj pomremo mi in naša živina?<br /><br />
+Zakaj sta nas pripeljala iz Egipta in nas vodila na to nesrečno mesto, kjer ni mogoče sejati, kjer ni ne figovcev, ne trt, ne granatnih jabolk in celo vode za pitje ne!«<br /><br />
+Mojzes in Aron sta odšla od skupnosti k vhodu v shodov šotor. Padel sta na obraz in pokazala se jima je Gospodova slava.<br /><br />
+Gospod je spregovoril Mojzesu in rekel:<br /><br />
+»Vzemi svojo palico in z bratom Aronom zberi skupnost. Pred njihovimi očmi bosta govorila skali in dala bo svojo vodo. Zanje boš storil, da bo voda privrela iz skale, in napojil boš skupnost in njeno živino.«<br /><br />
+Kakor mu je bilo ukazano, je Mojzes vzel palico, ki je bila pred Gospodom.<br /><br />
+Mojzes in Aron sta zbrala skupnost pred skalo in Mojzes jim je rekel: »Poslušajte torej, uporniki. Ali vam lahko iz te skale privreva voda?«<br /><br />
+Mojzes je dvignil roko in dvakrat udaril po skali s svojo palico: voda je privrela v izobilju in skupnost je lahko pila in napojila svojo živino.<br /><br />
+Gospod je tedaj rekel Mojzesu in njegovemu bratu Aronu: »Ker nista imela dovolj vere, da bi razodela mojo svetost pred Izraelovimi sinovi, ne bosta pripeljala te skupnosti v deželo, ki jo dajem.«<br /><br />
+To so vode Meríbe (tj. vode spora), kjer so Izraelovi sinovi izzvali Gospoda in kjer je Gospod med njimi razodel svojo svetost.<br />
 
-Psalm <font dir="ltr">95(94),1-2.6-7ab.7d-9a.</font><br />Pridite, veselo kličimo Gospodu, <br /><br />
-vzklikajmo naši Skali, našemu odrešenju!<br /><br />
-Pojdimo k njemu z zahvalo, <br /><br />
-z našimi prazničnimi hvalnicami mu vzklikajmo!<br /><br />
+##########
+Psalm <font dir="ltr">95(94),1-2.6-7ab.7d-9a.</font>@@@@@Pridite, veselo kličimo Gospodu, <br /><br />
+vzklikajmo Skali našega rešenja!<br /><br />
+Stopimo pred njegovo obličje s hvalo, <br /><br />
+z vzklikanjem hvalnic mu pojmo!<br /><br />
 <br /><br />
-Vstopite, poklonite se, padite na kolena, <br /><br />
-molimo Gospoda, ki nas je ustvaril.<br /><br />
-Da, on je naš Bog;<br /><br />
-mi smo ljudstvo, ki ga vodi.<br /><br />
+Pridite, poklonimo se in se priklonimo, <br /><br />
+pokleknimo pred GOSPODOM, našim Stvarnikom!<br /><br />
+Kajti on je naš Bog;<br /><br />
+mi pa ljudstvo njegove paše.<br /><br />
 <br /><br />
-Danes boste poslušali njegovo besedo?<br /><br />
-»Ne zatrdite srca kakor v puščavi, <br /><br />
-kakor na dan skušnjave in preizkušnje,<br /><br />
-ko so me vaši očetje skušali in izzivali.«<br />
+O, da bi danes poslušali njegov glas:<br /><br />
+»Ne zakrknite srca kakor v Meribi, <br /><br />
+kakor na dan Massá v puščavi,<br /><br />
+kjer so me vaši očetje preizkušali.«<br />
 
-Evangelij po sv. Mateju <font dir="ltr">16,13-23.</font><br />Tisti čas je Jezus prišel v pokrajino Cezareje Filipove in spraševal svoje učence: »Kdo je po mnenju ljudi Sin človekov?«<br /><br />
-Odgovorili so: »Nekateri pravijo Janez Krstnik; drugi Elija; spet drugi Jeremija ali eden izmed prerokov.«<br /><br />
-Jezus jih je vprašal: »Kaj pa vi pravite? Kdo sem jaz?«<br /><br />
-Simon Peter je vzel besedo in rekel: »Ti si Kristus, Sin živega Boga!«<br /><br />
-Jezus mu je vzel besedo in rekel: »Blagor ti, Simon, Jonov sin: tega ti nista razodela meso in kri, ampak moj Oče, ki je v nebesih.<br /><br />
-In jaz ti pravim: Ti si Peter, in na tej skali bom zgradil svojo Cerkev; in moč smrti je ne bo premagala.<br /><br />
-Dal ti bom ključe nebeškega kraljestva: vse, kar boš zavezal na zemlji, bo zavezano v nebesih, in vse, kar boš razvezal na zemlji, bo razvezano v nebesih.«<br /><br />
-Nato je učencem naročil, naj nikomur ne povedo, da je on Kristus.<br /><br />
-Od tega trenutka je Jezus začel kazati svojim učencem, da mora oditi v Jeruzalem, veliko trpeti od starešin, velikih duhovnikov in pismoukov, biti ubit in tretji dan vstati.<br /><br />
-Peter ga je vzel na stran in ga začel ostro opominjati: »Bog te obvaruj, Gospod! To se ti ne bo zgodilo.«<br /><br />
-On pa se je obrnil in Petru rekel: »Pojdi za menoj, satan! Ti si mi spotika: tvoje misli niso Božje, ampak človeške.«<br />
+##########
+Evangelij po Mateju <font dir="ltr">16,13-23.</font>@@@@@Tisti čas je Jezus prišel v kraje Cezareje Filipove in spraševal svoje učence: »Kdo pravijo ljudje, da sem Sin človekov?«<br /><br />
+Odgovorili so: »Nekateri Janez Krstnik, drugi Elija, spet drugi Jeremija ali eden izmed prerokov.«<br /><br />
+Jezus jim je dejal: »Kaj pa vi pravite, kdo sem?«<br /><br />
+Simon Peter je odgovoril: »Ti si Kristus, Sin živega Boga.«<br /><br />
+Jezus pa mu je odgovoril: »Blagor ti, Simon, Jonov sin, kajti tega ti nista razodela meso in kri, temveč moj Oče, ki je v nebesih.<br /><br />
+Jaz pa ti povem: Ti si Peter in na to skalo bom sezidal svojo Cerkev in vrata podzemlja je ne bodo premagala.<br /><br />
+Dal ti bom ključe nebeškega kraljestva, in kar koli boš zvezal na zemlji, bo zvezano v nebesih; in kar koli boš razvezal na zemlji, bo razvezano v nebesih.«<br /><br />
+Tedaj je naročil učencem, naj nikomur ne povedo, da je on Kristus.<br /><br />
+Od tedaj je Jezus začel razlagati svojim učencem, da mora oditi v Jeruzalem in tam veliko pretrpeti od starešin, vélikih duhovnikov in pismoukov, biti usmrčen in tretji dan vstati.<br /><br />
+Peter pa ga je vzel vstran in ga začel grajati: »Bog ne daj, Gospod, to se ti nikakor ne sme zgoditi!«<br /><br />
+On pa se je obrnil in rekel Petru: »Poberi se, satan, od mene! V spotiko si mi, kajti ne misliš na to, kar je božje, ampak na to, kar je človeško.«<br />
 
-Sv. Sikst II. (papež) in drugi, mučenci († 258)
+##########
+Sveti Sikst II. (papež) in tovariši, mučenci († 258)
+##########
+@@@@@<br />
 
+##########
 Četrtek 18. tedna med letom
-A @@@ @@@ @@@
+##########
+A @@@ @@@ @@@ @@@

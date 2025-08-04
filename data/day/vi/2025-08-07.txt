@@ -1,79 +1,78 @@
-CÃ¡c ThÃ¡nh SixtÃ´ II (giÃ¡o hoÃ ng) vÃ  cÃ¡c báº¡n tá»­ Äáº¡o (â  258)<br />
-    ThÃ¡nh CaÃªtanÃ´ de Thiene, ngÆ°á»i sÃ¡ng láº­p (â  1547)<br />
-    ThÃ¡nh Ná»¯ Julianna de Cornillon, ná»¯ tu (â  1258)<br />
-    CÃ¡c ChÃ¢n PhÆ°á»c Maria del Carmen vÃ  Maria Rosa, tá»­ Äáº¡o (â  1936)<br />
-    ThÃ¡nh Ná»¯ Afra, cá»±u tá»i nhÃ¢n vÃ  tá»­ Äáº¡o (â  304)<br />
-    ThÃ¡nh ÄÃ´natÃ´, giÃ¡m má»¥c vÃ  tá»­ Äáº¡o (â  tháº¿ ká»· IV)<br />
-    ThÃ¡nh ÄÃ´natiÃªng, giÃ¡m má»¥c (â  tháº¿ ká»· IV)<br />
-    ThÃ¡nh VichtrÃ­c, giÃ¡m má»¥c (â  khoáº£ng nÄm 420)<br />
-    ThÃ¡nh ÄÃ´nat, giÃ¡m má»¥c (â  sau nÄm 656)<br />
-    ChÃ¢n PhÆ°á»c Jourdain ForzatÃ©, viá»n phá»¥ táº¡i Venice (â  khoáº£ng nÄm 1248)<br />
-    ThÃ¡nh Albert des AbbÃ©s, linh má»¥c dÃ²ng CÃ¡t Minh (â  1307)<br />
-    ChÃ¢n PhÆ°á»c Albert de Sassoferrato, tu sÄ© dÃ²ng Biá»n Äá»©c Camaldoli (â  1350)<br />
-    ChÃ¢n PhÆ°á»c Vincent, tu sÄ© dÃ²ng PhanxicÃ´ (â  1504)<br />
-    ChÃ¢n PhÆ°á»c Agathange de VendÃ´me, dÃ²ng PhanxicÃ´ Capuchin vÃ  tá»­ Äáº¡o (â  1638)<br />
-    ChÃ¢n PhÆ°á»c Cassien de Nantes, linh má»¥c Capuchin vÃ  tá»­ Äáº¡o (â  1638)<br />
-    ChÃ¢n PhÆ°á»c Thomas Whitaker, linh má»¥c vÃ  tá»­ Äáº¡o (â  1646)<br />
-    ChÃ¢n PhÆ°á»c Martin de Saint-FÃ©lix, linh má»¥c vÃ  tá»­ Äáº¡o (â  1646)<br />
-    ChÃ¢n PhÆ°á»c Ãdouard Bamber, linh má»¥c vÃ  tá»­ Äáº¡o (â  1646)<br />
-    ChÃ¢n PhÆ°á»c Nicolas Postgate, linh má»¥c vÃ  tá»­ Äáº¡o (â  1679)<br />
-    ChÃ¢n PhÆ°á»c Edmond Bojanowski, giÃ¡o dÃ¢n vÃ  ngÆ°á»i sÃ¡ng láº­p (â  1871)<br />
-    ThÃ¡nh Micae de la Mora, linh má»¥c vÃ  tá»­ Äáº¡o (â  1927)<br />
+ThÃ¡nh SixtÃ´ II (giÃ¡o hoÃ ng) vÃ  cÃ¡c báº¡n, tá»­ Äáº¡o (â  258)<br />
+ThÃ¡nh GaÃªtanÃ´ xá»© Thiene, ngÆ°á»i sÃ¡ng láº­p (â  1547)<br />
+ThÃ¡nh Giulianna xá»© Cornillon, ná»¯ tu (â  1258)<br />
+ChÃ¢n phÆ°á»c Maria del Carmen vÃ  Maria Rosa, tá»­ Äáº¡o (â  1936)<br />
+ThÃ¡nh Afra, ngÆ°á»i tá»i lá»i cÅ© vÃ  tá»­ Äáº¡o (â  304)<br />
+ThÃ¡nh ÄÃ´natÃ´, giÃ¡m má»¥c vÃ  tá»­ Äáº¡o (â  tháº¿ ká»· IV)<br />
+ThÃ¡nh ÄÃ´natien, giÃ¡m má»¥c (â  tháº¿ ká»· IV)<br />
+ThÃ¡nh Victrice, giÃ¡m má»¥c (â  khoáº£ng 420)<br />
+ThÃ¡nh ÄÃ´nat, giÃ¡m má»¥c (â  sau 656)<br />
+ChÃ¢n phÆ°á»c Jourdain ForzatÃ©, viá»n phá»¥ á» Venezia (â  khoáº£ng 1248)<br />
+ThÃ¡nh Albert des AbbÃ©s, linh má»¥c dÃ²ng CÃ¡t Minh (â  1307)<br />
+ChÃ¢n phÆ°á»c AlbertÃ´ xá»© Sassoferrato, tu sÄ© dÃ²ng Biá»n Äá»©c Camaldoli (â  1350)<br />
+ChÃ¢n phÆ°á»c Vinh SÆ¡n, tu sÄ© dÃ²ng PhanxicÃ´ (â  1504)<br />
+ChÃ¢n phÆ°á»c AgathangelÃ´ xá»© VendÃ´me, tu sÄ© dÃ²ng PhanxicÃ´ Capuchin vÃ  tá»­ Äáº¡o (â  1638)<br />
+ChÃ¢n phÆ°á»c CassianÃ´ xá»© Nantes, linh má»¥c Capuchin vÃ  tá»­ Äáº¡o (â  1638)<br />
+ChÃ¢n phÆ°á»c TÃ´ma Whitaker, linh má»¥c vÃ  tá»­ Äáº¡o (â  1646)<br />
+ChÃ¢n phÆ°á»c MÃ¡ctinÃ´ xá»© Saint-FÃ©lix, linh má»¥c vÃ  tá»­ Äáº¡o (â  1646)<br />
+ChÃ¢n phÆ°á»c ÃÄua Bamber, linh má»¥c vÃ  tá»­ Äáº¡o (â  1646)<br />
+ChÃ¢n phÆ°á»c NicolaÃ´ Postgate, linh má»¥c vÃ  tá»­ Äáº¡o (â  1679)<br />
+ChÃ¢n phÆ°á»c ÃÄmÃ´n BÃ´ianÃ´wsk, giÃ¡o dÃ¢n vÃ  ngÆ°á»i sÃ¡ng láº­p (â  1871)<br />
+ThÃ¡nh Micae de la Mora, linh má»¥c vÃ  tá»­ Äáº¡o (â  1927)
 
-##########
-<font style="align-text:left" dir="ltr">BÃ­ tÃ­ch HÃ²a giáº£i: âTáº¥t cáº£ nhá»¯ng gÃ¬ con thÃ¡o gá»¡ dÆ°á»i Äáº¥t sáº½ ÄÆ°á»£c thÃ¡o gá»¡ trÃªn trá»iâ</font>@@@@@
-##########
+<font style="align-text:left" dir="ltr">BÃ­ tÃ­ch HÃ²a giáº£i: âTáº¥t cáº£ nhá»¯ng gÃ¬ con thÃ¡o gá»¡ dÆ°á»i Äáº¥t, trÃªn trá»i cÅ©ng sáº½ ÄÆ°á»£c thÃ¡o gá»¡.â</font>
 
-##########
-SÃ¡ch DÃ¢n Sá» <font dir="ltr">20,1-13.</font>@@@@@ThÃ¡ng giÃªng nÄm ÄÃ³, toÃ n thá» cá»ng Äá»ng con cÃ¡i Israel Äáº¿n sa máº¡c Xin. DÃ¢n chÃºng Äá»nh cÆ° táº¡i Ca-ÄÃª. Mi-ri-am cháº¿t táº¡i ÄÃ³ vÃ  ÄÆ°á»£c chÃ´n cáº¥t.<br /><br />
-VÃ¬ khÃ´ng cÃ³ nÆ°á»c cho cá»ng Äá»ng, há» tá»¥ táº­p chá»ng láº¡i MÃ´-sÃª vÃ  A-ha-ron.<br /><br />
-DÃ¢n chÃºng gÃ¢y sá»± vá»i MÃ´-sÃª, nÃ³i: âÃi! Æ¯á»c gÃ¬ chÃºng tÃ´i ÄÃ£ cháº¿t, khi anh em chÃºng tÃ´i cháº¿t trÆ°á»c nhan ChÃºa!<br /><br />
-Táº¡i sao láº¡i dáº«n há»i thÃ¡nh cá»§a ChÃºa vÃ o sa máº¡c nÃ y, nÆ¡i chÃºng tÃ´i vÃ  gia sÃºc cá»§a chÃºng tÃ´i sáº½ cháº¿t?<br /><br />
-Táº¡i sao láº¡i ÄÆ°a chÃºng tÃ´i lÃªn tá»« Ai Cáº­p, vÃ  dáº«n chÃºng tÃ´i Äáº¿n nÆ¡i khá»n khá» nÃ y, nÆ¡i khÃ´ng thá» gieo trá»ng gÃ¬, nÆ¡i khÃ´ng cÃ³ cÃ¢y váº£, khÃ´ng cÃ³ vÆ°á»n nho, khÃ´ng cÃ³ cÃ¢y lá»±u, vÃ  tháº­m chÃ­ khÃ´ng cÃ³ nÆ°á»c uá»ng ná»¯a!â<br /><br />
-MÃ´-sÃª vÃ  A-ha-ron rá»i khá»i há»i chÃºng vÃ  Äi Äáº¿n cá»­a lá»u Há»i Ngá». Há» sáº¥p máº·t xuá»ng Äáº¥t, vÃ  vinh quang cá»§a ChÃºa hiá»n ra vá»i há».<br /><br />
-ChÃºa phÃ¡n vá»i MÃ´-sÃª. NgÃ i nÃ³i:<br /><br />
-âCon hÃ£y cáº§m gáº­y chá» huy cá»§a con, vÃ  cÃ¹ng vá»i A-ha-ron, anh con, hÃ£y táº­p há»£p cá»ng Äá»ng láº¡i. Sau ÄÃ³, trÆ°á»c máº¯t há», con hÃ£y nÃ³i vá»i táº£ng ÄÃ¡, vÃ  nÃ³ sáº½ cho nÆ°á»c cá»§a nÃ³. Con sáº½ lÃ m cho nÆ°á»c tá»« táº£ng ÄÃ¡ tuÃ´n cháº£y cho há», vÃ  con sáº½ cho cá»ng Äá»ng vÃ  gia sÃºc cá»§a há» uá»ng.â<br /><br />
-NhÆ° ÄÃ£ nháº­n lá»nh, MÃ´-sÃª cáº§m láº¥y cÃ¢y gáº­y Äáº·t trÆ°á»c nhan ChÃºa.<br /><br />
-MÃ´-sÃª vÃ  A-ha-ron táº­p há»£p há»i chÃºng trÆ°á»c táº£ng ÄÃ¡, vÃ  MÃ´-sÃª nÃ³i vá»i há»: âNghe ÄÃ¢y, há»¡i nhá»¯ng káº» ná»i loáº¡n. ChÃºng tÃ´i cÃ³ thá» lÃ m cho nÆ°á»c tá»« táº£ng ÄÃ¡ nÃ y tuÃ´n cháº£y cho cÃ¡c Ã´ng khÃ´ng?â<br /><br />
-MÃ´-sÃª giÆ¡ tay vÃ , báº±ng gáº­y cá»§a mÃ¬nh, Ã´ng Äáº­p vÃ o táº£ng ÄÃ¡ hai láº§n: nÆ°á»c tuÃ´n cháº£y dá»i dÃ o, vÃ  cá»ng Äá»ng cÃ³ thá» uá»ng vÃ  cho gia sÃºc cá»§a há» uá»ng.<br /><br />
-ChÃºa báº¥y giá» nÃ³i vá»i MÃ´-sÃª vÃ  A-ha-ron, anh Ã´ng: âVÃ¬ cÃ¡c con ÄÃ£ khÃ´ng cÃ³ Äá»§ Äá»©c tin Äá» biá»u lá» sá»± thÃ¡nh thiá»n cá»§a Ta trÆ°á»c con cÃ¡i Israel, cÃ¡c con sáº½ khÃ´ng ÄÆ°a há»i chÃºng nÃ y vÃ o Äáº¥t mÃ  Ta ban cho nÃ³.â<br /><br />
-ÄÃ³ lÃ  nÆ°á»c MÆ¡-ri-ba (nghÄ©a lÃ : nÆ°á»c Thá»­ ThÃ¡ch) nÆ¡i con cÃ¡i Israel ÄÃ£ thá»­ thÃ¡ch ChÃºa, vÃ  nÆ¡i ChÃºa ÄÃ£ biá»u lá» sá»± thÃ¡nh thiá»n cá»§a NgÃ i giá»¯a há».<br />
+SÃ¡ch DÃ¢n Sá» <font dir="ltr">20,1-13.</font>
 
-##########
-ThÃ¡nh Vá»nh <font dir="ltr">95(94),1-2.6-7ab.7d-9a.</font>@@@@@HÃ£y Äáº¿n, chÃºng ta reo vui cho ChÃºa, <br /><br />
-HÃ£y hoan hÃ´ ÄÃ¡ Táº£ng, Äáº¥ng Cá»©u Äá» chÃºng ta!<br /><br />
-HÃ£y Äáº¿n trÆ°á»c nhan NgÆ°á»i vá»i lá»i táº¡ Æ¡n, <br /><br />
-báº±ng nhá»¯ng bÃ i thÃ¡nh ca lá» há»i chÃºng ta hÃ£y hoan hÃ´ NgÆ°á»i!<br /><br />
+VÃ o thÃ¡ng thá»© nháº¥t, toÃ n thá» cá»ng Äá»ng con cÃ¡i Israel Äáº¿n sa máº¡c Xin, vÃ  dÃ¢n chÃºng á» láº¡i CaÄÃª. Mi-ri-am cháº¿t á» ÄÃ³ vÃ  ÄÆ°á»£c mai tÃ¡ng táº¡i ÄÃ³.<br /><br />
+KhÃ´ng cÃ³ nÆ°á»c cho cá»ng Äá»ng, nÃªn há» tá»¥ táº­p chá»ng láº¡i Ã´ng MÃ´sÃª vÃ  Ã´ng Aharon.<br /><br />
+DÃ¢n chÃºng cÃ£i cá» vá»i Ã´ng MÃ´sÃª, vÃ  nÃ³i: âPháº£i chi chÃºng tÃ´i ÄÃ£ cháº¿t Äi, khi cÃ¡c anh em cá»§a chÃºng tÃ´i cháº¿t trÆ°á»c nhan Äá»©c ChÃºa!<br /><br />
+Táº¡i sao cÃ¡c Ã´ng láº¡i ÄÆ°a cá»ng Äá»ng cá»§a Äá»©c ChÃºa vÃ o sa máº¡c nÃ y Äá» chÃºng tÃ´i vÃ  gia sÃºc cá»§a chÃºng tÃ´i cháº¿t á» ÄÃ¢y?<br /><br />
+Táº¡i sao cÃ¡c Ã´ng láº¡i dáº«n chÃºng tÃ´i ra khá»i Ai Cáº­p, vÃ  ÄÆ°a chÃºng tÃ´i Äáº¿n nÆ¡i khá»n khá» nÃ y, nÆ¡i khÃ´ng thá» gieo trá»ng ÄÆ°á»£c gÃ¬, nÆ¡i khÃ´ng cÃ³ váº£, khÃ´ng cÃ³ nho, khÃ´ng cÃ³ lá»±u, vÃ  tháº­m chÃ­ khÃ´ng cÃ³ nÆ°á»c Äá» uá»ng!â<br /><br />
+Ãng MÃ´sÃª vÃ  Ã´ng Aharon rá»i cá»ng Äá»ng, Äáº¿n cá»­a Lá»u Há»i Ngá». Há» sáº¥p máº·t xuá»ng Äáº¥t, vÃ  vinh quang Äá»©c ChÃºa hiá»n ra vá»i há».<br /><br />
+Äá»©c ChÃºa phÃ¡n vá»i Ã´ng MÃ´sÃª ráº±ng:<br /><br />
+âHÃ£y cáº§m cÃ¢y gáº­y cá»§a con vÃ  cÃ¹ng vá»i Aharon, anh con, hÃ£y táº­p há»£p cá»ng Äá»ng. Rá»i, trÆ°á»c máº¯t há», cÃ¡c con hÃ£y nÃ³i vá»i táº£ng ÄÃ¡, vÃ  nÃ³ sáº½ phun nÆ°á»c. VÃ¬ há», con sáº½ lÃ m cho nÆ°á»c vá»t ra tá»« táº£ng ÄÃ¡, vÃ  con sáº½ cho cá»ng Äá»ng vÃ  gia sÃºc cá»§a há» uá»ng.â<br /><br />
+Theo lá»nh ÄÃ£ nháº­n, Ã´ng MÃ´sÃª cáº§m cÃ¢y gáº­y ÄÃ£ Äáº·t trÆ°á»c nhan Äá»©c ChÃºa.<br /><br />
+Ãng MÃ´sÃª vÃ  Ã´ng Aharon táº­p há»£p cá»ng Äá»ng Äá»i diá»n vá»i táº£ng ÄÃ¡, vÃ  Ã´ng MÃ´sÃª nÃ³i vá»i há»: âNghe ÄÃ¢y, há»¡i nhá»¯ng káº» pháº£n loáº¡n. ChÃºng tÃ´i cÃ³ thá» lÃ m cho nÆ°á»c vá»t ra tá»« táº£ng ÄÃ¡ nÃ y cho cÃ¡c Ã´ng khÃ´ng?â<br /><br />
+Ãng MÃ´sÃª giÆ¡ tay lÃªn vÃ  dÃ¹ng cÃ¢y gáº­y Äáº­p vÃ o táº£ng ÄÃ¡ hai láº§n: nÆ°á»c vá»t ra dá»i dÃ o, vÃ  cá»ng Äá»ng cÃ¹ng gia sÃºc cá»§a há» ÄÃ£ cÃ³ thá» uá»ng.<br /><br />
+Äá»©c ChÃºa phÃ¡n vá»i Ã´ng MÃ´sÃª vÃ  Ã´ng Aharon: âVÃ¬ cÃ¡c con ÄÃ£ khÃ´ng cÃ³ Äá»§ Äá»©c tin Äá» tá» bÃ y sá»± thÃ¡nh thiá»n cá»§a Ta trÆ°á»c máº·t con cÃ¡i Israel, nÃªn cÃ¡c con sáº½ khÃ´ng ÄÆ°a cá»ng Äá»ng nÃ y vÃ o Äáº¥t mÃ  Ta ban cho há».â<br /><br />
+ÄÃ¢y lÃ  nÆ°á»c MÆ¡-ri-va (nghÄ©a lÃ : nÆ°á»c thá»­ thÃ¡ch), nÆ¡i con cÃ¡i Israel ÄÃ£ thÃ¡ch thá»©c Äá»©c ChÃºa, vÃ  nÆ¡i Äá»©c ChÃºa ÄÃ£ tá» bÃ y sá»± thÃ¡nh thiá»n cá»§a NgÃ i giá»¯a há».
+
+ThÃ¡nh vá»nh <font dir="ltr">95(94),1-2.6-7ab.7d-9a.</font>
+
+HÃ£y Äáº¿n, chÃºng ta reo hÃ² má»«ng Äá»©c ChÃºa,<br /><br />
+tung hÃ´ NgÆ°á»i lÃ  NÃºi ÄÃ¡ cá»©u Äá» ta.<br /><br />
+HÃ£y tá»i trÆ°á»c thiÃªn nhan dÃ¢ng lá»i táº¡ Æ¡n,<br /><br />
+cÃ¹ng xÆ°á»ng ca vá»nh má»«ng tá»¥ng niá»m NgÆ°á»i.<br /><br />
 <br /><br />
-HÃ£y vÃ o, hÃ£y cÃºi mÃ¬nh, hÃ£y sáº¥p mÃ¬nh, <br /><br />
-HÃ£y thá» láº¡y ChÃºa, Äáº¥ng ÄÃ£ táº¡o dá»±ng chÃºng ta.<br /><br />
-VÃ¢ng, NgÆ°á»i lÃ  ThiÃªn ChÃºa chÃºng ta;<br /><br />
-chÃºng ta lÃ  dÃ¢n NgÆ°á»i dáº«n dáº¯t.<br /><br />
+VÃ o ÄÃ¢y, phá»§ phá»¥c bÃ¡i láº¡y NgÆ°á»i,<br /><br />
+quá»³ gá»i trÆ°á»c nhan ChÃºa lÃ  Äáº¥ng dá»±ng nÃªn ta.<br /><br />
+Bá»i NgÆ°á»i lÃ  ThiÃªn ChÃºa cá»§a ta,<br /><br />
+cÃ²n ta lÃ  dÃ¢n NgÆ°á»i chÄn dáº¯t,<br /><br />
+lÃ  ÄoÃ n chiÃªn tay NgÆ°á»i dáº«n dáº¯t.<br /><br />
 <br /><br />
-HÃ´m nay, liá»u cÃ¡c ngÆ°Æ¡i cÃ³ nghe tiáº¿ng NgÆ°á»i?<br /><br />
-âÄá»«ng chai lÃ¬ lÃ²ng cÃ¡c ngÆ°Æ¡i nhÆ° táº¡i sa máº¡c, <br /><br />
-nhÆ° trong ngÃ y thá»­ thÃ¡ch vÃ  thÃ¡ch thá»©c,<br /><br />
-nÆ¡i tá» tiÃªn cÃ¡c ngÆ°Æ¡i ÄÃ£ thá»­ Ta vÃ  khiÃªu khÃ­ch Ta.â<br />
+Æ¯á»c chi hÃ´m nay cÃ¡c báº¡n nghe tiáº¿ng NgÆ°á»i phÃ¡n báº£o:<br /><br />
+âÄá»«ng cá»©ng lÃ²ng nhÆ° á» MÃª-ri-va,<br /><br />
+nhÆ° ngÃ y á» Ma-xa trong sa máº¡c,<br /><br />
+nÆ¡i cha Ã´ng cÃ¡c ngÆ°Æ¡i ÄÃ£ thá»­ thÃ¡ch vÃ  khiÃªu khÃ­ch Ta.â
 
-##########
-Tin Má»«ng Äá»©c GiÃª-su Ki-tÃ´ theo thÃ¡nh MÃ¡t-thÃªu <font dir="ltr">16,13-23.</font>@@@@@VÃ o thá»i áº¥y, khi Äá»©c GiÃª-su Äáº¿n vÃ¹ng XÃª-da-rÃª Phi-lÃ­p-phÃª, NgÆ°á»i há»i cÃ¡c mÃ´n Äá» cá»§a NgÆ°á»i: âTheo lá»i ngÆ°á»i ta nÃ³i, Con NgÆ°á»i lÃ  ai?â<br /><br />
-Há» tráº£ lá»i: âÄá»i vá»i má»t sá» ngÆ°á»i, ÄÃ³ lÃ  Gio-an Táº©y Giáº£; Äá»i vá»i nhá»¯ng ngÆ°á»i khÃ¡c, lÃ  Ã-li-a; Äá»i vá»i nhá»¯ng ngÆ°á»i khÃ¡c ná»¯a, lÃ  GiÃª-rÃª-mi-a hoáº·c má»t trong cÃ¡c ngÃ´n sá»©.â<br /><br />
-Äá»©c GiÃª-su há»i há»: âCÃ²n cÃ¡c con, cÃ¡c con nÃ³i gÃ¬? Äá»i vá»i cÃ¡c con, Tháº§y lÃ  ai?â<br /><br />
-Báº¥y giá», Si-mÃ´n PhÃª-rÃ´ lÃªn tiáº¿ng nÃ³i: âTháº§y lÃ  Äáº¥ng Ki-tÃ´, Con ThiÃªn ChÃºa háº±ng sá»ng!â<br /><br />
-Äá»©c GiÃª-su ÄÃ¡p láº¡i: âPhÃºc cho con, Si-mÃ´n con Ã´ng GiÃ´-na: khÃ´ng pháº£i thá»t vÃ  mÃ¡u ÄÃ£ máº¡c kháº£i Äiá»u ÄÃ³ cho con, mÃ  lÃ  Cha Tháº§y, Äáº¥ng ngá»± trÃªn trá»i.<br /><br />
-CÃ²n Tháº§y, Tháº§y nÃ³i cho con biáº¿t: Con lÃ  PhÃª-rÃ´, vÃ  trÃªn táº£ng ÄÃ¡ nÃ y, Tháº§y sáº½ xÃ¢y dá»±ng Há»i ThÃ¡nh cá»§a Tháº§y; vÃ  quyá»n lá»±c sá»± Cháº¿t sáº½ khÃ´ng tháº¯ng ÄÆ°á»£c nÃ³.<br /><br />
-Tháº§y sáº½ trao cho con chÃ¬a khÃ³a NÆ°á»c Trá»i: táº¥t cáº£ nhá»¯ng gÃ¬ con buá»c dÆ°á»i Äáº¥t sáº½ ÄÆ°á»£c buá»c trÃªn trá»i, vÃ  táº¥t cáº£ nhá»¯ng gÃ¬ con thÃ¡o gá»¡ dÆ°á»i Äáº¥t sáº½ ÄÆ°á»£c thÃ¡o gá»¡ trÃªn trá»i.â<br /><br />
-Khi áº¥y, NgÆ°á»i truyá»n cho cÃ¡c mÃ´n Äá» Äá»«ng nÃ³i vá»i ai ráº±ng NgÆ°á»i lÃ  Äáº¥ng Ki-tÃ´.<br /><br />
-Tá»« lÃºc ÄÃ³, Äá»©c GiÃª-su báº¯t Äáº§u tá» cho cÃ¡c mÃ´n Äá» cá»§a NgÆ°á»i biáº¿t ráº±ng NgÆ°á»i pháº£i Äi GiÃª-ru-sa-lem, pháº£i chá»u nhiá»u Äau khá» tá»« cÃ¡c trÆ°á»ng lÃ£o, cÃ¡c thÆ°á»£ng táº¿ vÃ  cÃ¡c kinh sÆ°, pháº£i bá» giáº¿t cháº¿t, vÃ  ngÃ y thá»© ba sáº½ sá»ng láº¡i.<br /><br />
-PhÃª-rÃ´, kÃ©o NgÆ°á»i ra riÃªng, báº¯t Äáº§u khiá»n trÃ¡ch NgÆ°á»i má»t cÃ¡ch gay gáº¯t: âXin ThiÃªn ChÃºa Äá»«ng Äá» Äiá»u ÄÃ³ xáº£y ra, Láº¡y ChÃºa! Äiá»u nÃ y sáº½ khÃ´ng Äáº¿n vá»i Tháº§y ÄÃ¢u.â<br /><br />
-NhÆ°ng NgÆ°á»i, quay láº¡i, nÃ³i vá»i PhÃª-rÃ´: âÄi khá»i máº¯t Tháº§y, Xa-tan! Con lÃ  má»t dá»p váº¥p pháº¡m cho Tháº§y: tÆ° tÆ°á»ng cá»§a con khÃ´ng pháº£i lÃ  cá»§a ThiÃªn ChÃºa, mÃ  lÃ  cá»§a con ngÆ°á»i.â<br />
+Tin Má»«ng ChÃºa GiÃªsu KitÃ´ theo ThÃ¡nh MatthÃªu <font dir="ltr">16,13-23.</font>
 
-##########
-CÃ¡c ThÃ¡nh SixtÃ´ II (giÃ¡o hoÃ ng) vÃ  cÃ¡c báº¡n tá»­ Äáº¡o (â  258)
-##########
-@@@@@<br />
+Khi áº¥y, Äá»©c GiÃªsu Äáº¿n vÃ¹ng XÃª-da-rÃª Phi-lÃ­p-phÃª, NgÆ°á»i há»i cÃ¡c mÃ´n Äá» ráº±ng: âNgÆ°á»i ta nÃ³i Con NgÆ°á»i lÃ  ai?â<br /><br />
+CÃ¡c Ã´ng thÆ°a: âKáº» thÃ¬ nÃ³i lÃ  Gioan Táº©y Giáº£, káº» thÃ¬ nÃ³i lÃ  Ãlia, ngÆ°á»i khÃ¡c láº¡i nÃ³i lÃ  GiÃªrÃªmia hay má»t trong cÃ¡c ngÃ´n sá»©.â<br /><br />
+Äá»©c GiÃªsu láº¡i há»i: âCÃ²n anh em, anh em nÃ³i Tháº§y lÃ  ai?â<br /><br />
+Ãng Simon PhÃªrÃ´ liá»n thÆ°a: âTháº§y lÃ  Äáº¥ng KitÃ´, Con ThiÃªn ChÃºa háº±ng sá»ng.â<br /><br />
+Äá»©c GiÃªsu nÃ³i vá»i Ã´ng: âNÃ y anh Simon, con Ã´ng GiÃ´na, anh tháº­t lÃ  ngÆ°á»i cÃ³ phÃºc, vÃ¬ khÃ´ng pháº£i phÃ m nhÃ¢n máº·c kháº£i cho anh Äiá»u áº¥y, nhÆ°ng lÃ  Cha Tháº§y, Äáº¥ng ngá»± trÃªn trá»i.<br /><br />
+CÃ²n Tháº§y, Tháº§y báº£o cho anh biáº¿t: Anh lÃ  PhÃªrÃ´, nghÄ©a lÃ  Táº£ng ÄÃ¡, trÃªn táº£ng ÄÃ¡ nÃ y, Tháº§y sáº½ xÃ¢y Há»i ThÃ¡nh cá»§a Tháº§y, vÃ  quyá»n lá»±c tá»­ tháº§n sáº½ khÃ´ng tháº¯ng ná»i.<br /><br />
+Tháº§y sáº½ trao cho anh chÃ¬a khÃ³a NÆ°á»c Trá»i: dÆ°á»i Äáº¥t, anh cáº§m buá»c Äiá»u gÃ¬, trÃªn trá»i cÅ©ng sáº½ bá» cáº§m buá»c nhÆ° váº­y; dÆ°á»i Äáº¥t, anh thÃ¡o gá»¡ Äiá»u gÃ¬, trÃªn trá»i cÅ©ng sáº½ ÄÆ°á»£c thÃ¡o gá»¡ nhÆ° váº­y.â<br /><br />
+Rá»i NgÆ°á»i truyá»n cho cÃ¡c mÃ´n Äá» khÃ´ng ÄÆ°á»£c nÃ³i cho ai biáº¿t NgÆ°á»i lÃ  Äáº¥ng KitÃ´.<br /><br />
+Tá»« lÃºc ÄÃ³, Äá»©c GiÃªsu báº¯t Äáº§u tá» cho cÃ¡c mÃ´n Äá» biáº¿t: NgÆ°á»i pháº£i Äi GiÃªrusalem, pháº£i chá»u nhiá»u Äau khá» do cÃ¡c ká»³ má»¥c, cÃ¡c thÆ°á»£ng táº¿ vÃ  cÃ¡c kinh sÆ° gÃ¢y ra, rá»i bá» giáº¿t cháº¿t, vÃ  ngÃ y thá»© ba sáº½ sá»ng láº¡i.<br /><br />
+Ãng PhÃªrÃ´ liá»n kÃ©o NgÆ°á»i ra má»t chá» mÃ  trÃ¡ch NgÆ°á»i ráº±ng: âLáº¡y ChÃºa, xin ThiÃªn ChÃºa Äá»«ng Äá» Tháº§y gáº·p pháº£i chuyá»n áº¥y!â<br /><br />
+NhÆ°ng Äá»©c GiÃªsu quay láº¡i báº£o Ã´ng PhÃªrÃ´: âSatan! Lui láº¡i Äáº±ng sau Tháº§y! Anh cáº£n lá»i Tháº§y, vÃ¬ tÆ° tÆ°á»ng cá»§a anh khÃ´ng pháº£i lÃ  tÆ° tÆ°á»ng cá»§a ThiÃªn ChÃºa, mÃ  lÃ  cá»§a loÃ i ngÆ°á»i.â
 
-##########
-Thá»© NÄm, tuáº§n thá»© 18 mÃ¹a ThÆ°á»ng NiÃªn
-##########
-A @@@  @@@  @@@  @@@   
+ThÃ¡nh SixtÃ´ II (giÃ¡o hoÃ ng) vÃ  cÃ¡c báº¡n, tá»­ Äáº¡o (â  258)
+
+<br />
+
+Thá»© NÄm tuáº§n 18 MÃ¹a ThÆ°á»ng niÃªn
+A @@@ @@@ @@@ @@@
