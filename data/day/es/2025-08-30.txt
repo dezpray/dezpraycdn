@@ -1,0 +1,53 @@
+<br />
+<b>Warning</b>:  Undefined array key "first" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>653</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "second" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>654</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "reading" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>655</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
+            Beato Alfredo Ildefonso Schuster<br />
+                Beata María de los Ángeles Ginard Marti<br />
+                Beato Esteban Nehmé<br />
+                Beato Mayorga<br />
+                San Fantino de Tesalónica<br />
+                San Pelayo Arsenio<br />
+                San Fiacrio de Breuil<br />
+                San Pammaquio de Roma<br />
+                San Agilo de Francia<br />
+                Beata María Ráfols<br />
+                Beato Vicente Cabanes Badenas<br />
+                San Pedro de Trevi<br />
+                Beato Eustaquio van Lieshout<br />
+                Beato Juan Juvenal Ancina<br />
+                Beato Diego Ventaja Milán<br />
+                Santa Margarita Ward<br />
+                Santa Gaudencia de Roma<br />
+                San Bononio del Piamonte<br />
+                Santos Mártires Sufetanos<br />
+                Santos Félix y Adaucto<br />
+                Beata María Rafols Bruna<br />
+                Beato Juan de Perusa<br />
+                Beato Joaquín Ferrer Adell<br />
+                San Bonifacio Adrumeto<br />
+                Beato Ghebra Miguel<br />
+                Beato Tomás de Kempis<br />
+    
+##########
+@@@@@
+##########
+
+##########
+@@@@@
+##########
+@@@@@
+##########
+Evangelio según San Mateo <font dir="ltr">13,44-46.</font>@@@@@
+##########
+Beato Alfredo Ildefonso Schuster
+##########
+@@@@@
+##########
+Santa Rosa de Lima, virgen, Patrona de America Latina
+##########
+A @@@  @@@  @@@  @@@   

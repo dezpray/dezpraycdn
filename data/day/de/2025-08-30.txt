@@ -1,0 +1,35 @@
+<br />
+<b>Warning</b>:  Undefined array key "first" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>653</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "second" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>654</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "reading" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>655</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
+            Hl. Amadeus<br />
+                Hl. Guarin (Warin)<br />
+                Hl. Ingoberg<br />
+                Hl. Amaltrud (Alma)<br />
+                Hl. Adauctus<br />
+                Rebekka<br />
+                Sel. Ildefons Schuster<br />
+                Hl. Felix von Rom<br />
+    
+##########
+@@@@@
+##########
+
+##########
+@@@@@
+##########
+@@@@@
+##########
+@@@@@
+##########
+Hl. Amadeus
+##########
+@@@@@
+##########
+Samstag der 21. Woche im Jahreskreis
+##########
+A @@@  @@@  @@@  @@@   

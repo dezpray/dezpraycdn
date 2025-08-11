@@ -1,0 +1,28 @@
+<br />
+<b>Warning</b>:  Undefined array key "first" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>653</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "second" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>654</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "reading" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>655</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
+            Santa Mónica, viúva, mãe de Santo Agostinho, +387<br />
+    
+##########
+@@@@@
+##########
+
+##########
+@@@@@
+##########
+@@@@@
+##########
+Evangelho segundo São Mateus <font dir="ltr">23,27-32.</font>@@@@@
+##########
+Santa Mónica, viúva, mãe de Santo Agostinho, +387
+##########
+@@@@@
+##########
+Quarta-feira da 21ª semana do Tempo Comum
+##########
+A @@@  @@@  @@@  @@@   
