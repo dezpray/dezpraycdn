@@ -1,103 +1,82 @@
-Szent Jeanne Delanoue, szűz és alapító († 1736)
-Szent Klára Montefalcoi, OSÁ apátnő († 1308)
-Boldog Marie-Élisabeth Turgeon, szűz és alapító († 1881)
-Szent Hyacint, dominikánus pap († 1257)
-Szent Myron, pap és vértanú († kb. 250)
-Szent Mamant vagy Mamész, pásztor és vértanú († 273 vagy 274)
-Szent Euszébiosz, pápa (31.) 309. április 18-tól augusztus 17-ig
-Szent Jeron, pap és vértanú († 856)
-Ifjabb Szent Illés, bazilita szerzetes († 903)
-Boldog Nicola Politi, remete († 1157)
-Boldog Albert, pap († 1202)
-Szent Beatrix da Silva Meneses, szűz († 1490)
-Nagaszaki Szent Vértanúi († 1633)
-Boldog Noël-Hilaire Le Conte, klerikus és vértanú († 1794)
-Boldog Henri Canadell, pap és vértanú († 1936)
+<br />
+<br />
+<b>Warning</b>:  Undefined array key "first" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>653</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "second" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>654</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "reading" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>655</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
+            Szent Jeanne Delanoue, szűz és alapító. († 1736)<br />
+                Szent Montefalcói Klára, OSÁ apátnő. († 1308)<br />
+                Boldog Marie-Élisabeth Turgeon, szűz és alapító. († 1881)<br />
+                Szent Jácint, domonkos pap. († 1257)<br />
+                Szent Míron, pap és vértanú. († kb. 250)<br />
+                Szent Mamant vagy Mamész, pásztor és vértanú. († 273 vagy 274)<br />
+                Szent Euszébiosz, pápa (31.) 309. ápr. 18. – aug. 17. <br />
+                Szent Jeron, pap és vértanú. († 856)<br />
+                Szent Ifjabb Illés, bazilita szerzetes. († 903)<br />
+                Boldog Nicolas Politi, remete. († 1157)<br />
+                Boldog Albert, pap. († 1202)<br />
+                Szent Beatrice da Silva Meneses, szűz. († 1490)<br />
+                Nagaszaki Szent Vértanúi. († 1633)<br />
+                Boldog Noël-Hilaire Le Conte, klerikus és vértanú. († 1794)<br />
+                Boldog Henri Canadell, pap és vértanú. († 1936)<br />
+    
+##########
+<font style="align-text:left" dir="ltr">„Azért jöttem, hogy tüzet vessek a földre. Bárcsak már égne!” (Lk 12,49)</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+            A mi Urunk, Jézus Krisztus a földön él a lelkekben és növekedik bennük kegyelme működése szerint, mint hajdanán gyermekségében, mikor Édesanyjával beszélgetett, és belső életét bennünk folytatja, ha mi egyedül az övéi vagyunk. Amit önmagában kezdett, azt az Egyházában folytatja, úgyhogy az isteni élet, amelyet neki közvetít, és amely oly dicsőséges Istennek, az ő Atyjának, soha nem ér véget az örökkévalóságban. Azt kívánja, hogy az egész föld tele legyen tűzzel, és azért küldte ide, hogy feleméssze a világot (vö. Lk 12,49). (…) <br /><br />
+<br /><br />
+            Nincs semmi édesebb, semmi, ami több nyugalmat és vigaszt adna a léleknek, mint hogy Jézus Krisztus és az ő isteni Lelke elragadja az embert önmagából, akinek ehhez nincs szüksége Illés tüzes szekerére (vö. 2 Kir 2,11)&nbsp;; hanem aki egyedüli erejével felemel minket a földről az égbe, és önmagunk mélységéből Isten kebelébe visz át minket. Hűtlen lennék Jézushoz, ha szüntelenül nem sürgetném a lelket, hogy egyetlen pillanatra se nyugodjék meg önmagában.<br />
+</font><br />
 
-<font style="align-text:left" dir="ltr">„Azért jöttem, hogy tüzet bocsássak a földre, és mennyire szeretném, ha már lángolna!” (Lk 12,49)</font>
+##########
 
-<font style="align-text:left" dir="ltr">
-A mi Urunk, Jézus Krisztus a földön él a lelkekben, és bennük növekszik kegyelmének működése által, ahogyan egykor gyermekkorában Anyjával beszélgetett, és belső élete bennünk is folytatódik, ha teljesen az övéi vagyunk. Amit önmagában kezdett, azt egyházában folytatja, úgyhogy a neki átadott isteni élet, amely oly dicsőséges Istennek, az ő Atyjának, soha nem ér véget az örökkévalóságban. Azt kívánja, hogy az egész föld tele legyen tűzzel, és csak azért küldte ide, hogy feleméssze a világot (vö. Lk 12,49). (...)
+##########
+Jeremiás könyve <font dir="ltr">38,4-6.8-10.</font>@@@@@Ekkor a fejedelmek így szóltak Szedekiás királyhoz: „Ez az ember halált érdemel! Mert ahogyan beszél, azzal letöri a városban maradt harcosok és az egész nép bátorságát. Nem a nép jólétét keresi, hanem a vesztét.”<br /><br />
+Szedekiás király így válaszolt: „A kezetekben van, a király semmit sem tehet ellenetek!”<br /><br />
+Ekkor megragadták Jeremiást, és belevetették Melkiás királyfi ciszternájába az őrség udvarában. Kötelekkel húzták le. Ebben a ciszternában nem volt víz, hanem sár, és Jeremiás belesüppedt a sárba.<br /><br />
+Ébed-Mélek elindult a király házából, és odament hozzá, mondván:<br /><br />
+„Uram, királyom, amit ezek az emberek Jeremiás prófétával tettek, az rossz! Belevetették a ciszternába, éhen fog ott halni, mert már nincs kenyér a városban!”<br /><br />
+Ekkor a király parancsot adott Ébed-Méleknek, az etiópnak: „Vigyél magaddal harminc embert, és húzd ki a ciszternából Jeremiás prófétát, mielőtt meghalna.”<br />
 
+##########
+Zsoltár <font dir="ltr">40(39),2.3.4.18.</font>@@@@@Nagy reménységgel <br /><br />
+vártam az Urat: <br /><br />
+lehajolt hozzám, <br /><br />
+hogy meghallja kiáltásomat.<br /><br />
+<br /><br />
+Kiragadott a mélység borzalmából, <br /><br />
+az iszapból és a sárból; <br /><br />
+sziklára helyezte lábamat, <br /><br />
+megerősítette lépteimet.<br /><br />
+<br /><br />
+Új éneket adott a számba, <br /><br />
+dicséretet Istenünknek. <br /><br />
+Sok ember látja majd, és fél,<br /><br />
+és bízik az Úrban.<br /><br />
+<br /><br />
+Szegény és nyomorult vagyok, <br /><br />
+de az Úr gondol rám. <br /><br />
+Te vagy a segítségem, a szabadítóm: <br /><br />
+Istenem, ne késlekedj!<br />
 
-Nincs semmi édesebb, semmi, ami több nyugalmat és vigasztalást adna a léleknek, mint hogy Jézus Krisztus és isteni Lelke elragadja az embert önmagából, akinek ehhez nincs szüksége Illés tüzes szekerére (vö. 2 Kir 2,11); hanem aki egyedüli erejével felemel minket a földről az égbe, és bensőnkből Isten kebelébe visz minket. Hűtlen lennék Jézushoz, ha szüntelenül nem sürgetném lelkedet, hogy egyetlen pillanatra se pihenjen meg önmagában.
-</font>
+##########
+Jézus Krisztus evangéliuma Lukács szerint <font dir="ltr">12,49-53.</font>@@@@@Abban az időben Jézus így szólt tanítványaihoz: „Azért jöttem, hogy tüzet vessek a földre. Bárcsak már égne!<br /><br />
+Keresztséggel kell megkereszteltetnem, és mennyire gyötrődöm, míg el nem végződik!<br /><br />
+Gondoljátok, hogy békét jöttem hozni a földre? Nem, mondom nektek, hanem inkább megosztottságot.<br /><br />
+Mert mostantól öt ember egy családban megosztott lesz: három kettő ellen és kettő három ellen;<br /><br />
+megosztottak lesznek: az apa a fiú ellen és a fiú az apa ellen, az anya a lány ellen és a lány az anya ellen, az anyós a meny ellen és a meny az anyós ellen.”<br />
 
-Jeremiás könyve <font dir="ltr">38,4-6.8-10.</font>
+##########
+Szent Jeanne Delanoue, szűz és alapító. († 1736)
+##########
+Zsidókhoz írt levél <font dir="ltr">12,1-4.</font>@@@@@Testvérek! Mi is, akiket ekkora tanús felhő vesz körül, dobjunk el minden ránk nehezedő terhet – különösen a bűnt, amely oly könnyen megköt minket –, és kitartóan fussuk meg az előttünk álló versenyt,<br /><br />
+tekintetünket Jézusra, a hit szerzőjére és bevégzőjére szegezve. Ő a ráváró öröm helyett elszenvedte a keresztet, megvetve annak gyalázatát, és most Isten trónjának jobbján ül.<br /><br />
+Gondoljatok arra, aki oly nagy ellenségeskedést szenvedett el a bűnösöktől, és így nem fog elgyengülni a lelketek.<br /><br />
+Még nem álltatok ellen egészen a vérontásig a bűn elleni küzdelmetekben,<br />
 
-Akkor a fejedelmek ezt mondták Sedecia királynak: „Ezt az embert halálra kell adni! Az ilyen beszéddel szétzilálja a városban maradt harcosokat és az egész népet. Nem a nép boldogságát keresi, hanem a baját.”
-
-Sedecia király így válaszolt: „A kezetekben van, a király nem tehet semmit ellenetek!”
-
-Ekkor megragadták Jeremiást, és a király fiának, Melkiásnak a ciszternájába vetették, az őrök udvarában. Kötelekkel engedték le. Ebben a ciszternában nem volt víz, hanem sár, és Jeremiás belesüppedt a sárba.
-
-Ebed-Melek kijött a király házából, és ezt mondta neki:
-
-„Uram király, amit ezek az emberek tettek Jeremiás prófétával, az rossz! A ciszternába dobták, éhen fog ott halni, mert már nincs kenyér a városban!”
-
-Akkor a király ezt a parancsot adta Ebed-Meleknek, az etiópnak: „Vigyél magaddal harminc embert, és húzzátok ki a ciszternából Jeremiás prófétát, mielőtt meghal.”
-
-Zsoltár <font dir="ltr">40(39),2.3.4.18.</font>
-
-Nagy reménységgel
-
-vártam az Urat:
-
-lehajolt hozzám,
-
-hogy meghallja kiáltásomat.
-
-
-Kihúzott a mélység iszonyából,
-
-az iszapból és a sárból;
-
-lábam sziklára tette,
-
-megerősítette lépteimet.
-
-
-Új éneket adott számba,
-
-dicséretet Istenünknek.
-
-Sokan látnak majd, és félnek,
-
-és bíznak az Úrban.
-
-
-Szegény és nyomorult vagyok,
-
-de az Úr gondol rám.
-
-Te vagy a segítségem, a megmentőm:
-
-Istenem, ne késlekedj!
-
-Jézus Krisztus evangéliuma Szent Lukács szerint <font dir="ltr">12,49-53.</font>
-
-Abban az időben Jézus így szólt tanítványaihoz: „Azért jöttem, hogy tüzet hozzak a földre, és mennyire szeretném, ha már lángolna!
-
-Keresztséggel kell megkereszteltetnem, és mennyire szorongok, míg az be nem teljesedik!
-
-Gondoljátok, hogy békét jöttem hozni a földre? Nem, mondom nektek, hanem inkább megosztottságot.
-
-Mert ezentúl öten lesznek megosztottak egy családban: hárman kettő ellen és ketten három ellen;
-
-megosztottak lesznek: az apa a fiú ellen és a fiú az apa ellen, az anya a lánya ellen és a lánya az anya ellen, az anyós a menye ellen és a menye az anyós ellen.”
-
-Szent Jeanne Delanoue, szűz és alapító († 1736)
-
-Zsidókhoz írt levél <font dir="ltr">12,1-4.</font>
-
-Testvérek, mi is, ennyi tanúfelhővel körülvéve, és minden minket hátráltató – különösen a minket oly jól akadályozó bűn – nélkül, állhatatosan fussuk meg az elénk állított versenyt,
-
-szemünket Jézusra szegezve, aki hitünk szerzője és beteljesítője. A neki felajánlott örömről lemondva, elviselte a keresztet, megvetve e gyalázatos szenvedést, és most Isten trónjának jobbján ül.
-
-Gondoljatok arra, aki a bűnösök részéről ilyen ellenségeskedést viselt el, és nem fogtok elcsüggedni.
-
-Még nem álltatok ellen vérig a bűn elleni harcotokban,
-
+##########
 Az évközi idő huszadik vasárnapja
-
-A
+##########
+A @@@  @@@  @@@  @@@   
