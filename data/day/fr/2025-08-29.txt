@@ -1,11 +1,3 @@
-<br />
-<b>Warning</b>:  Undefined array key "first" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>653</b><br />
-<br />
-<b>Warning</b>:  Undefined array key "second" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>654</b><br />
-<br />
-<b>Warning</b>:  Undefined array key "reading" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>655</b><br />
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
             Ste Jeanne Jugan, vierge et fondatrice († 1879)<br />
                 Bx Pierre de Asua y Mendia, prêtre et martyr († 1936)<br />
                 Bse Sancie (Janine Szymkowiak), vierge († 1942)<br />
@@ -31,40 +23,40 @@
     
 ##########
 <font style="align-text:left" dir="ltr">Précurseur du Christ dans sa naissance et dans sa mort</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-            Admirons Jean Baptiste surtout à cause du témoignage suivant&amp;nbsp;: «&amp;nbsp;Parmi les enfants des femmes, personne ne dépasse Jean Baptiste&amp;nbsp;» (Lc 7,28)&amp;nbsp;; il a mérité de s&#039;élever à une telle réputation de vertu que bien des gens pensaient qu&#039;il était le Christ (Lc 3,15).  Mais il y a bien plus admirable encore&amp;nbsp;: Hérode le tétrarque jouissait du pouvoir royal et était à même de le faire mourir quand il le voudrait. Or, il avait commis une action injuste et contraire à la loi de Moïse en prenant la femme de son frère. Jean, sans avoir peur de lui, ni faire acception de la personne, sans se soucier du pouvoir royal, sans craindre la mort (...), sans se dissimuler tous ces dangers, a réprimandé Hérode avec la liberté des prophètes et lui a reproché son mariage. Jeté en prison pour cette audace, il ne se préoccupe ni de la mort ni d&#039;un jugement à l&#039;issue incertaine, mais, dans ses chaînes, ses pensées allaient au Christ qu&#039;il avait annoncé. <br /><br />
-<br /><br />
-            Ne pouvant aller le trouver en personne, il envoie ses disciples pour s&#039;informer&amp;nbsp;: «&amp;nbsp;Es-tu celui qui doit venir ou faut-il en attendre un autre&amp;nbsp;?&amp;nbsp;» (Lc 7,19) Notez bien que, jusque dans sa prison, Jean enseignait. Même dans ce lieu il avait des disciples&amp;nbsp;; même en prison Jean accomplissait son devoir de maître et instruisait ses disciples par des entretiens sur Dieu. Dans ces circonstances, le problème de Jésus se trouvait posé, et Jean lui envoie donc quelques disciples. (...)<br /><br />
-<br /><br />
+            Admirons Jean Baptiste surtout à cause du témoignage suivant&amp;nbsp;: «&amp;nbsp;Parmi les enfants des femmes, personne ne dépasse Jean Baptiste&amp;nbsp;» (Lc 7,28)&amp;nbsp;; il a mérité de s&#039;élever à une telle réputation de vertu que bien des gens pensaient qu&#039;il était le Christ (Lc 3,15).  Mais il y a bien plus admirable encore&amp;nbsp;: Hérode le tétrarque jouissait du pouvoir royal et était à même de le faire mourir quand il le voudrait. Or, il avait commis une action injuste et contraire à la loi de Moïse en prenant la femme de son frère. Jean, sans avoir peur de lui, ni faire acception de la personne, sans se soucier du pouvoir royal, sans craindre la mort (...), sans se dissimuler tous ces dangers, a réprimandé Hérode avec la liberté des prophètes et lui a reproché son mariage. Jeté en prison pour cette audace, il ne se préoccupe ni de la mort ni d&#039;un jugement à l&#039;issue incertaine, mais, dans ses chaînes, ses pensées allaient au Christ qu&#039;il avait annoncé. <br /><br />
+<br /><br />
+            Ne pouvant aller le trouver en personne, il envoie ses disciples pour s&#039;informer&amp;nbsp;: «&amp;nbsp;Es-tu celui qui doit venir ou faut-il en attendre un autre&amp;nbsp;?&amp;nbsp;» (Lc 7,19) Notez bien que, jusque dans sa prison, Jean enseignait. Même dans ce lieu il avait des disciples&amp;nbsp;; même en prison Jean accomplissait son devoir de maître et instruisait ses disciples par des entretiens sur Dieu. Dans ces circonstances, le problème de Jésus se trouvait posé, et Jean lui envoie donc quelques disciples. (...)<br /><br />
+<br /><br />
             Les disciples reviennent et rapportent à leur maître ce que le Sauveur les avait chargés d&#039;annoncer. Cette réponse est pour Jean une arme pour affronter le combat&amp;nbsp;; il meurt avec assurance et de grand cœur se laisse décapiter, assuré par la parole du Seigneur lui-même que celui en qui il croyait était vraiment le Fils de Dieu. Telle a été la liberté de Jean Baptiste, telle a été la folie d&#039;Hérode qui, à de nombreux crimes, a ajouté d&#039;abord l&#039;emprisonnement, puis le meurtre de Jean Baptiste.<br />
 </font><br />
 
 ##########
 
 ##########
-Livre de Jérémie <font dir="ltr">1,17-19.</font>@@@@@En ces jours-là, la parole du Seigneur me fut adressée : <br /><br />
+Livre de Jérémie <font dir="ltr">1,17-19.</font>@@@@@En ces jours-là, la parole du Seigneur me fut adressée : <br /><br />
 « Toi, mets ta ceinture autour des reins et lève-toi, tu diras contre mon peuple tout ce que je t’ordonnerai. Ne tremble pas devant eux, sinon c’est moi qui te ferai trembler devant eux.<br /><br />
 Moi, je fais de toi aujourd’hui une ville fortifiée, une colonne de fer, un rempart de bronze, pour faire face à tout le pays, aux rois de Juda et à ses princes, à ses prêtres et à tout le peuple du pays.<br /><br />
 Ils te combattront, mais ils ne pourront rien contre toi, car je suis avec toi pour te délivrer – oracle du Seigneur. »<br />
 
 ##########
-Psaume <font dir="ltr">71(70),1-2.3.5-6ab.15ab.17.</font>@@@@@En toi, Seigneur, j&#039;ai mon refuge : <br /><br />
+Psaume <font dir="ltr">71(70),1-2.3.5-6ab.15ab.17.</font>@@@@@En toi, Seigneur, j&#039;ai mon refuge : <br /><br />
 garde-moi d&#039;être humilié pour toujours.<br /><br />
-Dans ta justice, défends-moi, libère-moi, <br /><br />
+Dans ta justice, défends-moi, libère-moi, <br /><br />
 tends l&#039;oreille vers moi, et sauve-moi.<br /><br />
 <br /><br />
-Sois le rocher qui m&#039;accueille, <br /><br />
-toujours accessible ; <br /><br />
-tu as résolu de me sauver : <br /><br />
+Sois le rocher qui m&#039;accueille, <br /><br />
+toujours accessible ; <br /><br />
+tu as résolu de me sauver : <br /><br />
 ma forteresse et mon roc, c&#039;est toi !<br /><br />
 <br /><br />
-Seigneur mon Dieu, tu es mon espérance, <br /><br />
+Seigneur mon Dieu, tu es mon espérance, <br /><br />
 mon appui dès ma jeunesse.<br /><br />
 Toi, mon soutien dès avant ma naissance,<br /><br />
 tu m&#039;as choisi dès le ventre de ma mère.<br /><br />
 <br /><br />
 Ma bouche annonce tout le jour<br /><br />
 tes actes de justice et de salut ;<br /><br />
-Mon Dieu, tu m&#039;as instruit dès ma jeunesse, <br /><br />
+Mon Dieu, tu m&#039;as instruit dès ma jeunesse, <br /><br />
 jusqu&#039;à présent, j&#039;ai proclamé tes merveilles.<br />
 
 ##########

@@ -1,11 +1,3 @@
-<br />
-<b>Warning</b>:  Undefined array key "first" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>653</b><br />
-<br />
-<b>Warning</b>:  Undefined array key "second" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>654</b><br />
-<br />
-<b>Warning</b>:  Undefined array key "reading" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>655</b><br />
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
             Ste Jeanne-Élisabeth Bichier des Âges, vierge († 1838)<br />
                 Ste Thérèse de Jésus Jornet, vierge et cofondatrice († 1897)<br />
                 Bse Marie Corsini, mère de famille († 1965)<br />
@@ -27,10 +19,10 @@
     
 ##########
 <font style="align-text:left" dir="ltr">« Vous avez négligé ce qu'il y a de plus grave dans la Loi : la justice, la miséricorde et la fidélité »</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-            Si tu veux cheminer correctement, avec discrétion et avec fruit sur la route de la vraie religion, tu dois être austère et rigide avec toi-même, mais paraître toujours joyeux et ouvert avec les autres, t&#039;efforçant en ton cœur de cheminer sur les sommets de la droiture, tout en sachant t&#039;abaisser avec bonté vers les faibles. Bref, devant le jugement de ta conscience, tu dois modérer les rigueurs de la justice, de telle sorte que tu ne sois pas dur pour les pécheurs, mais accessible au pardon et indulgent. (...)<br /><br />
-<br /><br />
-            Estime ton péché dangereux et mortel&amp;nbsp;; celui des autres, nomme-le fragilité de la condition humaine. La faute que tu estimes chez toi digne d&#039;une correction sévère, pense que, chez les autres, elle ne mérite qu&#039;un petit coup de baguette. Ne sois pas plus juste que le juste&amp;nbsp;: crains de commettre le péché, mais n&#039;hésite pas à pardonner au pécheur. La vraie justice n&#039;est pas celle qui précipite les âmes des frères dans le piège du désespoir (...). Il est bien dangereux le feu qui, en brûlant des buissons, menace d&#039;embraser la maison elle-même avec l&#039;ardeur de ses flammes. Non, celui qui épluche volontiers les défauts des autres n&#039;évitera pas le péché, car, même s&#039;il est mû par le zèle de la justice, tôt ou tard, il se laissera aller au dénigrement.<br /><br />
-<br /><br />
+            Si tu veux cheminer correctement, avec discrétion et avec fruit sur la route de la vraie religion, tu dois être austère et rigide avec toi-même, mais paraître toujours joyeux et ouvert avec les autres, t&#039;efforçant en ton cœur de cheminer sur les sommets de la droiture, tout en sachant t&#039;abaisser avec bonté vers les faibles. Bref, devant le jugement de ta conscience, tu dois modérer les rigueurs de la justice, de telle sorte que tu ne sois pas dur pour les pécheurs, mais accessible au pardon et indulgent. (...)<br /><br />
+<br /><br />
+            Estime ton péché dangereux et mortel&amp;nbsp;; celui des autres, nomme-le fragilité de la condition humaine. La faute que tu estimes chez toi digne d&#039;une correction sévère, pense que, chez les autres, elle ne mérite qu&#039;un petit coup de baguette. Ne sois pas plus juste que le juste&amp;nbsp;: crains de commettre le péché, mais n&#039;hésite pas à pardonner au pécheur. La vraie justice n&#039;est pas celle qui précipite les âmes des frères dans le piège du désespoir (...). Il est bien dangereux le feu qui, en brûlant des buissons, menace d&#039;embraser la maison elle-même avec l&#039;ardeur de ses flammes. Non, celui qui épluche volontiers les défauts des autres n&#039;évitera pas le péché, car, même s&#039;il est mû par le zèle de la justice, tôt ou tard, il se laissera aller au dénigrement.<br /><br />
+<br /><br />
             Évidemment, si notre vie ne nous paraissait pas si brillante, celle des autres ne nous semblerait pas si laide. Et si, comme il le faudrait, nous étions pour nous des juges sévères, les fautes d&#039;autrui ne trouveraient pas en nous des censeurs aussi rigoureux.<br />
 </font><br />
 
@@ -48,17 +40,17 @@ Ayant pour vous une telle affection, nous aurions voulu vous donner non seulemen
 
 ##########
 Psaume <font dir="ltr">139(138),1-3.4-6.</font>@@@@@Tu me scrutes, Seigneur, et tu sais !<br /><br />
-Tu sais quand je m&#039;assois, quand je me lève ; <br /><br />
+Tu sais quand je m&#039;assois, quand je me lève ; <br /><br />
 de très loin, tu pénètres mes pensées.<br /><br />
-Que je marche ou me repose, tu le vois, <br /><br />
+Que je marche ou me repose, tu le vois, <br /><br />
 <br /><br />
 tous mes chemins te sont familiers.<br /><br />
-Avant qu&#039;un mot ne parvienne à mes lèvres, <br /><br />
+Avant qu&#039;un mot ne parvienne à mes lèvres, <br /><br />
 déjà, Seigneur, tu le sais.<br /><br />
-Tu me devances et me poursuis, tu m&#039;enserres, <br /><br />
+Tu me devances et me poursuis, tu m&#039;enserres, <br /><br />
 <br /><br />
 tu as mis la main sur moi.<br /><br />
-Savoir prodigieux qui me dépasse, <br /><br />
+Savoir prodigieux qui me dépasse, <br /><br />
 hauteur que je ne puis atteindre !<br />
 
 ##########
