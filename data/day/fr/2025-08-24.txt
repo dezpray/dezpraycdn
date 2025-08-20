@@ -1,11 +1,3 @@
-<br />
-<b>Warning</b>:  Undefined array key "first" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>653</b><br />
-<br />
-<b>Warning</b>:  Undefined array key "second" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>654</b><br />
-<br />
-<b>Warning</b>:  Undefined array key "reading" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>655</b><br />
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
             St Barthélémy, apôtre et martyr († vers l&#039;an 71)<br />
                 Ste Jeanne-Antide Thouret, v. et fond. († 1826)<br />
                 Bx Miroslav Bulesic, prête croate et martyr († 1947)<br />
@@ -25,27 +17,27 @@
     
 ##########
 <font style="align-text:left" dir="ltr">« Tendez tous vos efforts pour entrer par la porte étroite » (Lc 13,24)</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-            Nous ne pouvons avoir rien de stable dans un monde où nous ne sommes venus que pour passer et, pour nous, vivre c’est chaque jour laisser la vie et passer. (…) <br /><br />
-<br /><br />
-            Cette mutabilité, l’homme ne la subit pas seulement en son corps, mais en son âme aussi, quand il s’efforce de se hausser vers le meilleur. Car sous le poids de sa mutabilité l’âme est emportée sans cesse vers autre chose qu’elle n’est, et si elle n’est pas retenue dans son premier état par la stricte discipline de la vigilance, elle glisse sans cesse vers le pire. Car en abandonnant celui qui demeure sans cesse, elle a perdu la stabilité qu’elle aurait pu garder. Aussi maintenant son effort vers le meilleur n’est-il qu’une remontée à contre-courant. Et qu’elle se relâche dans son intention de monter, la voilà sans effort ramenée vers les bas-fonds.<br /><br />
-<br /><br />
+            Nous ne pouvons avoir rien de stable dans un monde où nous ne sommes venus que pour passer et, pour nous, vivre c’est chaque jour laisser la vie et passer. (…) <br /><br />
+<br /><br />
+            Cette mutabilité, l’homme ne la subit pas seulement en son corps, mais en son âme aussi, quand il s’efforce de se hausser vers le meilleur. Car sous le poids de sa mutabilité l’âme est emportée sans cesse vers autre chose qu’elle n’est, et si elle n’est pas retenue dans son premier état par la stricte discipline de la vigilance, elle glisse sans cesse vers le pire. Car en abandonnant celui qui demeure sans cesse, elle a perdu la stabilité qu’elle aurait pu garder. Aussi maintenant son effort vers le meilleur n’est-il qu’une remontée à contre-courant. Et qu’elle se relâche dans son intention de monter, la voilà sans effort ramenée vers les bas-fonds.<br /><br />
+<br /><br />
             Oui, monter est effort et descendre détente, et c’est par la porte étroite que nous entrerons, le Seigneur nous le rappelle&amp;nbsp;: «&amp;nbsp;Tendez tous vos efforts, dit-il, pour entrer par la porte étroite.&amp;nbsp;» (Lc 13,24) Au moment où il va parler d’entrée par la porte étroite, il dit bien d’abord&amp;nbsp;: «&amp;nbsp;Tendez tous vos efforts&amp;nbsp;», car, sans fervente contention de l’esprit, invincible est le flot de ce monde qui ramène sans cesse l’âme vers la bassesse.<br />
 </font><br />
 
 ##########
 
 ##########
-Livre d'Isaïe <font dir="ltr">66,18-21.</font>@@@@@Ainsi parle le Seigneur :<br /><br />
+Livre d'Isaïe <font dir="ltr">66,18-21.</font>@@@@@Ainsi parle le Seigneur :<br /><br />
 connaissant avec leurs actions et leurs pensées, moi, je viens rassembler toutes les nations, de toute langue. Elles viendront et verront ma gloire :<br /><br />
 je mettrai chez elles un signe ! Et, du milieu d’elles, j’enverrai des rescapés vers les nations, vers Tarsis, Pouth et Loud, Mèshek, Rosh, Toubal et Yavane, vers les îles lointaines qui n’ont rien entendu de ma renommée, qui n’ont pas vu ma gloire ; ma gloire, ces rescapés l’annonceront parmi les nations.<br /><br />
 Et, de toutes les nations, ils ramèneront tous vos frères, en offrande au Seigneur, sur des chevaux et des chariots, en litière, à dos de mulets et de dromadaires, jusqu’à ma montagne sainte, à Jérusalem, – dit le Seigneur. On les portera comme l’offrande qu’apportent les fils d’Israël, dans des vases purs, à la Maison du Seigneur.<br /><br />
 Je prendrai même des prêtres et des lévites parmi eux, – dit le Seigneur.<br />
 
 ##########
-Psaume <font dir="ltr">117(116),1.2.</font>@@@@@Louez le Seigneur, tous les peuples ; <br /><br />
+Psaume <font dir="ltr">117(116),1.2.</font>@@@@@Louez le Seigneur, tous les peuples ; <br /><br />
 fêtez-le, tous les pays !<br /><br />
 <br /><br />
-Son amour envers nous s&#039;est montré le plus fort ; <br /><br />
+Son amour envers nous s&#039;est montré le plus fort ; <br /><br />
 éternelle est la fidélité du Seigneur !<br />
 
 ##########
