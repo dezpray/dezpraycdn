@@ -1,87 +1,78 @@
+```
+Boldog Jeanne-Élisabeth Bichier des Âges, szűz († 1838)
+Szent Teréz de Jésus Jornet, szűz és társalapító († 1897)
+Boldog Marie Corsini, családanya († 1965)
+Boldog Ceferino Namuncurá, s.d.b. szerzetes († 1905)
+Szent Keresztre feszített Jézusról nevezett Mária, karmelita szűz († 1878)
+Szent Melkisédek, a Fölséges Isten királya és papja
+Szent Maximilián, vértanú († kb. 295)
+Szent Anasztáz a szövő, vértanú († kb. 304)
 <br />
-<b>Warning</b>: Undefined array key "first" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>653</b><br />
+Szent Viktor, a hit vértanúja († ismeretlen század)
+Szent Bergamei Sándor, vértanú († IV. század)
+Szent Eleuthériusz, püspök († VI. század)
+Szent Cézáriusz, püspök (470-543)
 <br />
-<b>Warning</b>: Undefined array key "second" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>654</b><br />
+Boldog Jacques Retouret, pap és vértanú († 1794)
+Boldog Ambrus (Matamales), o.f.m. pap és vértanú († 1936)
+Boldog Péter (Ginestar), o.f.m. pap és vértanú († 1936)
+Boldog Félix Vivet Trabal s.d.b. szerzetes és vértanú († 1936)
+Boldog Laurence (Harasymiv), szűz és vértanú († 1952)
+Szent Mercurial, vértanú († 1010)
 <br />
-<b>Warning</b>: Undefined array key "reading" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>655</b><br />
-<br />
-<b>Warning</b>: Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Szent IX. Lajos, Franciaország királya († 1270)<br />
-                Szent Kalazanci József, pap és alapító († 1648)<br />
-                Boldog Maria Troncatti, FMA szerzetesnő († 1969)<br />
-                Boldog Alessandro Dordi, misszionárius pap és vértanú († 1991)<br />
-                Boldog Luigi de la Consolation († 1977)<br />
-                Szentek Euszébiosz, Pontiánusz, Vince és Pellegrinus, vértanúk († II. sz.)<br />
-                Szent Genész, katekumen és vértanú († kb. 303)<br />
-                Szent Geroncius, püspök († kb. 100)<br />
-                Szent Severus, apát († kb. 500)<br />
-                Szent Menas, püspök († 582)<br />
-                Szent Yrieix, apát († 591)<br />
-                Szent Gergely, apát († 775)<br />
-                Szent Thomas de Canteloup, püspök († 1282)<br />
-                Boldog Louis Baba, ferences szerzetes és vértanú († 1624)<br />
-                Boldog Louis Sasanda, ferences pap és vértanú († 1624)<br />
-                Boldog Pierre Vasquez, domonkos pap és vértanú († 1624)<br />
-                Boldog Michel Carvalho, jezsuita pap és vértanú († 1624)<br />
-                Boldog Louis Sotelo, ferences pap és vértanú († 1624)<br />
-                Boldog Paul-Jean Charles, pap és vértanú († 1794)<br />
-                Boldog Marie del Transito, szűz és alapító († 1885)<br />
-                Boldog Louis Urbano Lanaspa, domonkos pap és vértanú († 1936)<br />
-                Boldog Vicent Alvarez Cienfuegos, domonkos pap, vértanú († 1936)<br />
-    
 ##########
-<font style="align-text:left" dir="ltr">Isten a szabadságunkra apellál</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-            Isten arra ösztönzi az embert, hogy keljen fel a bűnből (...). Minél hamarabb ismeri fel az ember nyomorúságát, annál gyorsabban megalázza magát, és átadja magát Istennek, tudva, hogy Isten feladata elvégezni benne a megtérés művét. Fokozatosan tudatosul benne ez Isten folyamatos sugallatai által, és látva a művet és az abból származó előnyt, azt mondja magában&amp;nbsp;: «&amp;nbsp;Igazán úgy tűnik nekem, mintha Istennek nem lenne más dolga, csak velem foglalkozni. Ó&amp;nbsp;! Mily édesek és szeretetteljesek Isten ránk vonatkozó művei&amp;nbsp;!&amp;nbsp;» (...)<br /><br />
+<font style="align-text:left" dir="ltr">„Elhanyagoltátok a Törvény legfontosabb dolgait: az igazságosságot, az irgalmasságot és a hűséget”</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+Ha helyesen, megfontoltan és gyümölcsözően akarsz járni az igazi vallás útján, légy szigorú és kemény önmagaddal szemben, de mindig vidámnak és nyitottnak tűnj másokkal szemben, miközben a szívedben az igazságosság csúcsain igyekszel járni, de tudjál leereszkedni a gyengékhez is jósággal.
+Röviden, a lelkiismereted ítélete előtt mérsékeld az igazságosság szigorát, hogy ne légy kemény a bűnösökkel szemben, hanem elérhető a megbocsátásra és elnéző.
+(...)<br /><br />
 <br /><br />
-            Már ebben az életben, Istent szolgálni valójában uralkodás. Amikor Isten megszabadítja az embert a bűntől, amely rabszolgasorba taszítja, minden szolgaságból kiszabadítja, és valóságos szabadságba helyezi. Máskülönben az ember mindig vágyról vágyra halad, anélkül, hogy valaha is megnyugodna&amp;nbsp;; minél többet birtokol, annál többet szeretne&amp;nbsp;; önmagát keresve, soha nem elégedett. Valóban, akinek vágya van, az birtokolva van általa&amp;nbsp;; annak a dolognak, amit szeret, eladta magát&amp;nbsp;; szabadságát keresve, vágyait követve, Istent megbántva, végtelenül rabszolgasorba taszítja magát.<br /><br />
+Tartsd a saját bűnödet veszélyesnek és halálosnak; a másokét nevezd az emberi állapot gyengeségének.
+Azt a hibát, amelyet magadban szigorú büntetésre érdemesnek tartasz, gondold azt, hogy másokban csak egy kis botütést érdemel.
+Ne légy igazabb az igaznál: félj a bűn elkövetésétől, de ne habozz megbocsátani a bűnösnek.
+Az igazi igazságosság nem az, amely a testvérek lelkét a kétségbeesés csapdájába sodorja (...).
+Nagyon veszélyes az a tűz, amely a bokrokat égetve azzal fenyeget, hogy a lángok erejével a házat is felgyújtja.
+Nem, az, aki szívesen gúnyolja mások hibáit, nem fogja elkerülni a bűnt, mert még ha az igazságosság buzgósága is vezérli, előbb vagy utóbb a rágalmazásba fog esni.<br /><br />
 <br /><br />
-            Gondold meg tehát szabad akaratunk erejét és hatalmát, amely két, egymásnak oly ellentétes dolgot foglal magában&amp;nbsp;: az örök életet vagy az örök halált. Egyetlen teremtmény sem kényszerítheti, ha nem akarja&amp;nbsp;; ezért, amíg hatalmadban áll, gondosan gondold át és figyelj arra, amit teszel.<br />
+Nyilvánvalóan, ha a mi életünk nem tűnne olyan ragyogónak, a másoké nem tűnne olyan csúfnak.
+És ha, ahogy kellene, szigorú bírák lennénk magunkkal szemben, mások hibái sem találnának bennünk olyan szigorú cenzorokat.<br />
 </font><br />
-
 ##########
-Pál apostol első levele a thesszalonikaiaknak <font dir="ltr">1,1-5.8b-10.</font>@@@@@Pál, Szilvánusz és Timóteus a thesszalonikai egyháznak, amely Istenben, az Atyában és az Úr Jézus Krisztusban van. Kegyelem nektek és békesség!<br /><br />
-Hálát adunk Istennek mindig mindnyájatokért, megemlékezve rólatok imádságainkban. Szüntelenül<br /><br />
-emlékezve hitetek tevékenységére, szeretetetek fáradságára és Urunk, Jézus Krisztus iránti reményetek állhatatosságára Isten, a mi Atyánk színe előtt.<br /><br />
-Tudjuk, Isten szerettei, hogy ő választott ki titeket.<br /><br />
-Mert evangéliumunk nem csupán szó volt köztetek, hanem erő, Szentlélek és teljes bizonyosság; hiszen tudjátok, hogyan viselkedtünk közöttetek a ti javatokra.<br /><br />
-Hiszen a ti Istenbe vetett hitetek híre mindenhová eljutott, úgyhogy nekünk semmit sem kell mondanunk.<br /><br />
-Mert maguk beszélik rólunk, milyen fogadtatásban részesültünk nálatok; és hogyan fordultatok az Istenhez a bálványoktól, hogy az élő és igaz Istent szolgáljátok,<br /><br />
-és várjátok a mennyből az ő Fiát, akit feltámasztott a halottak közül, Jézust, aki megment minket az eljövendő haragtól.<br />
-
 ##########
-Zsoltár <font dir="ltr">149(148),1-2.3-4.5-6a.9b.</font>@@@@@Énekeljetek az Úrnak új éneket,<br /><br />
-dicsérjétek őt szentjeinek gyülekezetében!<br /><br />
-Izrael örüljön Teremtőjének;<br /><br />
-Sion fiai ujjongjanak királyuknak!<br /><br />
+Szent Pál apostol első levele a tesszalonikaiaknak <font dir="ltr">2,1-8.</font>@@@@@Testvérek, ti magatok is tudjátok, hogy nem volt hiábavaló a hozzátok való érkezésünk.<br /><br />
+Korábban, mint tudjátok, sokat szenvedtünk és sértéseket szenvedtünk Filippiben, de Istenünkben teljes bizalomra találtunk, hogy nagy küzdelmek árán is hirdessük nektek Isten evangéliumát.<br /><br />
+És amikor buzdítottunk benneteket, az nem hamis tanokkal, nem tisztátalan indítékokkal, nem csellel történt.<br /><br />
+Valójában Isten próbára tette a mi értékünket, hogy ránk bízza az evangéliumot, így nem azért beszélünk, hogy embereknek tetszenünk, hanem Istennek, aki próbára teszi a szívünket.<br /><br />
+Soha nem voltunk hízelgő szavakban, mint tudjátok, soha nem voltunk önérdekből, Isten a tanúnk;<br /><br />
+soha nem kerestük a dicsőséget emberektől, sem tőletek, sem másoktól.<br /><br />
+Bár érvényesíthettük volna magunkat, mint Krisztus apostolai, ehelyett szelídek voltunk veletek, mint egy anya, aki gondozza csecsemőit.<br /><br />
+Annyira szerettünk benneteket, hogy nemcsak Isten evangéliumát akartuk nektek adni, hanem még a saját életünket is, mert nagyon kedvesek lettetek nekünk.<br />
+##########
+Zsoltár <font dir="ltr">139(138),1-3.4-6.</font>@@@@@Megvizsgálsz, Uram, és ismersz!<br /><br />
+Tudod, mikor ülök le, mikor állok fel;<br /><br />
+messziről megérted gondolataimat.<br /><br />
+Akár járok, akár pihenek, te látod,<br /><br />
 <br /><br />
-Táncoljanak az ő nevének dicsőítésére,<br /><br />
-játszanak neki dobon és citerán!<br /><br />
-Mert az Úr szereti népét,<br /><br />
-megdicsőíti a szelídeket győzelemmel.<br /><br />
+minden utam ismerős neked.<br /><br />
+Még mielőtt egy szó is eljutna ajkamra,<br /><br />
+Uram, te már tudod azt.<br /><br />
+Elém jössz és üldözöl, körbeveszel,<br /><br />
 <br /><br />
-Ujjongjanak a szentek dicsőségben,<br /><br />
-diadaluk óráján ujjongjanak.<br /><br />
-Hirdessék Isten dicséretét,<br /><br />
-ez az ő híveinek büszkesége.<br />
-
+rádtetted a kezedet.<br /><br />
+Csodálatos tudás, amely meghalad engem,<br /><br />
+olyan magas, hogy nem érem el!<br />
 ##########
-Jézus Krisztus evangéliuma Máté szerint <font dir="ltr">23,13.15-22.</font>@@@@@Abban az időben Jézus így szólt:<br /><br />
-« Jaj nektek, képmutató írástudók és farizeusok, mert bezárjátok a mennyek országát az emberek előtt; ti magatok ugyanis nem mentek be, és azokat sem engeditek be, akik be akarnának menni!<br /><br />
-Jaj nektek, képmutató írástudók és farizeusok, mert bejárjátok a tengert és a szárazföldet, hogy egyetlen megtérőt is szerezzetek, és ha ez megtörtént, a gyehenna fiává teszitek őt, kétszer rosszabbá, mint ti magatok!<br /><br />
-Jaj nektek, vak vezetők, akik azt mondjátok: “Ha valaki a szentélyre esküszik, az semmi; de ha a szentély aranyára esküszik, annak teljesítenie kell az esküt.”<br /><br />
-Esztelenek és vakok! Mi a fontosabb: az arany? Vagy a szentély, amely megszenteli az aranyat?<br /><br />
-Azt is mondjátok: “Ha valaki az oltárra esküszik, az semmi; de ha az oltáron lévő áldozatra esküszik, annak teljesítenie kell az esküt.”<br /><br />
-Vakok! Mi a fontosabb: az áldozat? Vagy az oltár, amely megszenteli az áldozatot?<br /><br />
-Aki tehát az oltárra esküszik, az az oltárra és mindarra esküszik, ami rajta van;<br /><br />
-aki a szentélyre esküszik, az a szentélyre és arra esküszik, aki abban lakik;<br /><br />
-és aki az égre esküszik, az Isten trónjára és arra esküszik, aki azon ül. »<br />
-
+Jézus Krisztus evangéliuma Máté szerint <font dir="ltr">23,23-26.</font>@@@@@Abban az időben Jézus így szólt: Jaj nektek, írástudók és farizeusok, ti képmutatók, mert
+tizedet fizettek a mentából, az ánizsból és a köményből, de elhanyagoltátok a törvény legfontosabb dolgait: az igazságosságot, az irgalmasságot és a hűséget.
+Ezeket kellett volna gyakorolni anélkül, hogy elhanyagolnátok a többit.<br /><br />
+Vak vezetők! Kiszeitek a muslicát, és lenyelitek a tevét!<br /><br />
+Jaj nektek, írástudók és farizeusok, ti képmutatók, mert megtisztítjátok a pohár és a tál külsejét, de belül tele van kapzsisággal és mértéktelenséggel!<br /><br />
+Vak farizeus, tisztítsd meg először a pohár belsejét, hogy a külseje is tiszta legyen.<br />
 ##########
-Szent IX. Lajos, Franciaország királya († 1270)
+Boldog Jeanne-Élisabeth Bichier des Âges, szűz († 1838)
 ##########
-<br />
-
+@@@@@<br />
 ##########
-Az évközi idő 21. hetének hétfője
+Az évközi idő 21. hetének keddje
 ##########
 A @@@ @@@ @@@ @@@
+```
