@@ -1,9 +1,5 @@
 
 
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-
 ##########
 @@@@@
 ##########
@@ -22,24 +18,24 @@ Thus it was that Naomi returned with the Moabite daughter-in-law, Ruth, who acco
 
 
 ##########
-Psalms <font dir="ltr">146(145),5-6.7.8-9a.9bc-10.</font>@@@@@Blessed he whose help is the God of Jacob, <br /><br />
+Psalms <font dir="ltr">146(145),5-6.7.8-9a.9bc-10.</font>@@@@@Blessed he whose help is the God of Jacob, <br /><br />
 whose hope is in the LORD, his God,<br /><br />
-Who made heaven and earth, <br /><br />
-the sea and all that is in them. <br /><br />
+Who made heaven and earth, <br /><br />
+the sea and all that is in them. <br /><br />
 <br /><br />
 Who keeps faith forever,<br /><br />
-secures justice for the oppressed, <br /><br />
-gives food to the hungry. <br /><br />
+secures justice for the oppressed, <br /><br />
+gives food to the hungry. <br /><br />
 The LORD sets captives free.  <br /><br />
 <br /><br />
-The LORD gives sight to the blind. <br /><br />
-The LORD raises up those who were bowed down; <br /><br />
+The LORD gives sight to the blind. <br /><br />
+The LORD raises up those who were bowed down; <br /><br />
 the LORD loves the just.<br /><br />
 The LORD protects strangers.<br /><br />
 <br /><br />
 The fatherless and the widow the LORD sustains,<br /><br />
 but the way of the wicked he thwarts.<br /><br />
-The LORD shall reign forever; <br /><br />
+The LORD shall reign forever; <br /><br />
 your God, O Zion, through all generations. Alleluia.<br />
 
 

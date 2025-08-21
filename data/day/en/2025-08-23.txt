@@ -1,77 +1,82 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            St. Rose of Lima, Religious (1586-1617)<br />
+            Ste Rose de Lima, vierge († 1617)<br />
+                Sts Claude, Astèrius et Néon, martyrs († v. 303)<br />
+                St Zachée, évêque († 116)<br />
+                Sts Abondius et Irénée, martyrs († v. 258)<br />
+                Sts Cyriaque et Archélaüs, martyrs († IIIe s.)<br />
+                St Louppos, martyr († siècle inc.)<br />
+                St Flavien, évêque († Ve-VIe s.)<br />
+                St Eugène, évêque († VIe s.)<br />
+                St Antoine de Gerace, ermite († Xe s.)<br />
+                Bx Jean Bourdon, prêtre o.f.m. et martyr († 1794)<br />
+                Bx Constantin Carbonell Sempere, prêtre s.j. et martyr<br />
+                Bx Pierre Gelabert Amer, religieux s.j. et martyr († 1936)<br />
+                Bx Raymond Grimaltos Monllor, religieux s.j. et martyr<br />
+                Bx Urbain Gil Saez, religieux et martyr († 1936)<br />
+                Bx Florentin Pérez Romero, prêtre o.f.m. et martyr<br />
+                Bx Jean-Marie de la Croix, prêtre et martyr († 1936)<br />
+                Bse Rosalie et Séraphine, martyres († 1936)<br />
+                Bx François Dachtera, prêtre et martyr († 1944)<br />
     
 ##########
-<font style="align-text:left" dir="ltr">"Whoever humbles himself will be exalted"</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-Anyone who acknowledges his own sins… is greater than one who raises the dead by his prayer. Anyone who mourns over the state of his soul for an hour is greater than one who embraces the world in contemplation. Anyone to whom it has been given to see the truth about himself is greater than one to whom it has been given to see angels.<br /><br />
+<font style="align-text:left" dir="ltr">"Quiconque s'abaisse sera élevé"</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+Celui qui reconnaît ses propres péchés… est plus grand que celui qui ressuscite les morts par sa prière. Celui qui pleure sur l’état de son âme pendant une heure est plus grand que celui qui embrasse le monde dans la contemplation. Celui à qui il a été donné de voir la vérité sur lui-même est plus grand que celui à qui il a été donné de voir des anges.<br /><br />
 <br />
 </font><br />
 
 ##########
 
 ##########
-Book of Ruth <font dir="ltr">2,1-3.8-11.4,13-17.</font>@@@@@Naomi had a prominent kinsman named Boaz, of the clan of her husband Elimelech.<br /><br />
-Ruth the Moabite said to Naomi, &quot;Let me go and glean ears of grain in the field of anyone who will allow me that favor.&quot; Naomi said to her, &quot;Go, my daughter,&quot;<br /><br />
-and she went. The field she entered to glean after the harvesters happened to be the section belonging to Boaz of the clan of Elimelech.<br /><br />
-Boaz said to Ruth, &quot;Listen, my daughter! Do not go to glean in anyone else&#039;s field; you are not to leave here. Stay here with my women servants.<br /><br />
-Watch to see which field is to be harvested, and follow them; I have commanded the young men to do you no harm. When you are thirsty, you may go and drink from the vessels the young men have filled.&quot;<br /><br />
-Casting herself prostrate upon the ground, she said to him, &quot;Why should I, a foreigner, be favored with your notice?&quot;<br /><br />
-Boaz answered her: &quot;I have had a complete account of what you have done for your mother-in-law after your husband&#039;s death; you have left your father and your mother and the land of your birth, and have come to a people whom you did not know previously.<br /><br />
-Boaz took Ruth. When they came together as man and wife, the LORD enabled her to conceive and she bore a son.<br /><br />
-Then the women said to Naomi, &quot;Blessed is the LORD who has not failed to provide you today with an heir! May he become famous in Israel!<br /><br />
-He will be your comfort and the support of your old age, for his mother is the daughter-in-law who loves you. She is worth more to you than seven sons!&quot;<br /><br />
-Naomi took the child, placed him on her lap, and became his nurse.<br /><br />
-And the neighbor women gave him his name, at the news that a grandson had been born to Naomi. They called him Obed. He was the father of Jesse, the father of David.<br />
-
-
+Livre de Ruth <font dir="ltr">2,1-3.8-11.4,13-17.</font>@@@@@Naomi avait un parent de renom nommé Booz, de la famille de son mari Élimélek.<br /><br />
+Ruth la Moabite dit à Naomi : &quot;Laisse-moi aller glaner des épis dans le champ de celui qui me fera cette grâce.&quot; Naomi lui dit : &quot;Va, ma fille,&quot;<br /><br />
+et elle partit. Le champ où elle entra pour glaner derrière les moissonneurs se trouvait appartenir à Booz, de la famille d’Élimélek.<br /><br />
+Booz dit à Ruth : &quot;Écoute, ma fille ! Ne va pas glaner dans un autre champ ; ne t’éloigne pas d’ici. Reste ici avec mes servantes.<br /><br />
+Regarde bien quel champ on moissonne, et suis-les ; j’ai ordonné aux jeunes hommes de ne pas te faire de mal. Quand tu auras soif, tu pourras aller boire aux vases que les jeunes hommes ont remplis.&quot;<br /><br />
+Se jetant face contre terre, elle lui dit : &quot;Pourquoi ai-je trouvé grâce à tes yeux, moi l’étrangère, pour que tu t’intéresses à moi ?&quot;<br /><br />
+Booz lui répondit : &quot;On m’a rapporté en détail ce que tu as fait pour ta belle-mère après la mort de ton mari : tu as quitté ton père, ta mère et le pays de ta naissance, et tu es venue vers un peuple que tu ne connaissais pas auparavant.<br /><br />
+Booz prit Ruth. Quand ils furent unis comme mari et femme, le SEIGNEUR lui permit de concevoir et elle enfanta un fils.<br /><br />
+Alors les femmes dirent à Naomi : &quot;Béni soit le SEIGNEUR qui aujourd’hui ne t’a pas laissée manquer d’un héritier ! Que son nom devienne célèbre en Israël !<br /><br />
+Il sera pour toi un réconfort et le soutien de ta vieillesse, car sa mère est ta belle-fille qui t’aime. Elle vaut mieux pour toi que sept fils !&quot;<br /><br />
+Naomi prit l’enfant, le mit sur ses genoux et devint sa nourrice.<br /><br />
+Et les voisines lui donnèrent un nom, disant qu’un fils était né à Naomi. Elles l’appelèrent Obed. Il fut le père de Jessé, le père de David.<br />
 
 ##########
-Psalms <font dir="ltr">128(127),1-2.3.4.5.</font>@@@@@Blessed are you who fear the LORD, <br /><br />
-who walk in his ways!<br /><br />
-For you shall eat the fruit of your handiwork; <br /><br />
-blessed shall you be, and favored.<br /><br />
+Psaume <font dir="ltr">128(127),1-2.3.4.5.</font>@@@@@Heureux es-tu si tu crains le SEIGNEUR, <br /><br />
+si tu marches dans ses voies !<br /><br />
+Tu jouiras du travail de tes mains ; <br /><br />
+heureux seras-tu, et comblé de faveurs.<br /><br />
 <br /><br />
-Your wife shall be like a fruitful vine <br /><br />
-in the recesses of your home; <br /><br />
-Your children like olive plants <br /><br />
-around your table.<br /><br />
+Ta femme sera comme une vigne féconde <br /><br />
+au cœur de ta maison ; <br /><br />
+Tes fils comme des plants d’olivier <br /><br />
+autour de ta table.<br /><br />
 <br /><br />
-Behold, thus is the man blessed <br /><br />
-who fears the LORD.<br /><br />
+Voilà comment est béni <br /><br />
+l’homme qui craint le SEIGNEUR.<br /><br />
 <br /><br />
-The LORD bless you from Zion: <br /><br />
-may you see the prosperity of Jerusalem <br /><br />
-all the days of your life.<br />
-
-
+Que le SEIGNEUR te bénisse de Sion : <br /><br />
+puisses-tu voir la prospérité de Jérusalem <br /><br />
+tous les jours de ta vie.<br />
 
 ##########
-Holy Gospel of Jesus Christ according to Saint Matthew <font dir="ltr">23,1-12.</font>@@@@@Jesus spoke to the crowds and to his disciples,<br /><br />
-saying, &quot;The scribes and the Pharisees have taken their seat on the chair of Moses.<br /><br />
-Therefore, do and observe all things whatsoever they tell you, but do not follow their example. For they preach but they do not practice.<br /><br />
-They tie up heavy burdens (hard to carry) and lay them on people&#039;s shoulders, but they will not lift a finger to move them.<br /><br />
-All their works are performed to be seen. They widen their phylacteries and lengthen their tassels.<br /><br />
-They love places of honor at banquets, seats of honor in synagogues,<br /><br />
-greetings in marketplaces, and the salutation &#039;Rabbi.&#039;<br /><br />
-As for you, do not be called &#039;Rabbi.&#039; You have but one teacher, and you are all brothers.<br /><br />
-Call no one on earth your father; you have but one Father in heaven.<br /><br />
-Do not be called &#039;Master&#039;; you have but one master, the Messiah.<br /><br />
-The greatest among you must be your servant.<br /><br />
-Whoever exalts himself will be humbled; but whoever humbles himself will be exalted.&quot;<br />
-
-
+Saint Évangile de Jésus Christ selon saint Matthieu <font dir="ltr">23,1-12.</font>@@@@@Jésus s’adressa aux foules et à ses disciples,<br /><br />
+en disant : &quot;Les scribes et les pharisiens se sont assis dans la chaire de Moïse.<br /><br />
+Faites donc et observez tout ce qu’ils vous disent, mais n’imitez pas leurs actes. Car ils disent et ne font pas.<br /><br />
+Ils lient de lourds fardeaux, difficiles à porter, et les mettent sur les épaules des gens, mais eux-mêmes ne veulent pas les remuer du doigt.<br /><br />
+Toutes leurs actions, ils les font pour être vus des hommes. Ils élargissent leurs phylactères et allongent leurs franges.<br /><br />
+Ils aiment les places d’honneur dans les festins, les premiers sièges dans les synagogues,<br /><br />
+les salutations sur les places publiques et le titre de ‘Rabbi’.<br /><br />
+Pour vous, ne vous faites pas appeler ‘Rabbi’, car vous n’avez qu’un seul maître, et vous êtes tous frères.<br /><br />
+N’appelez personne sur la terre votre père, car vous n’avez qu’un seul Père, celui qui est aux cieux.<br /><br />
+Ne vous faites pas appeler ‘Maître’, car vous n’avez qu’un seul maître, le Christ.<br /><br />
+Le plus grand parmi vous sera votre serviteur.<br /><br />
+Quiconque s’élève sera abaissé ; mais celui qui s’abaisse sera élevé.&quot;<br />
 
 ##########
-St. Rose of Lima, Religious (1586-1617)
+Ste Rose de Lima, religieuse (1586-1617)
 ##########
 @@@@@<br />
 
-
 ##########
-Saturday of the Twentieth week in Ordinary Time
+Samedi de la 20e semaine du temps ordinaire
 ##########
 A @@@  @@@  @@@  @@@   

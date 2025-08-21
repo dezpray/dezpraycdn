@@ -1,8 +1,3 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
             Sv. Pio X., papa († 1914.)<br />
                 Bl. Ladislav Findysz, svećenik i mučenik († 1964.)<br />
                 Bl. Rajmund Peiro Victori, svećenik OP i mučenik († 1936.)<br />

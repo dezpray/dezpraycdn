@@ -1,14 +1,9 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Hl. Pius X.<br />
-                Hl. Maria (Zaida)<br />
-                Sel. Victoria Rasoamanarivo<br />
-                Hl. Gratia (Zoraida)<br />
-                Hl. Balduin<br />
-                Hl. Bernhard (Achmed)<br />
+Hl. Pius X.<br />
+Hl. Maria (Zaida)<br />
+Sel. Victoria Rasoamanarivo<br />
+Hl. Gratia (Zoraida)<br />
+Hl. Balduin<br />
+Hl. Bernhard (Achmed)<br />
     
 ##########
 @@@@@

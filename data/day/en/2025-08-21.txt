@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            St. Pius X, Pope (1835-1914)<br />
+St. Pius X, Pope (1835-1914)<br />
     
 ##########
 @@@@@
@@ -25,20 +20,20 @@ At the end of the two months she returned to her father, who did to her as he ha
 
 
 ##########
-Psalms <font dir="ltr">40(39),5.7-8a.8b-9.10.</font>@@@@@Blessed the man who makes the LORD his trust; <br /><br />
-who turns not to idolatry <br /><br />
+Psalms <font dir="ltr">40(39),5.7-8a.8b-9.10.</font>@@@@@Blessed the man who makes the LORD his trust; <br /><br />
+who turns not to idolatry <br /><br />
 or to those who stray after falsehood.<br /><br />
 <br /><br />
-Sacrifice or oblation you wished not, <br /><br />
-but ears open to obedience you gave me. <br /><br />
+Sacrifice or oblation you wished not, <br /><br />
+but ears open to obedience you gave me. <br /><br />
 Burnt offerings or sin-offerings you sought not;<br /><br />
 then said I, “Behold I come.”<br /><br />
 <br /><br />
 “In the written scroll it is prescribed for me,<br /><br />
-To do your will, O my God, is my delight, <br /><br />
+To do your will, O my God, is my delight, <br /><br />
 and your law is within my heart!”<br /><br />
 <br /><br />
-I announced your justice in the vast assembly; <br /><br />
+I announced your justice in the vast assembly; <br /><br />
 I did not restrain my lips, as you, O LORD, know.<br />
 
 

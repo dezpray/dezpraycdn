@@ -1,19 +1,14 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Hl. Monika<br />
-                Sel. Dominikus von der Gottesmutter Barbieri<br />
-                Hl. Cäsarius von Arles<br />
-                Hl. Gebhard von Konstanz<br />
+Hl. Monika<br />
+Sel. Dominikus von der Gottesmutter Barbieri<br />
+Hl. Cäsarius von Arles<br />
+Hl. Gebhard von Konstanz<br />
     
 ##########
 <font style="align-text:left" dir="ltr">Herr, nimm mir das Herz von Stein</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-   Lieben wir Christus, wie er uns geliebt hat. Er hat uns ein Beispiel gegeben, damit wir seinen Spuren folgen (vgl. 1 Petr 2,21). Deshalb sagt er: „Leg mich wie ein Siegel auf dein Herz“ (Hld 8,6), was so viel bedeutet wie: „Liebe mich, so wie ich dich liebe. Trage mich in deinem Geist, in deinem Gedächtnis, in deiner Sehnsucht, in deinem Seufzen, Stöhnen und Weinen. Denk daran, Mensch, wie ich dich ausgestattet habe, als ich dich schuf, wie sehr ich dich über die anderen Geschöpfe erhoben habe, welche Würde ich dir verlieh, wie ich dich mit Herrlichkeit und Ehre gekrönt, dich nur ein wenig unter die Engel gestellt und dir alles zu Füßen gelegt habe (vgl. Ps 8 Vulg.). Erinnere dich nicht nur an alles, was ich für dich getan habe, sondern auch an alle Prüfungen und Demütigungen, die ich um deinetwillen erlitten habe. [...] Und du – wenn du mich liebst, dann zeige es; liebe nicht mit Wort und Zunge, sondern in Tat und Wahrheit (vgl. 1 Joh 3,18). [...] Leg mich wie ein Siegel auf dein Herz und liebe mich mit all deiner Kraft.“ [...]<br /><br />
- <br /><br />
-Herr, nimm das Herz von Stein aus meiner Brust, dieses harte […] Herz. Gib mir ein neues Herz, ein Herz von Fleisch, ein reines Herz (vgl. Ez 36,26). Du, der du die Herzen reinigst und die reinen Herzen liebst, nimm mein Herz in Besitz, komm und wohne darin.<br /><br />
- <br /><br />
+   Lieben wir Christus, wie er uns geliebt hat. Er hat uns ein Beispiel gegeben, damit wir seinen Spuren folgen (vgl. 1 Petr 2,21). Deshalb sagt er: „Leg mich wie ein Siegel auf dein Herz“ (Hld 8,6), was so viel bedeutet wie: „Liebe mich, so wie ich dich liebe. Trage mich in deinem Geist, in deinem Gedächtnis, in deiner Sehnsucht, in deinem Seufzen, Stöhnen und Weinen. Denk daran, Mensch, wie ich dich ausgestattet habe, als ich dich schuf, wie sehr ich dich über die anderen Geschöpfe erhoben habe, welche Würde ich dir verlieh, wie ich dich mit Herrlichkeit und Ehre gekrönt, dich nur ein wenig unter die Engel gestellt und dir alles zu Füßen gelegt habe (vgl. Ps 8 Vulg.). Erinnere dich nicht nur an alles, was ich für dich getan habe, sondern auch an alle Prüfungen und Demütigungen, die ich um deinetwillen erlitten habe. [...] Und du – wenn du mich liebst, dann zeige es; liebe nicht mit Wort und Zunge, sondern in Tat und Wahrheit (vgl. 1 Joh 3,18). [...] Leg mich wie ein Siegel auf dein Herz und liebe mich mit all deiner Kraft.“ [...]<br /><br />
+ <br /><br />
+Herr, nimm das Herz von Stein aus meiner Brust, dieses harte […] Herz. Gib mir ein neues Herz, ein Herz von Fleisch, ein reines Herz (vgl. Ez 36,26). Du, der du die Herzen reinigst und die reinen Herzen liebst, nimm mein Herz in Besitz, komm und wohne darin.<br /><br />
+ <br /><br />
 <br />
 </font><br />
 
@@ -27,7 +22,7 @@ ermahnt, ermutigt und beschworen haben zu leben, wie es Gottes würdig ist, der 
 Darum danken wir Gott unablässig dafür, dass ihr das Wort Gottes, das ihr durch unsere Verkündigung empfangen habt, nicht als Menschenwort, sondern – was es in Wahrheit ist – als Gottes Wort angenommen habt; und jetzt ist es in euch, den Glaubenden, wirksam.<br />
 
 ##########
-Psalmen <font dir="ltr">139(138),7-8.9-10.11-12.</font>@@@@@Wohin könnte ich fliehen vor deinem Geist,  <br /><br />
+Psalmen <font dir="ltr">139(138),7-8.9-10.11-12.</font>@@@@@Wohin könnte ich fliehen vor deinem Geist,  <br /><br />
 wohin mich vor deinem Angesicht flüchten?<br /><br />
 Wenn ich hinaufstiege zum Himmel – dort bist du; wenn ich mich lagerte in der Unterwelt – siehe, da bist du.<br /><br />
 Nähme ich die Flügel des Morgenrots, ließe ich mich nieder am Ende des Meeres,<br /><br />

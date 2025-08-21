@@ -1,16 +1,11 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Hl. Rosa von Lima<br />
-                Hl. Victor von Vita<br />
-                Hl. Richildis<br />
-                Hl. Tudful<br />
+Hl. Rosa von Lima<br />
+Hl. Victor von Vita<br />
+Hl. Richildis<br />
+Hl. Tudful<br />
     
 ##########
 <font style="align-text:left" dir="ltr">"Wer sich selbst erniedrigt, wird erhöht werden"</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-<br /><br />
+<br /><br />
 Wer seine eigenen Sünden erkennt, […] ist größer als der, der durch sein Gebet die Toten auferweckt. Wer eine Stunde über seine Seele seufzt, ist größer als der, der durch seine Betrachtung die gesamte Welt erfasst. Wem gegeben wurde, die Wahrheit über sich selbst zu erkennen, ist größer als der, dem es gegeben wurde, die Engel zu sehen.<br />
 </font><br />
 

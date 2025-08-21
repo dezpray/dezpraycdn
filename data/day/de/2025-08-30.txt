@@ -1,16 +1,11 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Hl. Amadeus<br />
-                Hl. Guarin (Warin)<br />
-                Hl. Ingoberg<br />
-                Hl. Amaltrud (Alma)<br />
-                Hl. Adauctus<br />
-                Rebekka<br />
-                Sel. Ildefons Schuster<br />
-                Hl. Felix von Rom<br />
+Hl. Amadeus<br />
+Hl. Guarin (Warin)<br />
+Hl. Ingoberg<br />
+Hl. Amaltrud (Alma)<br />
+Hl. Adauctus<br />
+Rebekka<br />
+Sel. Ildefons Schuster<br />
+Hl. Felix von Rom<br />
     
 ##########
 @@@@@
