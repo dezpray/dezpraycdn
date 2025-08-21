@@ -1,8 +1,3 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
             Sv. Pij X., papež († 1914)<br />
                 Bl. Ladislav Findysz, duhovnik in mučenec († 1964)<br />
                 Bl. Rajmond Peiro Victori, duhovnik O.P. in mučenec († 1936)<br />

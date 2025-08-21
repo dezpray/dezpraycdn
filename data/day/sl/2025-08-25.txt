@@ -1,8 +1,3 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
             Sveti Ludvik IX., francoski kralj († 1270)<br />
                 Sveti Jožef Kalasanc, duhovnik in ustanovitelj († 1648)<br />
                 Blažena Marija Troncatti, redovnica FMA († 1969)<br />
