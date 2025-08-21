@@ -1,72 +1,70 @@
-<br />
-<br />
-<br />
-<br />
-ThÃ¡nh Jeanne-Ãlisabeth Bichier des Ãges, trinh ná»¯ (â  1838)<br />
-ThÃ¡nh TÃªrÃªsa HÃ i Äá»ng GiÃªsu Jornet, trinh ná»¯ vÃ  Äá»ng sÃ¡ng láº­p (â  1897)<br />
-ChÃ¢n PhÆ°á»c Marie Corsini, ngÆ°á»i máº¹ gia ÄÃ¬nh (â  1965)<br />
-ChÃ¢n PhÆ°á»c Ceferino NamuncurÃ¡, tu sÄ© DÃ²ng SalÃªdiÃªng (â  1905)<br />
-ThÃ¡nh Marie de JÃ©sus CrucifiÃ©, trinh ná»¯ CÃ¡t Minh (â  1878)<br />
-ThÃ¡nh MelchisÃ©dek, vua vÃ  tÆ° táº¿ cá»§a ThiÃªn ChÃºa Tá»i Cao<br />
-ThÃ¡nh Maximilien, tá»­ Äáº¡o (â  khoáº£ng 295)<br />
-ThÃ¡nh Anastase thá»£ dá»t, tá»­ Äáº¡o (â  khoáº£ng 304)<br />
-ThÃ¡nh Victor, tá»­ Äáº¡o vÃ¬ Äá»©c tin (â  tháº¿ ká»· khÃ´ng rÃµ)<br />
-ThÃ¡nh Alexandre de Bergame, tá»­ Äáº¡o (â  tháº¿ ká»· IV)<br />
-ThÃ¡nh ÃleuthÃ¨re, giÃ¡m má»¥c (â  tháº¿ ká»· VI)<br />
-ThÃ¡nh CÃ©saire, giÃ¡m má»¥c (470-543)<br />
-ChÃ¢n PhÆ°á»c Jacques Retouret, linh má»¥c vÃ  tá»­ Äáº¡o (â  1794)<br />
-ChÃ¢n PhÆ°á»c Ambroise (Matamales), linh má»¥c DÃ²ng Phan Sinh vÃ  tá»­ Äáº¡o (â  1936)<br />
-ChÃ¢n PhÆ°á»c Pierre (Ginestar), linh má»¥c DÃ²ng Phan Sinh vÃ  tá»­ Äáº¡o (â  1936)<br />
-ChÃ¢n PhÆ°á»c FÃ©lix Vivet Trabal, tu sÄ© DÃ²ng SalÃªdiÃªng vÃ  tá»­ Äáº¡o (â  1936)<br />
-ChÃ¢n PhÆ°á»c Laurence (Harasymiv), trinh ná»¯ vÃ  tá»­ Äáº¡o (â  1952)<br />
-ThÃ¡nh Mercurial, tá»­ Äáº¡o (â  1010)<br />
+            Thánh Jeanne-Élisabeth Bichier des Âges, trinh nữ († 1838)<br />
+                Thánh Tê-rê-xa Chúa Giê-su Jornet, trinh nữ và đồng sáng lập († 1897)<br />
+                Chân phước Maria Corsini, người mẹ gia đình († 1965)<br />
+                Chân phước Ceferino Namuncurá, tu sĩ s.d.b. († 1905)<br />
+                Thánh Maria Chúa Giê-su Chịu Đóng Đinh, trinh nữ dòng Camêlô († 1878)<br />
+                Thánh Mên-ki-xê-đê, vua và tư tế của Thiên Chúa Tối Cao<br />
+                Thánh Maximilian, tử đạo († khoảng 295)<br />
+                Thánh Anastase người thợ dệt, tử đạo († khoảng 304)<br />
+                Thánh Victor, tử đạo vì đức tin († thế kỷ không rõ)<br />
+                Thánh Alexandre thành Bergame, tử đạo († thế kỷ IV)<br />
+                Thánh Éleuthère, giám mục († thế kỷ VI)<br />
+                Thánh Césaire, giám mục (470-543)<br />
+                Chân phước Jacques Retouret, linh mục và tử đạo († 1794)<br />
+                Chân phước Ambroise (Matamales), linh mục o.f.m. và tử đạo († 1936)<br />
+                Chân phước Pierre (Ginestar), linh mục o.f.m. và tử đạo († 1936)<br />
+                Chân phước Félix Vivet Trabal, tu sĩ s.d.b. và tử đạo († 1936)<br />
+                Chân phước Laurence (Harasymiv), trinh nữ và tử đạo († 1952)<br />
+                Thánh Mercurial, tử đạo († 1010)<br />
     
 ##########
-<font style="align-text:left" dir="ltr">Â«Â CÃ¡c ngÆ°Æ¡i ÄÃ£ bá» qua Äiá»u quan trá»ng nháº¥t trong Lá» Luáº­t: ÄÃ³ lÃ  Äá»©c cÃ´ng chÃ­nh, lÃ²ng thÆ°Æ¡ng xÃ³t vÃ  lÃ²ng trung tÃ­nÂ Â»</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-Náº¿u báº¡n muá»n bÆ°á»c Äi ÄÃºng Äáº¯n, kÃ­n ÄÃ¡o vÃ  cÃ³ hiá»u quáº£ trÃªn con ÄÆ°á»ng cá»§a tÃ´n giÃ¡o chÃ¢n tháº­t, báº¡n pháº£i nghiÃªm kháº¯c vÃ  cá»©ng ráº¯n vá»i chÃ­nh mÃ¬nh, nhÆ°ng luÃ´n tá» ra vui váº» vÃ  cá»i má» vá»i ngÆ°á»i khÃ¡c, cá» gáº¯ng trong lÃ²ng Äá» bÆ°á»c Äi trÃªn Äá»nh cao cá»§a sá»± ngay tháº³ng, Äá»ng thá»i biáº¿t háº¡ mÃ¬nh cÃ¡ch tá»t bá»¥ng vá»i nhá»¯ng ngÆ°á»i yáº¿u Äuá»i. TÃ³m láº¡i, trÆ°á»c sá»± phÃ¡n xÃ©t cá»§a lÆ°Æ¡ng tÃ¢m, báº¡n pháº£i Äiá»u hÃ²a sá»± nghiÃªm kháº¯c cá»§a cÃ´ng lÃ½, sao cho báº¡n khÃ´ng cá»©ng ráº¯n vá»i nhá»¯ng ngÆ°á»i tá»i lá»i, nhÆ°ng dá» tha thá»© vÃ  khoan dung. (...)<br /><br />
+<font style="align-text:left" dir="ltr">« Các ngươi đã bỏ qua điều quan trọng nhất trong Lề Luật: công lý, lòng thương xót và sự trung tín »</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+            Nếu con muốn bước đi cho đúng, với sự khôn ngoan và sinh hoa trái trên con đường tôn giáo đích thực, con phải nghiêm khắc và cứng rắn với chính mình, nhưng luôn tỏ ra vui tươi và rộng mở với người khác, nỗ lực trong tâm hồn bước đi trên đỉnh cao của sự ngay thẳng, đồng thời biết hạ mình nhân hậu với những kẻ yếu đuối. Tóm lại, trước phán xét của lương tâm, con phải điều hòa sự nghiêm khắc của công lý, sao cho không trở nên khắc nghiệt với tội nhân, nhưng dễ dàng tha thứ và bao dung. (...)<br /><br />
 <br /><br />
-HÃ£y coi tá»i lá»i cá»§a báº¡n lÃ  nguy hiá»m vÃ  gÃ¢y cháº¿t ngÆ°á»i; tá»i lá»i cá»§a ngÆ°á»i khÃ¡c, hÃ£y gá»i ÄÃ³ lÃ  sá»± yáº¿u Äuá»i cá»§a pháº­n ngÆ°á»i. Lá»i láº§m mÃ  báº¡n cho lÃ  ÄÃ¡ng bá» sá»­a trá» nghiÃªm kháº¯c nÆ¡i mÃ¬nh, hÃ£y nghÄ© ráº±ng, nÆ¡i ngÆ°á»i khÃ¡c, nÃ³ chá» ÄÃ¡ng má»t cÃ¡i cháº¡m nháº¹ cá»§a cÃ¢y gáº­y. Äá»«ng cÃ´ng chÃ­nh hÆ¡n ngÆ°á»i cÃ´ng chÃ­nh: hÃ£y sá»£ pháº¡m tá»i, nhÆ°ng Äá»«ng ngáº§n ngáº¡i tha thá»© cho ngÆ°á»i tá»i lá»i. CÃ´ng lÃ½ ÄÃ­ch thá»±c khÃ´ng pháº£i lÃ  thá»© Äáº©y linh há»n anh em vÃ o cáº¡m báº«y cá»§a sá»± tuyá»t vá»ng (...). Ngá»n lá»­a thiÃªu chÃ¡y bá»¥i ráº­m mÃ  Äe dá»a thiÃªu rá»¥i cáº£ ngÃ´i nhÃ  báº±ng sá»± mÃ£nh liá»t cá»§a ngá»n lá»­a cá»§a nÃ³ thÃ¬ tháº­t nguy hiá»m. KhÃ´ng, ngÆ°á»i thÃ­ch moi mÃ³c lá»i láº§m cá»§a ngÆ°á»i khÃ¡c sáº½ khÃ´ng trÃ¡nh ÄÆ°á»£c tá»i lá»i, vÃ¬ ngay cáº£ khi anh ta bá» thÃºc Äáº©y bá»i lÃ²ng nhiá»t thÃ nh cÃ´ng chÃ­nh, sá»m hay muá»n, anh ta cÅ©ng sáº½ sa vÃ o sá»± giÃ¨m pha.<br /><br />
+            Hãy coi tội lỗi của con là nguy hiểm và đưa đến cái chết&nbsp;; còn tội của người khác, hãy gọi đó là sự yếu đuối của thân phận con người. Lỗi lầm mà con cho là xứng đáng với sự sửa phạt nghiêm khắc nơi chính mình, thì nơi người khác, con hãy nghĩ rằng nó chỉ đáng một cú gõ nhẹ. Đừng công chính hơn cả Đấng Công Chính&nbsp;: hãy sợ phạm tội, nhưng đừng ngần ngại tha thứ cho kẻ tội lỗi. Công lý thật sự không phải là thứ ném linh hồn anh em vào cạm bẫy của sự tuyệt vọng (...). Ngọn lửa thiêu đốt bụi gai mà còn đe dọa thiêu rụi cả ngôi nhà bằng sức nóng của nó thì thật nguy hiểm. Không, ai thích bới móc lỗi lầm của kẻ khác thì không tránh khỏi tội lỗi, vì dẫu có thúc đẩy bởi lòng nhiệt thành vì công lý, sớm muộn cũng sa vào thói phỉ báng.<br /><br />
 <br /><br />
-RÃµ rÃ ng, náº¿u cuá»c sá»ng cá»§a chÃºng ta khÃ´ng cÃ³ váº» ráº¡ng rá»¡ nhÆ° váº­y, thÃ¬ cuá»c sá»ng cá»§a ngÆ°á»i khÃ¡c sáº½ khÃ´ng cÃ³ váº» xáº¥u xÃ­ Äáº¿n tháº¿. VÃ  náº¿u, nhÆ° láº½ ra pháº£i tháº¿, chÃºng ta lÃ  nhá»¯ng tháº©m phÃ¡n nghiÃªm kháº¯c Äá»i vá»i chÃ­nh mÃ¬nh, thÃ¬ lá»i láº§m cá»§a ngÆ°á»i khÃ¡c sáº½ khÃ´ng tÃ¬m tháº¥y á» chÃºng ta nhá»¯ng ngÆ°á»i chá» trÃ­ch nghiÃªm kháº¯c Äáº¿n váº­y.<br />
+            Thật vậy, nếu đời sống chúng ta không có vẻ sáng chói đến thế, thì đời sống của người khác sẽ không có vẻ xấu xa đến vậy. Và nếu, như lẽ ra phải thế, chúng ta tự làm những quan tòa nghiêm khắc cho chính mình, thì lỗi lầm của người khác sẽ không gặp nơi chúng ta những kẻ phê phán quá khắt khe.<br />
 </font><br />
 
 ##########
-ThÆ° thá»© nháº¥t cá»§a ThÃ¡nh PhaolÃ´ TÃ´ng Äá» gá»­i tÃ­n há»¯u ThÃªxalÃ´nica <font dir="ltr">2,1-8.</font>@@@@@ThÆ°a anh em, chÃ­nh anh em cÅ©ng biáº¿t rÃµ ráº±ng viá»c chÃºng tÃ´i Äáº¿n vá»i anh em khÃ´ng pháº£i lÃ  vÃ´ Ã­ch.<br /><br />
-TrÆ°á»c ÄÃ³, chÃºng tÃ´i ÄÃ£ pháº£i chá»u Äau khá» vÃ  bá» lÄng máº¡ á» PhilipphÃª, nhÆ° anh em biáº¿t; tuy nhiÃªn, chÃºng tÃ´i ÄÃ£ tÃ¬m tháº¥y sá»± tin tÆ°á»ng hoÃ n toÃ n nÆ¡i ThiÃªn ChÃºa cá»§a chÃºng tÃ´i Äá» rao giáº£ng Tin Má»«ng cá»§a ThiÃªn ChÃºa cho anh em, vá»i nhiá»u gian khá».<br /><br />
-VÃ  khi chÃºng tÃ´i khuyÃªn nhá»§ anh em, ÄÃ³ khÃ´ng pháº£i báº±ng nhá»¯ng giÃ¡o lÃ½ sai láº§m, cÅ©ng khÃ´ng pháº£i báº±ng nhá»¯ng Äá»ng cÆ¡ khÃ´ng trong sáº¡ch, hay báº±ng mÆ°u mÃ´ xáº£o trÃ¡.<br /><br />
-Tháº­t váº­y, ThiÃªn ChÃºa ÄÃ£ thá»­ nghiá»m giÃ¡ trá» cá»§a chÃºng tÃ´i Äá» giao phÃ³ Tin Má»«ng cho chÃºng tÃ´i, vÃ¬ tháº¿ chÃºng tÃ´i nÃ³i khÃ´ng pháº£i Äá» lÃ m vui lÃ²ng ngÆ°á»i ta, nhÆ°ng Äá» lÃ m vui lÃ²ng ThiÃªn ChÃºa, Äáº¥ng thá»­ thÃ¡ch lÃ²ng chÃºng tÃ´i.<br /><br />
-ChÃºng tÃ´i chÆ°a bao giá» nÃ³i lá»i ná»nh hÃ³t, anh em biáº¿t Äiá»u ÄÃ³, cÅ©ng chÆ°a bao giá» cÃ³ Äá»ng cÆ¡ vá»¥ lá»£i, ThiÃªn ChÃºa lÃ m chá»©ng Äiá»u ÄÃ³;<br /><br />
-ChÃºng tÃ´i chÆ°a bao giá» tÃ¬m kiáº¿m vinh quang tá»« con ngÆ°á»i, cáº£ nÆ¡i anh em láº«n nÆ¡i ngÆ°á»i khÃ¡c.<br /><br />
-Máº·c dÃ¹ chÃºng tÃ´i cÃ³ thá» tá»± Ã¡p Äáº·t quyá»n bÃ­nh vá»i tÆ° cÃ¡ch lÃ  tÃ´ng Äá» cá»§a ChÃºa KitÃ´, nhÆ°ng ngÆ°á»£c láº¡i, chÃºng tÃ´i ÄÃ£ á» giá»¯a anh em vá»i lÃ²ng dá»u dÃ ng, nhÆ° má»t ngÆ°á»i máº¹ sÄn sÃ³c con thÆ¡ cá»§a mÃ¬nh.<br /><br />
-Vá»i tÃ¬nh yÃªu thÆ°Æ¡ng dÃ nh cho anh em nhÆ° váº­y, chÃºng tÃ´i muá»n trao ban cho anh em khÃ´ng chá» Tin Má»«ng cá»§a ThiÃªn ChÃºa, mÃ  cáº£ máº¡ng sá»ng cá»§a chÃºng tÃ´i ná»¯a, vÃ¬ anh em ÄÃ£ trá» nÃªn ráº¥t thÃ¢n thiáº¿t vá»i chÃºng tÃ´i.<br />
 
 ##########
-ThÃ¡nh vá»nh <font dir="ltr">139(138),1-3.4-6.</font>@@@@@Láº¡y ChÃºa, NgÃ i dÃ² xÃ©t con vÃ  NgÃ i biáº¿t!<br /><br />
-NgÃ i biáº¿t khi con ngá»i xuá»ng, khi con Äá»©ng lÃªn;<br /><br />
-tá»« xa, NgÃ i tháº¥u suá»t tÆ° tÆ°á»ng cá»§a con.<br /><br />
-DÃ¹ con Äi hay nghá» ngÆ¡i, NgÃ i Äá»u tháº¥y,<br /><br />
+Thư thứ nhất của Thánh Phao-lô Tông đồ gửi tín hữu Thê-xa-lô-ni-ca <font dir="ltr">2,1-8.</font>@@@@@Anh em thân mến, chính anh em biết rõ rằng, việc chúng tôi đến với anh em không phải là vô ích.<br /><br />
+Chúng tôi vừa chịu đau khổ và bị sỉ nhục tại Phi-líp-phê, như anh em đã biết; nhưng chúng tôi đã nhờ Thiên Chúa mà đầy lòng can đảm để loan báo cho anh em Tin Mừng của Thiên Chúa, dù phải chịu nhiều gian khổ.<br /><br />
+Và khi chúng tôi khuyên nhủ, thì không phải với những giáo lý sai lầm, hay vì ý đồ xấu xa, cũng không phải do mưu mẹo.<br /><br />
+Quả thật, Thiên Chúa đã thử thách chúng tôi để trao phó Tin Mừng cho chúng tôi; vì thế chúng tôi nói, không phải để làm vừa lòng người ta, nhưng để làm đẹp lòng Thiên Chúa, Đấng thử thách lòng chúng tôi.<br /><br />
+Chưa bao giờ chúng tôi dùng lời tâng bốc, như anh em biết; cũng chẳng vì lòng tham lam, Thiên Chúa làm chứng điều đó;<br /><br />
+chưa bao giờ chúng tôi tìm vinh quang nơi loài người, dù nơi anh em hay nơi kẻ khác.<br /><br />
+Dù chúng tôi có thể trở nên gánh nặng, vì là Tông đồ của Đức Ki-tô, nhưng trái lại, chúng tôi đã tỏ ra dịu dàng giữa anh em, như người mẹ chăm sóc con thơ mình.<br /><br />
+Vì yêu thương anh em tha thiết, chúng tôi đã ước muốn trao cho anh em không chỉ Tin Mừng của Thiên Chúa, mà cả mạng sống chúng tôi nữa, bởi anh em đã trở nên rất thân thương với chúng tôi.<br />
+
+##########
+Thánh vịnh <font dir="ltr">139(138),1-3.4-6.</font>@@@@@Lạy Chúa, Ngài dò xét con, và Ngài biết rõ !<br /><br />
+Ngài biết khi con ngồi, khi con đứng dậy ; <br /><br />
+từ xa, Ngài thấu suốt ý nghĩ con.<br /><br />
+Dù con đi hay nghỉ, Ngài vẫn thấy, <br /><br />
 <br /><br />
-má»i ÄÆ°á»ng lá»i cá»§a con Äá»u quen thuá»c vá»i NgÃ i.<br /><br />
-TrÆ°á»c khi má»t lá»i chÆ°a ká»p thá»t ra khá»i mÃ´i con,<br /><br />
-láº¡y ChÃºa, NgÃ i ÄÃ£ biáº¿t rá»i.<br /><br />
-NgÃ i Äi trÆ°á»c con vÃ  theo sau con, NgÃ i bao vÃ¢y con,<br /><br />
+mọi nẻo đường con, Ngài đều quen thuộc.<br /><br />
+Khi lời chưa thoát khỏi miệng con, <br /><br />
+thì lạy Chúa, Ngài đã biết tất cả.<br /><br />
+Ngài đi trước, Ngài theo sau, Ngài vây bọc con, <br /><br />
 <br /><br />
-NgÃ i Äáº·t tay lÃªn con.<br /><br />
-Sá»± hiá»u biáº¿t láº¡ lÃ¹ng vÆ°á»£t quÃ¡ con,<br /><br />
-chiá»u cao mÃ  con khÃ´ng thá» Äáº¡t tá»i!<br />
+Ngài đặt tay trên con.<br /><br />
+Tri thức tuyệt vời vượt quá con, <br /><br />
+cao vời mà con chẳng đạt tới !<br />
 
 ##########
-Tin Má»«ng ChÃºa GiÃªsu KitÃ´ theo ThÃ¡nh MatthÃªu <font dir="ltr">23,23-26.</font>@@@@@Khi áº¥y, Äá»©c GiÃª-su phÃ¡n ráº±ng: Khá»n cho cÃ¡c ngÆ°Æ¡i, há»¡i cÃ¡c kinh sÆ° vÃ  PharisÃªu giáº£ hÃ¬nh, vÃ¬ cÃ¡c ngÆ°Æ¡i ná»p thuáº¿ tháº­p phÃ¢n vá» báº¡c hÃ , thÃ¬ lÃ  vÃ  rau cáº§n, nhÆ°ng láº¡i bá» qua Äiá»u quan trá»ng nháº¥t trong Lá» Luáº­t: ÄÃ³ lÃ  Äá»©c cÃ´ng chÃ­nh, lÃ²ng thÆ°Æ¡ng xÃ³t vÃ  lÃ²ng trung tÃ­n. ÄÃ¢y lÃ  nhá»¯ng Äiá»u cáº§n pháº£i thá»±c hÃ nh, mÃ  khÃ´ng bá» qua nhá»¯ng Äiá»u kia.<br /><br />
-Há»¡i nhá»¯ng ngÆ°á»i dáº«n ÄÆ°á»ng mÃ¹ quÃ¡ng! CÃ¡c ngÆ°Æ¡i lá»c con muá»i nhÆ°ng láº¡i nuá»t con láº¡c ÄÃ !<br /><br />
-Khá»n cho cÃ¡c ngÆ°Æ¡i, há»¡i cÃ¡c kinh sÆ° vÃ  PharisÃªu giáº£ hÃ¬nh, vÃ¬ cÃ¡c ngÆ°Æ¡i rá»­a sáº¡ch bÃªn ngoÃ i chÃ©n vÃ  ÄÄ©a, nhÆ°ng bÃªn trong láº¡i Äáº§y tham lam vÃ  phÃ³ng ÄÃ£ng!<br /><br />
-Há»¡i ngÆ°á»i PharisÃªu mÃ¹ quÃ¡ng, hÃ£y rá»­a sáº¡ch bÃªn trong chÃ©n trÆ°á»c, Äá» bÃªn ngoÃ i cÅ©ng ÄÆ°á»£c sáº¡ch.<br />
+Tin Mừng Chúa Giê-su Ki-tô theo Thánh Mát-thêu <font dir="ltr">23,23-26.</font>@@@@@Khi ấy, Đức Giê-su phán : Khốn cho các ngươi, hỡi các kinh sư và người Pha-ri-sêu giả hình, vì các ngươi nộp thuế thập phân về bạc hà, thì là và rau thơm, nhưng lại bỏ qua điều quan trọng nhất trong Lề Luật : công lý, lòng thương xót và sự trung tín. Đó là điều cần phải thực hành, mà cũng không được bỏ qua những điều khác.<br /><br />
+Hỡi những kẻ dẫn đường mù quáng ! Các ngươi lọc con muỗi, nhưng lại nuốt con lạc đà !<br /><br />
+Khốn cho các ngươi, hỡi các kinh sư và người Pha-ri-sêu giả hình, vì các ngươi rửa sạch bên ngoài chén đĩa, nhưng bên trong thì đầy tham lam và trác táng !<br /><br />
+Hỡi người Pha-ri-sêu mù quáng, hãy rửa sạch bên trong chén, để bên ngoài cũng được tinh sạch.<br />
 
 ##########
-ThÃ¡nh Jeanne-Ãlisabeth Bichier des Ãges, trinh ná»¯ (â  1838)
+Thánh Jeanne-Élisabeth Bichier des Âges, trinh nữ († 1838)
 ##########
 @@@@@<br />
 
 ##########
-Thá»© Ba tuáº§n 21 mÃ¹a ThÆ°á»ng NiÃªn
+Thứ ba, tuần XXI mùa thường niên
 ##########
-A @@@  @@@  @@@  @@@   
+A @@@  @@@  @@@  @@@
