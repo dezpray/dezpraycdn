@@ -1,62 +1,67 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Santo Bartolomeus, Rasul dan Martir († sekitar tahun 71)<br />
-                Santa Jeanne-Antide Thouret, perawan dan pendiri († 1826)<br />
-                Beato Miroslav Bulesic, imam Kroasia dan martir († 1947)<br />
-                Santo Tatien, martir († 304)<br />
-                Santo Ouen, uskup († 684)<br />
-                Santo Georgius Limniote, biarawan dan martir († sekitar tahun 730)<br />
-                Santa Rosa dari Lima, perawan († 1617)<br />
-                Beato André Fardeau, imam dan martir († 1794)<br />
-                Santa Émilie de Vialar, perawan dan pendiri († 1856)<br />
-                Santa Marie-Michelle dari Sakramen Mahakudus, perawan († 1866)<br />
-                Beata Marie de l’Incarnation, perawan dan pendiri († 1886)<br />
-                Beato Maximilian Binkiewiecz, imam dan martir († 1942)<br />
-                Beato Ceslas Jozwiak, siswa SDB dan martir († 1942)<br />
-                Beato-beato François Kesy dan Édouard Klinik, martir († 1942)<br />
-                Beato Jaroniev Wojciechowski, martir († 1942)<br />
-                Beato Édouard Kazmierski, siswa SDB dan martir († 1942)<br />
+            St Bartolomeus, rasul dan martir († sekitar tahun 71)<br />
+                Sta Jeanne-Antide Thouret, b.v. dan pendiri († 1826)<br />
+                Bhg Miroslav Bulesic, imam Kroasia dan martir († 1947)<br />
+                St Tatianus, martir († 304)<br />
+                St Ouen, uskup († 684)<br />
+                St Georgius Limniotes, rahib dan martir († sekitar 730)<br />
+                Sta Rosa dari Lima, perawan († 1617)<br />
+                Bhg André Fardeau, imam dan martir († 1794)<br />
+                Sta Emilie de Vialar, perawan dan pendiri († 1856)<br />
+                Sta Maria-Mikela dari Sakramen Mahakudus, perawan († 1866)<br />
+                Bhg Maria dari Inkarnasi, perawan dan pendiri († 1886)<br />
+                Bhg Maksymilian Binkiewicz, imam dan martir († 1942)<br />
+                Bhg Ceslas Jozwiak, siswa s.d.b. dan martir († 1942)<br />
+                Bhg-bhg Franciscus Kesy dan Eduard Klinik, martir († 1942)<br />
+                Bhg Jaroniev Wojciechowski, martir († 1942)<br />
+                Bhg Eduard Kazmierski, siswa s.d.b. dan martir († 1942)<br />
     
-<font style="align-text:left" dir="ltr">“Berjuanglah sekuat tenaga untuk masuk melalui pintu yang sempit itu” (Luk 13,24)</font><font style="align-text:left" dir="ltr"><br />
-            Kita tidak bisa memiliki sesuatu yang stabil di dunia ini tempat kita hanya datang untuk lewat, dan bagi kita, hidup adalah setiap hari meninggalkan kehidupan dan lewat. (…) <br /><br />
+##########
+<font style="align-text:left" dir="ltr">« Berusahalah sekuat tenaga untuk masuk melalui pintu yang sempit » (Luk 13,24)</font>@@@@@<font style="align-text:left" dir="ltr"><br />
+            Kita tidak dapat memiliki sesuatu yang tetap dalam dunia di mana kita hanya datang untuk lewat, dan bagi kita, hidup berarti setiap hari meninggalkan hidup dan berlalu. (…) <br /><br />
 <br /><br />
-            Perubahan ini tidak hanya dialami manusia dalam tubuhnya, tetapi juga dalam jiwanya, ketika ia berusaha mengangkat dirinya menuju yang lebih baik. Sebab di bawah beban perubahannya, jiwa terus-menerus terbawa menuju sesuatu yang bukan dirinya, dan jika tidak dipertahankan dalam keadaan awalnya oleh disiplin ketat kewaspadaan, ia akan terus-menerus tergelincir menuju yang terburuk. Sebab dengan meninggalkan Dia yang senantiasa berdiam, ia telah kehilangan stabilitas yang seharusnya bisa dipertahankannya. Maka sekarang usahanya menuju yang terbaik hanyalah pendakian melawan arus. Dan begitu ia mengendur dalam niatnya untuk naik, ia pun tanpa usaha ditarik kembali ke dasar.<br /><br />
+            Perubahan ini tidak hanya dialami manusia dalam tubuhnya, tetapi juga dalam jiwanya, ketika ia berusaha untuk naik menuju yang lebih baik. Sebab di bawah beban perubahannya, jiwa terus-menerus terbawa kepada sesuatu yang lain daripada dirinya, dan jika ia tidak ditahan dalam keadaan asalnya oleh disiplin ketat kewaspadaan, ia terus-menerus meluncur menuju yang lebih buruk. Sebab dengan meninggalkan Dia yang tetap selamanya, ia kehilangan kestabilan yang seharusnya bisa ia jaga. Maka sekarang, usahanya menuju yang lebih baik hanyalah pendakian melawan arus. Dan begitu ia mengendur dalam niat untuk naik, seketika itu juga ia terbawa tanpa usaha menuju kedalaman.<br /><br />
 <br /><br />
-            Ya, naik itu adalah usaha dan turun itu adalah relaksasi, dan melalui pintu yang sempit itulah kita akan masuk, Tuhan mengingatkan kita: “Berjuanglah sekuat tenaga,” kata-Nya, “untuk masuk melalui pintu yang sempit itu.” (Luk 13,24) Saat Ia akan berbicara tentang masuk melalui pintu yang sempit, Ia terlebih dahulu berkata: “Berjuanglah sekuat tenaga,” sebab, tanpa perjuangan jiwa yang sungguh-sungguh, tak terkalahkanlah gelombang dunia ini yang terus-menerus menarik jiwa kembali ke kerendahan.<br />
+            Ya, naik itu usaha dan turun itu kenyamanan, dan melalui pintu yang sempitlah kita akan masuk, Tuhan mengingatkan kita: « Berusahalah sekuat tenaga, katanya, untuk masuk melalui pintu yang sempit. » (Luk 13,24) Pada saat ia akan berbicara tentang masuk melalui pintu sempit, ia terlebih dahulu berkata: « Berusahalah sekuat tenaga », sebab tanpa perjuangan tekun dari roh, tak terkalahkanlah arus dunia ini yang terus-menerus menyeret jiwa ke dalam kehinaan.<br />
 </font><br />
 
-Kitab Yesaya <font dir="ltr">66:18-21.</font>Demikianlah firman Tuhan:<br /><br />
-Aku mengetahui perbuatan dan pikiran mereka; Aku datang untuk mengumpulkan segala bangsa dari segala bahasa. Mereka akan datang dan melihat kemuliaan-Ku:<br /><br />
-Aku akan menaruh tanda di antara mereka! Dan dari tengah-tengah mereka, Aku akan mengirimkan orang-orang yang selamat kepada bangsa-bangsa, ke Tarsis, Put dan Lud, Mesekh, Rosy, Tubal dan Yawan, ke pulau-pulau yang jauh yang belum pernah mendengar nama-Ku, yang belum pernah melihat kemuliaan-Ku; kemuliaan-Ku akan diberitakan oleh orang-orang yang selamat ini di antara bangsa-bangsa.<br /><br />
-Dan dari segala bangsa, mereka akan membawa semua saudara-saudaramu, sebagai persembahan kepada Tuhan, dengan kuda dan kereta, dengan tandu, di atas punggung bagal dan unta, sampai ke gunung kudus-Ku, di Yerusalem, – demikianlah firman Tuhan. Mereka akan diangkut seperti persembahan yang dibawa oleh anak-anak Israel, dalam bejana-bejana yang murni, ke Bait Tuhan.<br /><br />
-Aku bahkan akan mengambil imam-imam dan orang-orang Lewi dari antara mereka, – demikianlah firman Tuhan.<br />
+##########
 
-Mazmur <font dir="ltr">117:1-2.</font>Pujilah Tuhan, hai segala bangsa; <br /><br />
-agungkanlah Dia, hai segala suku bangsa!<br /><br />
+##########
+Kitab Yesaya <font dir="ltr">66,18-21.</font>@@@@@Beginilah firman Tuhan :<br /><br />
+mengetahui perbuatan dan pikiran mereka, Aku datang mengumpulkan segala bangsa, dari setiap bahasa. Mereka akan datang dan melihat kemuliaan-Ku :<br /><br />
+Aku akan menaruh tanda di tengah-tengah mereka! Dan dari antara mereka, Aku akan mengutus orang-orang yang terluput kepada bangsa-bangsa, ke Tarsis, Put dan Lud, Mesekh, Ros, Tubal dan Yawan, ke pulau-pulau yang jauh yang belum pernah mendengar nama-Ku, yang belum pernah melihat kemuliaan-Ku; orang-orang yang terluput itu akan memberitakan kemuliaan-Ku di antara bangsa-bangsa.<br /><br />
+Dan dari semua bangsa, mereka akan membawa semua saudara-saudaramu, sebagai persembahan bagi Tuhan, dengan menunggang kuda dan kereta, tandu, bagal dan unta, sampai ke gunung-Ku yang kudus, Yerusalem, – sabda Tuhan. Mereka akan dipersembahkan seperti persembahan yang dibawa oleh orang Israel dalam bejana yang suci ke Rumah Tuhan.<br /><br />
+Aku bahkan akan mengambil imam dan orang Lewi dari antara mereka, – sabda Tuhan.<br />
+
+##########
+Mazmur <font dir="ltr">117(116),1.2.</font>@@@@@Pujilah Tuhan, hai segala bangsa ; <br /><br />
+megahkanlah Dia, hai segala suku bangsa!<br /><br />
 <br /><br />
-Sebab kasih-Nya kepada kita sangatlah besar; <br /><br />
-kesetiaan Tuhan kekal selama-lamanya!<br />
+Kasih-Nya kepada kita sungguh kuat ; <br /><br />
+kesetiaan Tuhan kekal selamanya!<br />
 
-Injil Yesus Kristus menurut Santo Lukas <font dir="ltr">13:22-30.</font>Pada waktu itu, ketika Ia sedang dalam perjalanan ke Yerusalem, Yesus melewati kota-kota dan desa-desa sambil mengajar.<br /><br />
-Seseorang bertanya kepada-Nya, “Tuhan, apakah hanya sedikit orang yang diselamatkan?” Yesus berkata kepada mereka:<br /><br />
-“Berjuanglah sekuat tenaga untuk masuk melalui pintu yang sempit itu, sebab Aku berkata kepadamu, banyak orang akan berusaha masuk, tetapi tidak dapat.<br /><br />
-Apabila pemilik rumah telah bangkit dan menutup pintu, dan kamu mulai mengetuk pintu dari luar sambil berkata: ‘Tuhan, bukakanlah bagi kami,’ ia akan menjawab: ‘Aku tidak tahu dari mana kamu berasal.’<br /><br />
-Kemudian kamu akan mulai berkata: ‘Kami telah makan dan minum di hadapan-Mu, dan Engkau telah mengajar di jalan-jalan kami.’<br /><br />
-Ia akan menjawab: ‘Aku tidak tahu dari mana kamu berasal. Pergilah dari pada-Ku, kamu sekalian pembuat kejahatan!’<br /><br />
-Di sanalah akan ada tangisan dan kertakan gigi, ketika kamu melihat Abraham, Ishak, dan Yakub, serta semua nabi di dalam Kerajaan Allah, dan kamu sendiri dicampakkan ke luar.<br /><br />
-Maka orang akan datang dari timur dan dari barat, dari utara dan dari selatan, untuk duduk makan di dalam Kerajaan Allah.<br /><br />
-Ya, ada yang terakhir akan menjadi yang pertama, dan ada yang pertama akan menjadi yang terakhir.”<br />
+##########
+Injil Yesus Kristus menurut Santo Lukas <font dir="ltr">13,22-30.</font>@@@@@Pada waktu itu, sementara dalam perjalanan menuju Yerusalem, Yesus berjalan melalui kota dan desa sambil mengajar.<br /><br />
+Seseorang bertanya kepada-Nya : « Tuhan, apakah hanya sedikit orang yang diselamatkan? » Yesus berkata kepada mereka :<br /><br />
+« Berusahalah untuk masuk melalui pintu yang sempit, sebab Aku berkata kepadamu, banyak orang akan berusaha masuk tetapi tidak akan dapat.<br /><br />
+Apabila tuan rumah bangun dan menutup pintu, kamu yang berada di luar mulai mengetuk pintu sambil berkata: “Tuhan, bukalah bagi kami”, Ia akan menjawab: “Aku tidak tahu dari mana kamu berasal.”<br /><br />
+Lalu kamu akan berkata: “Kami telah makan dan minum di hadapan-Mu, dan Engkau telah mengajar di jalan-jalan kami.”<br /><br />
+Tetapi Ia akan berkata: “Aku tidak tahu dari mana kamu berasal. Menjauhlah dari-Ku, kamu semua yang melakukan kejahatan.”<br /><br />
+Di sanalah akan ada tangisan dan kertakan gigi, ketika kamu melihat Abraham, Ishak, dan Yakub, serta semua nabi dalam Kerajaan Allah, sedangkan kamu sendiri dicampakkan ke luar.<br /><br />
+Orang akan datang dari timur dan barat, dari utara dan selatan, dan duduk makan di perjamuan dalam Kerajaan Allah.<br /><br />
+Ya, ada yang terakhir akan menjadi yang pertama, dan yang pertama akan menjadi yang terakhir. »<br />
 
-Santo Bartolomeus, Rasul dan Martir († sekitar tahun 71)
-Surat kepada Orang Ibrani <font dir="ltr">12:5-7, 11-13.</font>Saudara-saudaraku, kamu telah melupakan perkataan penghiburan ini, yang ditujukan kepadamu seperti kepada anak-anak: ‘Anakku, janganlah mengabaikan didikan Tuhan, dan janganlah tawar hati apabila Ia menegurmu.<br /><br />
-Sebab Tuhan mendidik orang yang dikasihi-Nya, dan Ia menghajar setiap orang yang diakui-Nya sebagai anak.’<br /><br />
-Apa yang kamu alami adalah didikan. Allah memperlakukan kamu seperti anak-anak-Nya; sebab anak mana yang tidak dididik oleh ayahnya?<br /><br />
-Memang didikan pada waktu diberikan tidak mendatangkan sukacita, melainkan kesedihan. Tetapi kemudian, bagi mereka yang telah dilatih olehnya, didikan itu menghasilkan buah damai, yaitu kebenaran.<br /><br />
-Sebab itu, kuatkanlah tangan yang lesu dan lutut yang goyah,<br /><br />
-dan luruskanlah jalan bagi kakimu, supaya yang timpang jangan terkilir, melainkan disembuhkan.<br />
+##########
+St Bartolomeus, rasul dan martir († sekitar tahun 71)
+##########
+Surat kepada Orang Ibrani <font dir="ltr">12,5-7.11-13.</font>@@@@@Saudara-saudara, kalian sudah lupa akan kata-kata penghiburan yang berbicara kepadamu seperti kepada anak : ‘Hai anakku, jangan abaikan ajaran Tuhan, jangan putus asa ketika Ia menegur engkau.<br /><br />
+Karena Tuhan menghajar orang yang dikasihi-Nya ; Ia menegur setiap orang yang diterima-Nya sebagai anak.’<br /><br />
+Apa yang kamu derita adalah suatu ajaran. Allah memperlakukan kamu seperti anak-anak-Nya ; sebab anak manakah yang tidak diajar oleh ayahnya?<br /><br />
+Ketika baru menerima ajaran, orang tidak merasa gembira melainkan sedih. Tetapi kemudian, sesudah dilatih olehnya, ajaran itu menghasilkan buah damai sejahtera dan kebenaran.<br /><br />
+Sebab itu, kuatkanlah tangan yang lemah dan lutut yang goyah,<br /><br />
+dan luruskanlah jalan bagi kakimu yang berliku-liku. Maka orang yang pincang tidak akan terkilir, malah akan disembuhkan.<br />
 
-Minggu Biasa XXI
-A @@@  @@@  @@@  @@@   
+##########
+Hari Minggu Biasa ke-21
+##########
+A @@@  @@@  @@@  @@@    
