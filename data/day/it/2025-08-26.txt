@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Madonna di Częstochowa (Madonna Nera), Polonia<br />
+Madonna di Częstochowa (Madonna Nera), Polonia<br />
                 S. Alessandro di Bergamo, martire († 303)<br />
                 S. Mariam di Gesù Crocifisso, carmelitana scalza (1846-1878)<br />
                 B. Zeffirino Namuncurà, aspirante salesiano (1886-1905)<br />
@@ -40,17 +35,17 @@ Così affezionati a voi, avremmo desiderato darvi non solo il vangelo di Dio, ma
 
 ##########
 Salmi <font dir="ltr">139(138),1-3.4-6.</font>@@@@@Signore, tu mi scruti e mi conosci,<br /><br />
-tu sai quando seggo e quando mi alzo. <br /><br />
+tu sai quando seggo e quando mi alzo. <br /><br />
 Penetri da lontano i miei pensieri,<br /><br />
-mi scruti quando cammino e quando riposo. <br /><br />
+mi scruti quando cammino e quando riposo. <br /><br />
 <br /><br />
 Ti sono note tutte le mie vie.<br /><br />
-la mia parola non è ancora sulla lingua <br /><br />
+la mia parola non è ancora sulla lingua <br /><br />
 e tu, Signore, già la conosci tutta.<br /><br />
-Alle spalle e di fronte mi circondi <br /><br />
+Alle spalle e di fronte mi circondi <br /><br />
 <br /><br />
 e poni su di me la tua mano.<br /><br />
-Stupenda per me la tua saggezza, <br /><br />
+Stupenda per me la tua saggezza, <br /><br />
 troppo alta, e io non la comprendo.<br />
 
 ##########

@@ -1,9 +1,5 @@
 
 
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-
 ##########
 @@@@@
 ##########
@@ -11,24 +7,24 @@
 ##########
 @@@@@
 ##########
-@@@@@Cantai ao Senhor um cântico novo, <br /><br />
+@@@@@Cantai ao Senhor um cântico novo, <br /><br />
 cantai ao Senhor, Terra inteira,<br /><br />
-publicai entre as nações a sua glória, <br /><br />
+publicai entre as nações a sua glória, <br /><br />
 em todos os povos as suas maravilhas.<br /><br />
 <br /><br />
-O Senhor é grande e digno de louvor, <br /><br />
+O Senhor é grande e digno de louvor, <br /><br />
 mais temível que todos os deuses.<br /><br />
-Os deuses dos gentios não passam de ídolos, <br /><br />
+Os deuses dos gentios não passam de ídolos, <br /><br />
 foi o Senhor quem fez os céus.<br /><br />
 <br /><br />
-Alegrem-se os céus, exulte a Terra, <br /><br />
+Alegrem-se os céus, exulte a Terra, <br /><br />
 ressoe o mar e tudo o que ele contém,<br /><br />
-exultem os campos e quanto neles existe, <br /><br />
+exultem os campos e quanto neles existe, <br /><br />
 alegrem-se as árvores das florestas.<br /><br />
 <br /><br />
-Diante do Senhor que vem,<br /><br />
-que vem para julgar a Terra.<br /><br />
-Julgará o mundo com justiça<br /><br />
+Diante do Senhor que vem,<br /><br />
+que vem para julgar a Terra.<br /><br />
+Julgará o mundo com justiça<br /><br />
 e os povos com fidelidade.<br />
 
 ##########

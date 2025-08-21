@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Św. Bartłomiej Apostoł<br />
+Św. Bartłomiej Apostoł<br />
                 Św. Maria Michaela, dziewica, zakonnica (+ 1856)<br />
                 Św. Patryk, opat (+ VI w.)<br />
                 Św. Jerzy, mnich, męczennik (+ ok. 730)<br />
@@ -25,9 +20,9 @@ Z wszelkich narodów przyprowadzą jako dar dla Pana wszystkich waszych braci �
 Z nich także wezmę sobie niektórych jako kapłanów i lewitów» – mówi Pan.<br />
 
 ##########
-Księga Psalmów <font dir="ltr">117(116),1.2.</font>@@@@@Chwalcie Pana, wszystkie narody, <br /><br />
+Księga Psalmów <font dir="ltr">117(116),1.2.</font>@@@@@Chwalcie Pana, wszystkie narody, <br /><br />
 wysławiajcie Go, wszystkie ludy,<br /><br />
-bo potężna nad nami Jego łaska, <br /><br />
+bo potężna nad nami Jego łaska, <br /><br />
 a wierność Pana trwa na wieki.<br />
 
 ##########
@@ -44,8 +39,8 @@ Tak oto są ostatni, którzy będą pierwszymi, i są pierwsi, którzy będą os
 ##########
 Św. Bartłomiej Apostoł
 ##########
-List do Hebrajczyków <font dir="ltr">12,5-7.11-13.</font>@@@@@Bracia: <br /><br />
-Zapomnieliście o napomnieniu, z jakim Bóg się zwraca do was jako do synów:<br /><br />
+List do Hebrajczyków <font dir="ltr">12,5-7.11-13.</font>@@@@@Bracia: <br /><br />
+Zapomnieliście o napomnieniu, z jakim Bóg się zwraca do was jako do synów:<br /><br />
 «Synu mój, nie lekceważ karcenia Pana, nie upadaj na duchu, gdy On cię doświadcza.<br /><br />
 Bo kogo miłuje Pan, tego karci, chłoszcze zaś każdego, którego za syna przyjmuje».<br /><br />
 Trwajcie w karności! Bóg obchodzi się z wami jak z dziećmi. Jakiż to bowiem syn, którego by ojciec nie karcił?<br /><br />

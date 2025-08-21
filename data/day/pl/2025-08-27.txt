@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Św. Monika<br />
+Św. Monika<br />
                 Śwśw. Rufus, Karpofor, męczennicy (+ III/IV w.)<br />
                 Św. Syagriusz, biskup (+ ok. 600)<br />
                 Śwśw. Aroncjusz i bracia, męczennicy(+ ok. 304) - synowie św. Bonifacy i św. Tekli<br />
@@ -27,17 +22,17 @@ abyście postępowali w sposób godny Boga, który was wzywa do swego królestwa
 Dlatego nieustannie dziękujemy Bogu, bo gdy przejęliście słowo Boże, usłyszane od nas, przyjęliście je nie jako słowo ludzkie, ale jako to, czym jest naprawdę – jako słowo Boga, który działa w was, wierzących.<br />
 
 ##########
-Księga Psalmów <font dir="ltr">139(138),7-8.9-10.11-12ab.</font>@@@@@Gdzie ucieknę przed duchem Twoim? <br /><br />
+Księga Psalmów <font dir="ltr">139(138),7-8.9-10.11-12ab.</font>@@@@@Gdzie ucieknę przed duchem Twoim? <br /><br />
 Gdzie oddalę się od Twego oblicza?<br /><br />
-Jeśli wstąpię do nieba, Ty tam jesteś, <br /><br />
+Jeśli wstąpię do nieba, Ty tam jesteś, <br /><br />
 jesteś przy mnie, gdy położę się w Otchłani.<br /><br />
 <br /><br />
-Gdybym wziął skrzydła jutrzenki, <br /><br />
+Gdybym wziął skrzydła jutrzenki, <br /><br />
 gdybym zamieszkał na krańcu morza,<br /><br />
-tam również będzie mnie wiodła Twa ręka <br /><br />
+tam również będzie mnie wiodła Twa ręka <br /><br />
 i podtrzyma mnie Twoja prawica.<br /><br />
 <br /><br />
-Jeśli powiem: «Niech więc mnie ciemność zasłoni  <br /><br />
+Jeśli powiem: «Niech więc mnie ciemność zasłoni  <br /><br />
 i noc mnie otoczy jak światło»,<br /><br />
 to nawet mrok nie będzie dla Ciebie ciemny,<br /><br />
 a noc jak dzień będzie jasna.<br />

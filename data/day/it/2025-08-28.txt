@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. Agostino d&#039;Ippona, vescovo e Dr. della Chiesa (354-430)<br />
+S. Agostino d&#039;Ippona, vescovo e Dr. della Chiesa (354-430)<br />
                 S. Junípero Serra Ferrer, sacerdote O.F.M. (1713-1784)<br />
                 S. Edmund Arrowsmith, presbitero S.J e martire (1585-1628)<br />
                 S. Mosé l&#039;Etiope, anacoreta in Egitto e m. (332 - ca. 407)<br />

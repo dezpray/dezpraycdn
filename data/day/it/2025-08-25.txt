@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. José de Calasanz, sacerdote e fondatore (1557-1648)<br />
+S. José de Calasanz, sacerdote e fondatore (1557-1648)<br />
                 B. Alessandro Dordi, missionario e martire in Perù († 1991)<br />
                 B. Luigi Bordino, religioso cottolenghino (1922-1977)<br />
                 B. Maria Troncatti, suora missionaria F.M.A. (1883-1969)<br />
@@ -38,17 +33,17 @@ Sono loro infatti a parlare di noi, dicendo come noi siamo venuti in mezzo a voi
 e attendere dai cieli il suo Figlio, che egli ha risuscitato dai morti, Gesù, che ci libera dall&#039;ira ventura.<br />
 
 ##########
-Salmi <font dir="ltr">149(148),1-2.3-4.5-6a.9b.</font>@@@@@Cantate al Signore un canto nuovo; <br /><br />
+Salmi <font dir="ltr">149(148),1-2.3-4.5-6a.9b.</font>@@@@@Cantate al Signore un canto nuovo; <br /><br />
 la sua lode nell&#039;assemblea dei fedeli.<br /><br />
-Gioisca Israele nel suo Creatore, <br /><br />
+Gioisca Israele nel suo Creatore, <br /><br />
 esultino nel loro Re i figli di Sion.<br /><br />
 <br /><br />
-Lodino il suo nome con danze, <br /><br />
+Lodino il suo nome con danze, <br /><br />
 con timpani e cetre gli cantino inni.<br /><br />
-Il Signore ama il suo popolo, <br /><br />
+Il Signore ama il suo popolo, <br /><br />
 incorona gli umili di vittoria.<br /><br />
 <br /><br />
-Esultino i fedeli nella gloria, <br /><br />
+Esultino i fedeli nella gloria, <br /><br />
 sorgano lieti dai loro giacigli.<br /><br />
 Le lodi di Dio sulla loro bocca:<br /><br />
 questa è la gloria per tutti i suoi fedeli.<br />

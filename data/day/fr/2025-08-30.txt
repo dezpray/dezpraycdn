@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            St Fiacre, abbé († 670)<br />
+St Fiacre, abbé († 670)<br />
                 Sts Félix et Adauctus, martyrs († v. 304)<br />
                 Bse Marie des Anges Ginard Marti, martyre († 1936)<br />
                 Sts Martyrs (60) de Colonia Suffetana († 399)<br />
@@ -25,10 +20,10 @@
     
 ##########
 <font style="align-text:left" dir="ltr">Le Christ me demandera des comptes...</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-            Voici que mes péchés me causent une vive frayeur, mes omissions me couvrent d’une profonde honte, le gaspillage de ma vie me cause une très grande crainte. Je redoute ce futur examen où le Christ, l’homme noble, me demandera des comptes. <br /><br />
-<br /><br />
-            S’il voulait exiger de moi le temps qu’il m’a remis en dépôt, et l’intelligence, ce talent qu’il m’a confié pour fournir des intérêts, sans aucun doute je n’aurais aucune réponse convenable à faire à ta charité. Que ferai-je&amp;nbsp;? De quel côté me tournerai-je&amp;nbsp;? Je ne puis bêcher la terre&amp;nbsp;; mendier, j’en ai honte (Lc 16,3). Ô tendresse&amp;nbsp;! Tendresse&amp;nbsp;! ouvre ta bouche maintenant&amp;nbsp;; que ton doux conseil, je t’en supplie, réconforte mon âme. De grâce, réponds-moi&amp;nbsp;: que décideras-tu de me faire dans cette conjoncture, car selon ton nom tu es un cœur vraiment tendre, et tu connais parfaitement ce qui en cette conjoncture me convient. De grâce, pardonne-moi et viens à mon secours et, en cette tribulation, ne me regarde pas avec indifférence. Laisse-toi émouvoir par la pauvreté de mon esprit et, le cœur touché de compassion, dis-moi dans ta bonté&amp;nbsp;: «&amp;nbsp;Faisons, toi et moi, bourse commune.&amp;nbsp;» (Pr 1,14)<br /><br />
-<br /><br />
+            Voici que mes péchés me causent une vive frayeur, mes omissions me couvrent d’une profonde honte, le gaspillage de ma vie me cause une très grande crainte. Je redoute ce futur examen où le Christ, l’homme noble, me demandera des comptes. <br /><br />
+<br /><br />
+            S’il voulait exiger de moi le temps qu’il m’a remis en dépôt, et l’intelligence, ce talent qu’il m’a confié pour fournir des intérêts, sans aucun doute je n’aurais aucune réponse convenable à faire à ta charité. Que ferai-je&amp;nbsp;? De quel côté me tournerai-je&amp;nbsp;? Je ne puis bêcher la terre&amp;nbsp;; mendier, j’en ai honte (Lc 16,3). Ô tendresse&amp;nbsp;! Tendresse&amp;nbsp;! ouvre ta bouche maintenant&amp;nbsp;; que ton doux conseil, je t’en supplie, réconforte mon âme. De grâce, réponds-moi&amp;nbsp;: que décideras-tu de me faire dans cette conjoncture, car selon ton nom tu es un cœur vraiment tendre, et tu connais parfaitement ce qui en cette conjoncture me convient. De grâce, pardonne-moi et viens à mon secours et, en cette tribulation, ne me regarde pas avec indifférence. Laisse-toi émouvoir par la pauvreté de mon esprit et, le cœur touché de compassion, dis-moi dans ta bonté&amp;nbsp;: «&amp;nbsp;Faisons, toi et moi, bourse commune.&amp;nbsp;» (Pr 1,14)<br /><br />
+<br /><br />
             Ô Tendresse&amp;nbsp;! Tendresse&amp;nbsp;! n’as-tu pas chez toi entreposées tant et de si belles richesses que le ciel et la terre ne suffisent pas à les contenir. Toi, tu as contraint mon Jésus à donner son âme pour mon âme, pour ma vie la sienne&amp;nbsp;; de la sorte tu as fait mien tout ce qui est sien et ainsi, par ton abondance, tu as accru les ressources du pauvre. De grâce, convoque mon âme famélique à tes libéralités, afin que je vive à pleine vie de tes richesses et que, par toi élevée, par toi nourrie, je ne défaille pas dans le service du Seigneur, jusqu&#039;à ce que, sous ta conduite, je retourne à mon Dieu, et je rende mon esprit à celui qui me l’a donné (Qo 12,7).<br />
 </font><br />
 
@@ -40,19 +35,19 @@ et c’est ce que vous faites envers tous les frères de la province de Macédoi
 ayez à cœur de vivre calmement, de vous occuper chacun de vos propres affaires et de travailler de vos mains comme nous vous l’avons ordonné.<br />
 
 ##########
-Psaume <font dir="ltr">98(97),1.7-8.9.</font>@@@@@Chantez au Seigneur un chant nouveau, <br /><br />
-car il a fait des merveilles ; <br /><br />
-par son bras très saint, par sa main puissante, <br /><br />
+Psaume <font dir="ltr">98(97),1.7-8.9.</font>@@@@@Chantez au Seigneur un chant nouveau, <br /><br />
+car il a fait des merveilles ; <br /><br />
+par son bras très saint, par sa main puissante, <br /><br />
 il s&#039;est assuré la victoire.<br /><br />
 <br /><br />
-Que résonnent la mer et sa richesse, <br /><br />
+Que résonnent la mer et sa richesse, <br /><br />
 le monde et tous ses habitants ;<br /><br />
-que les fleuves battent des mains, <br /><br />
+que les fleuves battent des mains, <br /><br />
 que les montagnes chantent leur joie.<br /><br />
 <br /><br />
-Acclamez le Seigneur, car il vient <br /><br />
-pour gouverner la terre, <br /><br />
-pour gouverner le monde avec justice <br /><br />
+Acclamez le Seigneur, car il vient <br /><br />
+pour gouverner la terre, <br /><br />
+pour gouverner le monde avec justice <br /><br />
 et les peuples avec droiture !<br />
 
 ##########

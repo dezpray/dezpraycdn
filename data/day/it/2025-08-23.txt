@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. Rosa da Lima (Isabel Flores de Oliva), virgo (1586-1617)<br />
+S. Rosa da Lima (Isabel Flores de Oliva), virgo (1586-1617)<br />
                 B. Jean Bourdon da Séez (F), O.F.M. Cap. e mart. (1747-1794)<br />
                 B. Corrado da Offida, sacerdote O.F.M. (1241-1306)<br />
                 S. Zaccheo, quinto vescovo di Gerusalemme († 116)<br />
@@ -42,19 +37,19 @@ Noemi prese il bambino e se lo pose in grembo e gli fu nutrice.<br /><br />
 E le vicine dissero: &quot;È nato un figlio a Noemi!&quot;. Essa lo chiamò Obed: egli fu il padre di Iesse, padre di Davide.<br />
 
 ##########
-Salmi <font dir="ltr">128(127),1-2.3.4.5.</font>@@@@@Beato l&#039;uomo che teme il Signore <br /><br />
+Salmi <font dir="ltr">128(127),1-2.3.4.5.</font>@@@@@Beato l&#039;uomo che teme il Signore <br /><br />
 e cammina nelle sue vie.<br /><br />
-Vivrai del lavoro delle tue mani, <br /><br />
+Vivrai del lavoro delle tue mani, <br /><br />
 sarai felice e godrai d&#039;ogni bene.<br /><br />
 <br /><br />
-La tua sposa come vite feconda <br /><br />
-nell&#039;intimità della tua casa; <br /><br />
-i tuoi figli come virgulti d&#039;ulivo <br /><br />
+La tua sposa come vite feconda <br /><br />
+nell&#039;intimità della tua casa; <br /><br />
+i tuoi figli come virgulti d&#039;ulivo <br /><br />
 intorno alla tua mensa.<br /><br />
 <br /><br />
 Così sarà benedetto l&#039;uomo che teme il Signore.<br /><br />
-Ti benedica il Signore da Sion! <br /><br />
-Possa tu vedere la prosperità di Gerusalemme <br /><br />
+Ti benedica il Signore da Sion! <br /><br />
+Possa tu vedere la prosperità di Gerusalemme <br /><br />
 per tutti i giorni della tua vita.<br />
 
 ##########

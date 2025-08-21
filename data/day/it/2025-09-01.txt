@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. Teresa Margherita del Cuore di Gesù, O.C.D. (1747-1770)<br />
+S. Teresa Margherita del Cuore di Gesù, O.C.D. (1747-1770)<br />
                 BB. Cristino Roca Huguet e 11 Compagni, Martiri († 1936)<br />
                 S. Gilles (Egidio), abate nel sud della Francia († ca. 725)<br />
                 S. Giosuè, patriarca († ca. 1220 av. J.C.)<br />
@@ -34,24 +29,24 @@ quindi noi, i vivi, i superstiti, saremo rapiti insieme con loro tra le nuvole, 
 Confortatevi dunque a vicenda con queste parole.<br />
 
 ##########
-Salmi <font dir="ltr">96(95),1.3.4-5.11-12.13.</font>@@@@@Cantate al Signore un canto nuovo, <br /><br />
+Salmi <font dir="ltr">96(95),1.3.4-5.11-12.13.</font>@@@@@Cantate al Signore un canto nuovo, <br /><br />
 cantate al Signore da tutta la terra.<br /><br />
-In mezzo ai popoli raccontate la sua gloria, <br /><br />
+In mezzo ai popoli raccontate la sua gloria, <br /><br />
 a tutte le nazioni dite i suoi prodigi.<br /><br />
 <br /><br />
-Grande è il Signore e degno di ogni lode, <br /><br />
+Grande è il Signore e degno di ogni lode, <br /><br />
 terribile sopra tutti gli dei.<br /><br />
-Tutti gli dei delle nazioni sono un nulla, <br /><br />
+Tutti gli dei delle nazioni sono un nulla, <br /><br />
 ma il Signore ha fatto i cieli.<br /><br />
 <br /><br />
-Gioiscano i cieli, esulti la terra, <br /><br />
+Gioiscano i cieli, esulti la terra, <br /><br />
 frema il mare e quanto racchiude;<br /><br />
-esultino i campi e quanto contengono, <br /><br />
+esultino i campi e quanto contengono, <br /><br />
 si rallegrino gli alberi della foresta.<br /><br />
 <br /><br />
-Esultino davanti al Signore che viene, <br /><br />
-perché viene a giudicare la terra. <br /><br />
-Giudicherà il mondo con giustizia <br /><br />
+Esultino davanti al Signore che viene, <br /><br />
+perché viene a giudicare la terra. <br /><br />
+Giudicherà il mondo con giustizia <br /><br />
 e con verità tutte le genti.<br />
 
 ##########

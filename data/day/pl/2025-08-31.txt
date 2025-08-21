@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Św. Arystydes<br />
+Św. Arystydes<br />
                 Św. Aidan, opat, biskup z Lindisfarne (+ 651)<br />
                 Św. Bonajunkta, wyznawca (+ 1257)<br />
                 Św. Paulin, biskup Trewiru (+ 358)<br />
@@ -26,19 +21,19 @@ Na chorobę pyszałka nie ma lekarstwa, albowiem nasienie zła zapuściło w nim
 Serce rozumnego rozważa przypowieść, a ucho słuchacza – to pragnienie mędrca.<br />
 
 ##########
-Księga Psalmów <font dir="ltr">68(67),4-5.6-7.10-11.</font>@@@@@Sprawiedliwi cieszą się i weselą przed Bogiem,  <br /><br />
+Księga Psalmów <font dir="ltr">68(67),4-5.6-7.10-11.</font>@@@@@Sprawiedliwi cieszą się i weselą przed Bogiem,  <br /><br />
 i  rozkoszują radością.<br /><br />
-Śpiewajcie Bogu, grajcie Jego imieniu, <br /><br />
+Śpiewajcie Bogu, grajcie Jego imieniu, <br /><br />
 bo Pan Mu na imię.<br /><br />
 <br /><br />
-Ojcem dla sierot i dla wdów opiekunem <br /><br />
+Ojcem dla sierot i dla wdów opiekunem <br /><br />
 jest Bóg w swym świętym mieszkaniu.<br /><br />
-Bóg dom gotuje dla opuszczonych,  <br /><br />
+Bóg dom gotuje dla opuszczonych,  <br /><br />
 jeńców prowadzi ku lepszemu życiu.<br /><br />
 <br /><br />
-Deszcz obfity zesłałeś, Boże, <br /><br />
+Deszcz obfity zesłałeś, Boże, <br /><br />
 Ty orzeźwiłeś swe znękane dziedzictwo.<br /><br />
-Twoja rodzina, Boże, znalazła to mieszkanie, <br /><br />
+Twoja rodzina, Boże, znalazła to mieszkanie, <br /><br />
 które w swej dobroci dałeś ubogiemu.<br />
 
 ##########

@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Beato Simeón Lukac<br />
+Beato Simeón Lukac<br />
                 San Guniforte de Pavía<br />
                 San Lamberto Chézery<br />
                 Beato Timoteo de Monticchio<br />
@@ -28,10 +23,10 @@
     
 ##########
 <font style="align-text:left" dir="ltr">¡Amar con el amor mismo de Dios!</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-            [Santa Catalina escuchó a Dios decirle:] Sépanlo bien, toda imperfección o toda imperfección en el amor, se manifiesta y se adquiere con respecto a mí y con respecto al prójimo. Las almas simples lo saben, muchas veces ellas aman a las criaturas de un amor espiritual. Si ellas me aman con un amor purificado y desinteresado, aman al prójimo también con un amor puro y desinteresado.<br /><br />
-<br /><br />
-            Es como un recipiente que llenamos en la fuente. Si se retira del manantial  para beber, se vacía pronto. Pero si se mantiene sumergido en el manantial, permanece siempre lleno. Así es con el amor al prójimo, amor espiritual o temporal: hay que beber en Mí, no hay otra posibilidad. Porque les pido amarme con el mismo amor que los amo.<br /><br />
-<br /><br />
+            [Santa Catalina escuchó a Dios decirle:] Sépanlo bien, toda imperfección o toda imperfección en el amor, se manifiesta y se adquiere con respecto a mí y con respecto al prójimo. Las almas simples lo saben, muchas veces ellas aman a las criaturas de un amor espiritual. Si ellas me aman con un amor purificado y desinteresado, aman al prójimo también con un amor puro y desinteresado.<br /><br />
+<br /><br />
+            Es como un recipiente que llenamos en la fuente. Si se retira del manantial  para beber, se vacía pronto. Pero si se mantiene sumergido en el manantial, permanece siempre lleno. Así es con el amor al prójimo, amor espiritual o temporal: hay que beber en Mí, no hay otra posibilidad. Porque les pido amarme con el mismo amor que los amo.<br /><br />
+<br /><br />
             En verdad, no podrán hacerlo completamente. Yo los he amado antes de ser amado. El amor que tengo por ustedes no se los debo, sino que es una gracia que les acuerdo. No pueden rendirme completamente a mí el amor que les pido. Mas los he puesto junto a su prójimo para permitirles de hacer por él lo que no pueden hacer por mí: amarlo por gracia, desinteresadamente, sin nada esperar. Considero como si hubieran hecho por mí, lo que han hecho por el prójimo.<br />
 </font><br />
 
@@ -50,25 +45,25 @@ Pero Rut le respondió: &quot;No insistas en que te abandone y me vuelva, porque
 Así regresó Noemí con su nuera, la moabita Rut, la que había venido de los campos de Moab. Cuando llegaron a Belén, comenzaba la cosecha de la cebada.<br />
 
 ##########
-Salmo <font dir="ltr">146(145),5-6.7.8-9a.9bc-10.</font>@@@@@Feliz el que se apoya en el Dios de Jacob<br /><br />
+Salmo <font dir="ltr">146(145),5-6.7.8-9a.9bc-10.</font>@@@@@Feliz el que se apoya en el Dios de Jacob<br /><br />
 y pone su esperanza en el Señor, su Dios:<br /><br />
-él hizo el cielo y la tierra,<br /><br />
-el mar y todo lo que hay en ellos.<br /><br />
+él hizo el cielo y la tierra,<br /><br />
+el mar y todo lo que hay en ellos.<br /><br />
 Él mantiene su fidelidad para siempre,<br /><br />
-Hace justicia a los oprimidos<br /><br />
+Hace justicia a los oprimidos<br /><br />
 <br /><br />
-y da pan a los hambrientos.<br /><br />
+y da pan a los hambrientos.<br /><br />
 El Señor libera a los cautivos,<br /><br />
-Abre los ojos de los ciegos<br /><br />
-y endereza a los que están encorvados,<br /><br />
+Abre los ojos de los ciegos<br /><br />
+y endereza a los que están encorvados,<br /><br />
 el Señor ama a los justos<br /><br />
 El Señor protege a los extranjeros<br /><br />
 <br /><br />
 y sustenta al huérfano y a la viuda;<br /><br />
 y entorpece el camino de los malvados.<br /><br />
-El Señor reina eternamente,<br /><br />
-reina tu Dios, Sión,<br /><br />
-a lo largo de las generaciones.<br /><br />
+El Señor reina eternamente,<br /><br />
+reina tu Dios, Sión,<br /><br />
+a lo largo de las generaciones.<br /><br />
 ¡Aleluya!<br />
 
 ##########

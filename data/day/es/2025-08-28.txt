@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            San Agustin de Hipona<br />
+San Agustin de Hipona<br />
                 Beato Juan Bautista Faubel Cano<br />
                 San Alejandro I<br />
                 San Restituto de Cartago<br />
@@ -26,10 +21,10 @@
     
 ##########
 <font style="align-text:left" dir="ltr">¡Aumentemos nuestro ardor en la espera de la vida eterna!</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-            Un día, todos los monjes se reunieron en torno a Antonio para escuchar su palabra. Con la firmeza de un profeta, así les dijo, en lengua copta: &quot;Las santas Escrituras bastan para nuestra instrucción. Sin embargo, es bueno para nosotros alentarnos unos a otros en la fe y conversar para estimularnos. Como hijos, traigan a su padre lo que sepan y díganselo, tal como yo, siendo el más anciano, comparto con ustedes mi conocimiento y experiencia.<br /><br />
-<br /><br />
-           Para comenzar, esforcémonos por tener todos el mismo celo, no renunciar a lo que hemos comenzado, no perder el ánimo. No digamos &quot;Hemos pasado demasiado tiempo en esta vida ascética&quot;. No, comenzando de nuevo cada día, como si recién empezáramos, aumentemos nuestro ardor. Toda la vida del hombre es muy breve comparada con los siglos a venir, todo nuestro tiempo presente es nada comparado con la vida eterna. En el mundo, todo se vende o se cambia según su valor por algo equivalente en precio, pero la promesa de la vida eterna puede adquirirse con muy poco. (…)<br /><br />
- <br /><br />
+            Un día, todos los monjes se reunieron en torno a Antonio para escuchar su palabra. Con la firmeza de un profeta, así les dijo, en lengua copta: &quot;Las santas Escrituras bastan para nuestra instrucción. Sin embargo, es bueno para nosotros alentarnos unos a otros en la fe y conversar para estimularnos. Como hijos, traigan a su padre lo que sepan y díganselo, tal como yo, siendo el más anciano, comparto con ustedes mi conocimiento y experiencia.<br /><br />
+<br /><br />
+           Para comenzar, esforcémonos por tener todos el mismo celo, no renunciar a lo que hemos comenzado, no perder el ánimo. No digamos &quot;Hemos pasado demasiado tiempo en esta vida ascética&quot;. No, comenzando de nuevo cada día, como si recién empezáramos, aumentemos nuestro ardor. Toda la vida del hombre es muy breve comparada con los siglos a venir, todo nuestro tiempo presente es nada comparado con la vida eterna. En el mundo, todo se vende o se cambia según su valor por algo equivalente en precio, pero la promesa de la vida eterna puede adquirirse con muy poco. (…)<br /><br />
+ <br /><br />
             Aunque nuestro combate es en la tierra, no recibiremos nuestra herencia en la tierra, lo que se nos ha prometido lo recibiremos en el cielo. Cuando dejemos nuestro cuerpo corruptible, lo recibiremos incorruptible (1 Co 15,42). Así, queridos hijos, no nos desanimemos ni pensemos que es largo el tiempo o que ya hemos hecho demasiado. Los sufrimientos de la vida presente no pueden compararse con la gloria que nos será revelada (Rm 8,18). (…) Por eso, hijos míos, perseveremos firmes en la ascesis, no nos desalentemos, huyamos de la acedia. Tenemos siempre al Señor que nos ayuda, según enseña la Escritura: &quot;Dios dispone de todas las cosas para el bien de los que lo aman” (Rm 8,28).<br />
 </font><br />
 
@@ -45,23 +40,23 @@ Que el Señor los haga crecer cada vez más en el amor mutuo y hacia todos los d
 Que él fortalezca sus corazones en la santidad y los haga irreprochables delante de Dios, nuestro Padre, el Día de la Venida del Señor Jesús con todos sus santos.<br />
 
 ##########
-Salmo <font dir="ltr">90(89),3-4.12-13.14.17.</font>@@@@@Tú haces que los hombres vuelvan al polvo,<br /><br />
+Salmo <font dir="ltr">90(89),3-4.12-13.14.17.</font>@@@@@Tú haces que los hombres vuelvan al polvo,<br /><br />
 con sólo decirles: “Vuelvan, seres humanos”.<br /><br />
-Porque mil años son ante tus ojos <br /><br />
-como el día de ayer, que ya pasó,<br /><br />
+Porque mil años son ante tus ojos <br /><br />
+como el día de ayer, que ya pasó,<br /><br />
 <br /><br />
 como una vigilia de la noche.<br /><br />
-Enséñanos a calcular nuestros años,<br /><br />
+Enséñanos a calcular nuestros años,<br /><br />
 para que nuestro corazón alcance la sabiduría.<br /><br />
-¡Vuélvete, Señor! ¿Hasta cuándo...?<br /><br />
+¡Vuélvete, Señor! ¿Hasta cuándo...?<br /><br />
 <br /><br />
 Ten compasión de tus servidores.<br /><br />
-Sácianos en seguida con tu amor,<br /><br />
+Sácianos en seguida con tu amor,<br /><br />
 y cantaremos felices toda nuestra vida.<br /><br />
-Que descienda hasta nosotros <br /><br />
+Que descienda hasta nosotros <br /><br />
 <br /><br />
-la bondad del Señor;<br /><br />
-que el Señor, nuestro Dios, <br /><br />
+la bondad del Señor;<br /><br />
+que el Señor, nuestro Dios, <br /><br />
 haga prosperar la obra de nuestras manos.<br />
 
 ##########

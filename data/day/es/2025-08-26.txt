@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Santa María Jesús Crucificado Baouardy<br />
+Santa María Jesús Crucificado Baouardy<br />
                 Beato Ceferino Namuncurá<br />
                 Beata María de Jesús<br />
                 San Víctor de Cerezo<br />
@@ -53,17 +48,17 @@ Sentíamos por ustedes tanto afecto, que deseábamos entregarles, no solamente l
 
 ##########
 Salmo <font dir="ltr">139(138),1-3.4-6.</font>@@@@@Señor, tú me sondeas y me conoces,<br /><br />
-tú sabes si me siento o me levanto;<br /><br />
+tú sabes si me siento o me levanto;<br /><br />
 de lejos percibes lo que pienso,<br /><br />
-te das cuenta si camino o si descanso,<br /><br />
+te das cuenta si camino o si descanso,<br /><br />
 <br /><br />
 y todos mis pasos te son familiares.<br /><br />
-Antes que la palabra esté en mi lengua,<br /><br />
+Antes que la palabra esté en mi lengua,<br /><br />
 tú, Señor, la conoces plenamente;<br /><br />
-me rodeas por detrás y por delante<br /><br />
+me rodeas por detrás y por delante<br /><br />
 <br /><br />
 y tienes puesta tu mano sobre mí;<br /><br />
-una ciencia tan admirable me sobrepasa:<br /><br />
+una ciencia tan admirable me sobrepasa:<br /><br />
 es tan alta que no puedo alcanzarla.<br />
 
 ##########

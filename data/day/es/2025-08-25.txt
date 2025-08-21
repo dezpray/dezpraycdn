@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            San José de Calasanz<br />
+San José de Calasanz<br />
                 San Luis IX<br />
                 Beato Miguel Carvalho<br />
                 San Eusebio de Roma<br />
@@ -50,17 +45,17 @@ Ellos mismos cuentan cómo ustedes me han recibido y cómo se convirtieron a Dio
 y esperar a su Hijo, que vendrá desde el cielo: Jesús, a quien él resucitó y que nos libra de la ira venidera.<br />
 
 ##########
-Salmo <font dir="ltr">149(148),1-2.3-4.5-6a.9b.</font>@@@@@Canten al Señor un canto nuevo,<br /><br />
+Salmo <font dir="ltr">149(148),1-2.3-4.5-6a.9b.</font>@@@@@Canten al Señor un canto nuevo,<br /><br />
 resuene su alabanza en la asamblea de los fieles;<br /><br />
-que Israel se alegre por su Creador<br /><br />
+que Israel se alegre por su Creador<br /><br />
 y los hijos de Sión se regocijen por su Rey.<br /><br />
 <br /><br />
-Celebren su Nombre con danzas,<br /><br />
+Celebren su Nombre con danzas,<br /><br />
 cántenle con el tambor y la cítara,<br /><br />
-porque el Señor tiene predilección por su pueblo<br /><br />
+porque el Señor tiene predilección por su pueblo<br /><br />
 y corona con el triunfo a los humildes.<br /><br />
 <br /><br />
-Que los fieles se alegren por su gloria<br /><br />
+Que los fieles se alegren por su gloria<br /><br />
 y canten jubilosos en sus fiestas.<br /><br />
 Glorifiquen a Dios con sus gargantas;<br /><br />
 ésta es la victoria de todos sus fieles.<br />

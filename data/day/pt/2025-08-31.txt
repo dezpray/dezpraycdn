@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. Raimundo Nonato, presbítero, +1240<br />
+S. Raimundo Nonato, presbítero, +1240<br />
                 Santo Aristides, filósofo, séc. II<br />
     
 ##########
@@ -18,19 +13,19 @@ A desgraça do soberbo não tem cura, porque a árvore da maldade criou nele ra�
 O coração do sábio compreende as máximas do sábio, e o ouvido atento alegra-se com a sabedoria.<br />
 
 ##########
-Livro dos Salmos <font dir="ltr">68(67),4-5.6-7.10-11.</font>@@@@@Os justos alegram-se na presença de Deus, <br /><br />
+Livro dos Salmos <font dir="ltr">68(67),4-5.6-7.10-11.</font>@@@@@Os justos alegram-se na presença de Deus, <br /><br />
 exultam e transbordam de alegria.<br /><br />
-Cantai a Deus, entoai um cântico ao seu nome; <br /><br />
+Cantai a Deus, entoai um cântico ao seu nome; <br /><br />
 o seu nome é Senhor: exultai na sua presença.<br /><br />
 <br /><br />
-Pai dos órfãos e defensor das viúvas, <br /><br />
+Pai dos órfãos e defensor das viúvas, <br /><br />
 é Deus na sua morada santa.<br /><br />
-Aos abandonados Deus prepara uma casa,<br /><br />
+Aos abandonados Deus prepara uma casa,<br /><br />
 conduz os cativos à liberdade.<br /><br />
 <br /><br />
-Derramastes, ó Deus, uma chuva de bênçãos, <br /><br />
+Derramastes, ó Deus, uma chuva de bênçãos, <br /><br />
 restaurastes a vossa herança enfraquecida.<br /><br />
-A vossa grei estabeleceu-se numa terra <br /><br />
+A vossa grei estabeleceu-se numa terra <br /><br />
 que a vossa bondade, ó Deus, preparara ao oprimido.<br />
 
 ##########

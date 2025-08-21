@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. Pio X, Papa (257°) dal 1903 al 1914 - memoria -<br />
+S. Pio X, Papa (257°) dal 1903 al 1914 - memoria -<br />
                 B. Wladyslaw Findysz, sacerdote e martire (1907-1964)<br />
                 S. Giovanni di Montemarano, vescovo († 1094)<br />
                 SS. Agatonico, Zotico e compagni, martiri († sec. III)<br />
@@ -39,23 +34,23 @@ Egli le rispose: &quot;Và!&quot;, e la lasciò andare per due mesi. Essa se ne 
 Alla fine dei due mesi tornò dal padre ed egli fece di lei quello che aveva promesso con voto. Essa non aveva conosciuto uomo; di qui venne in Israele questa usanza:<br />
 
 ##########
-Salmi <font dir="ltr">40(39),5.7-8a.8b-9.10.</font>@@@@@Beato l&#039;uomo che spera nel Signore <br /><br />
-e non si mette dalla parte dei superbi, <br /><br />
+Salmi <font dir="ltr">40(39),5.7-8a.8b-9.10.</font>@@@@@Beato l&#039;uomo che spera nel Signore <br /><br />
+e non si mette dalla parte dei superbi, <br /><br />
 né si volge a chi segue la menzogna.<br /><br />
-Sacrificio e offerta non gradisci, <br /><br />
+Sacrificio e offerta non gradisci, <br /><br />
 <br /><br />
-gli orecchi mi hai aperto. <br /><br />
+gli orecchi mi hai aperto. <br /><br />
 Non hai chiesto olocausto e vittima per la colpa.<br /><br />
 Allora ho detto: «Ecco, io vengo.<br /><br />
 Sul rotolo del libro di me è scritto,<br /><br />
 <br /><br />
-di compiere il tuo volere. <br /><br />
-Mio Dio, questo io desidero, <br /><br />
+di compiere il tuo volere. <br /><br />
+Mio Dio, questo io desidero, <br /><br />
 la tua legge è nel profondo del mio cuore».<br /><br />
-Ho annunziato la tua giustizia <br /><br />
+Ho annunziato la tua giustizia <br /><br />
 <br /><br />
-nella grande assemblea; <br /><br />
-vedi, non tengo chiuse le labbra, <br /><br />
+nella grande assemblea; <br /><br />
+vedi, non tengo chiuse le labbra, <br /><br />
 Signore, tu lo sai.<br />
 
 ##########

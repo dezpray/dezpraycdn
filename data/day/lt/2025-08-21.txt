@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Šv. Pijus X, popiežius († 1914)<br />
+Šv. Pijus X, popiežius († 1914)<br />
                 Pal. Vladislovas Findyszas, kunigas ir kankinys († 1964)<br />
                 Pal. Raimundas Peiro Victori, kunigas OP ir kankinys († 1936)<br />
                 Šv. Agatonikas, Zotikas ir kiti kankiniai († IV a.)<br />

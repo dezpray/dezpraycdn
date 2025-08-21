@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Św. Róża z Limy<br />
+Św. Róża z Limy<br />
                 Bł. Wiktor, biskup (+ V w.)<br />
                 Św. Zacheusz, biskup Jerozolimy (+ II w.)<br />
                 Św. Ascelina, dziewica, zakonnica (+ 1195)<br />
@@ -33,20 +28,20 @@ Wzięła Noemi dziecko i położyła je na swym łonie. Ona też je wychowywała
 Sąsiadki nadały mu imię. Mówiły: «Narodził się syn dla Noemi», nadały mu imię Obed. On to jest ojcem Jessego, ojca Dawida.<br />
 
 ##########
-Księga Psalmów <font dir="ltr">128(127),1-2.3.4.5.</font>@@@@@Szczęśliwy człowiek, który służy Panu <br /><br />
+Księga Psalmów <font dir="ltr">128(127),1-2.3.4.5.</font>@@@@@Szczęśliwy człowiek, który służy Panu <br /><br />
 i chodzi Jego drogami.<br /><br />
-Będziesz spożywał owoc pracy rąk swoich, <br /><br />
+Będziesz spożywał owoc pracy rąk swoich, <br /><br />
 szczęście osiągniesz i dobrze ci będzie.<br /><br />
 <br /><br />
-Małżonka twoja jak płodny szczep winny <br /><br />
-w zaciszu twego domu. <br /><br />
-Synowie twoi jak oliwne gałązki <br /><br />
+Małżonka twoja jak płodny szczep winny <br /><br />
+w zaciszu twego domu. <br /><br />
+Synowie twoi jak oliwne gałązki <br /><br />
 dokoła twego stołu.<br /><br />
 <br /><br />
-Tak będzie błogosławiony człowiek, <br /><br />
+Tak będzie błogosławiony człowiek, <br /><br />
 który służy Panu.<br /><br />
-Niech cię z Syjonu Pan błogosławi  <br /><br />
-i obyś oglądał pomyślność Jeruzalem <br /><br />
+Niech cię z Syjonu Pan błogosławi  <br /><br />
+i obyś oglądał pomyślność Jeruzalem <br /><br />
 przez wszystkie dni twego życia.<br />
 
 ##########

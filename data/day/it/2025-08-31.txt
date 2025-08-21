@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. Raimondo Nonnato, religioso O.M.D. (1200-1240)<br />
+S. Raimondo Nonnato, religioso O.M.D. (1200-1240)<br />
                 B. Pere (Pietro) Tarrés i Claret, dottore e sac. (1905-1950)<br />
                 BB. Edmigio, Amalio, Valerio Bernardo, F.S.C. e martiri<br />
                 SS. Abbondio e Felice, vescovi di Como<br />
@@ -26,22 +21,22 @@ Una mente saggia medita le parabole, un orecchio attento è quanto desidera il s
 L&#039;acqua spegne un fuoco acceso, l&#039;elemosina espia i peccati.<br />
 
 ##########
-Salmi <font dir="ltr">68(67),4-5.6-7.10-11.</font>@@@@@I giusti si rallegrino, <br /><br />
-esultino davanti a Dio <br /><br />
+Salmi <font dir="ltr">68(67),4-5.6-7.10-11.</font>@@@@@I giusti si rallegrino, <br /><br />
+esultino davanti a Dio <br /><br />
 e cantino di gioia.<br /><br />
 <br /><br />
-Cantate a Dio, inneggiate al suo nome, <br /><br />
-spianate la strada a chi cavalca le nubi: <br /><br />
+Cantate a Dio, inneggiate al suo nome, <br /><br />
+spianate la strada a chi cavalca le nubi: <br /><br />
 &quot;Signore&quot; è il suo nome, gioite davanti a lui.<br /><br />
 <br /><br />
-Padre degli orfani e difensore delle vedove <br /><br />
+Padre degli orfani e difensore delle vedove <br /><br />
 è Dio nella sua santa dimora.<br /><br />
-Ai derelitti Dio fa abitare una casa, <br /><br />
+Ai derelitti Dio fa abitare una casa, <br /><br />
 fa uscire con gioia i prigionieri;<br /><br />
 <br /><br />
-Pioggia abbondante riversavi, o Dio, <br /><br />
+Pioggia abbondante riversavi, o Dio, <br /><br />
 rinvigorivi la tua eredità esausta.<br /><br />
-E il tuo popolo abitò il paese <br /><br />
+E il tuo popolo abitò il paese <br /><br />
 che nel tuo amore, o Dio, preparasti al misero.<br />
 
 ##########

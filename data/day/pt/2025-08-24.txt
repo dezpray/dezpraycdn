@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            São Bartolomeu, apóstolo<br />
+São Bartolomeu, apóstolo<br />
     
 ##########
 @@@@@
@@ -16,10 +11,10 @@ De todas as nações, como oferenda ao Senhor, eles hão de reconduzir todos os 
 Também escolherei alguns deles para sacerdotes e levitas».<br />
 
 ##########
-Livro dos Salmos <font dir="ltr">117(116),1.2.</font>@@@@@Louvai o Senhor, todas as nações,<br /><br />
+Livro dos Salmos <font dir="ltr">117(116),1.2.</font>@@@@@Louvai o Senhor, todas as nações,<br /><br />
 aclamai-O, todos os povos.<br /><br />
 <br /><br />
-É firme a sua misericórdia para connosco,<br /><br />
+É firme a sua misericórdia para connosco,<br /><br />
 a fidelidade do Senhor permanece para sempre.<br />
 
 ##########

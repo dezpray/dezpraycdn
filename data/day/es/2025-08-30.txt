@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Beato Alfredo Ildefonso Schuster<br />
+Beato Alfredo Ildefonso Schuster<br />
                 Beata María de los Ángeles Ginard Marti<br />
                 Beato Esteban Nehmé<br />
                 Beato Mayorga<br />

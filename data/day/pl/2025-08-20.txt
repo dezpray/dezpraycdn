@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Św. Bernard z Clairvaux<br />
+Św. Bernard z Clairvaux<br />
                 Św. Filibert, opat (+ 685)<br />
                 Św. Samuel, prorok<br />
                 Św. Lucjusz, senator, męczennik (+ IV w.)<br />
@@ -29,19 +24,19 @@ Wówczas rzekły wszystkie drzewa do krzewu cierniowego: Chodź ty i króluj nad
 Odpowiedział krzew cierniowy drzewom: Jeśli naprawdę chcecie mnie namaścić na króla, chodźcie i odpoczywajcie w moim cieniu! A jeśli nie, niech ogień wyjdzie z krzewu cierniowego i spali cedry libańskie».<br />
 
 ##########
-Księga Psalmów <font dir="ltr">21(20),2-3.4-5.6-7.</font>@@@@@Panie, król się weseli z Twojej potęgi <br /><br />
+Księga Psalmów <font dir="ltr">21(20),2-3.4-5.6-7.</font>@@@@@Panie, król się weseli z Twojej potęgi <br /><br />
 i z Twojej pomocy tak bardzo się cieszy.<br /><br />
-Spełniłeś pragnienie jego serca <br /><br />
+Spełniłeś pragnienie jego serca <br /><br />
 i nie odmówiłeś błaganiom warg jego.<br /><br />
 <br /><br />
-Pomyślne błogosławieństwo wcześniej zesłałeś na niego, <br /><br />
+Pomyślne błogosławieństwo wcześniej zesłałeś na niego, <br /><br />
 szczerozłotą koronę włożyłeś mu na głowę.<br /><br />
-Prosił Ciebie o życie, <br /><br />
+Prosił Ciebie o życie, <br /><br />
 Ty go obdarzyłeś długimi dniami na wieki i na zawsze.<br /><br />
 <br /><br />
-Wielka jest jego chwała dzięki Twej pomocy, <br /><br />
+Wielka jest jego chwała dzięki Twej pomocy, <br /><br />
 ozdobiłeś go dostojeństwem i blaskiem.<br /><br />
-Gdyż błogosławieństwem uczyniłeś go na wieki, <br /><br />
+Gdyż błogosławieństwem uczyniłeś go na wieki, <br /><br />
 napełniłeś go radością Twojej obecności.<br />
 
 ##########

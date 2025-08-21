@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Santa Mónica de Tagaste<br />
+Santa Mónica de Tagaste<br />
                 San Guarino de Sión<br />
                 Beato Rogerio Cadwalador<br />
                 San Poemeno de Tebaida<br />
@@ -41,17 +36,17 @@ instándoles a que lleven una vida digna del Dios que los llamó a su Reino y a 
 Nosotros, por nuestra parte, no cesamos de dar gracias a Dios, porque cuando recibieron la Palabra que les predicamos, ustedes la aceptaron no como palabra humana, sino como lo que es realmente, como Palabra de Dios, que actúa en ustedes, los que creen.<br />
 
 ##########
-Salmo <font dir="ltr">139(138),7-8.9-10.11-12ab.</font>@@@@@¿A dónde iré para estar lejos de tu espíritu?<br /><br />
+Salmo <font dir="ltr">139(138),7-8.9-10.11-12ab.</font>@@@@@¿A dónde iré para estar lejos de tu espíritu?<br /><br />
 ¿A dónde huiré de tu presencia?<br /><br />
-Si subo al cielo, allí estás tú;<br /><br />
+Si subo al cielo, allí estás tú;<br /><br />
 si me tiendo en el Abismo, estás presente.<br /><br />
 <br /><br />
-Si tomara las alas de la aurora<br /><br />
+Si tomara las alas de la aurora<br /><br />
 y fuera a habitar en los confines del mar,<br /><br />
-también allí me llevaría tu mano<br /><br />
+también allí me llevaría tu mano<br /><br />
 y me sostendría tu derecha.<br /><br />
 <br /><br />
-Si dijera: “¡Que me cubran las tinieblas<br /><br />
+Si dijera: “¡Que me cubran las tinieblas<br /><br />
 y la luz sea como la noche a mi alrededor!”,<br /><br />
 las tinieblas no serían oscuras para ti<br /><br />
 y la noche sería clara como el día.<br />

@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Santa Rosa de Lima<br />
+Santa Rosa de Lima<br />
                 San Restituto Antioquía<br />
                 San Sidonio Apolinar<br />
                 San Víctor África<br />
@@ -48,20 +43,20 @@ Noemí tomó al niño, lo puso sobre su regazo y se encargó de criarlo.<br /><b
 Las vecinas le dieron su nombre, diciendo: &quot;Le ha nacido un hijo a Noemí&quot;, y lo llamaron Obed. Este fue el padre de Jesé, el padre de David.<br />
 
 ##########
-Salmo <font dir="ltr">128(127),1-2.3.4.5.</font>@@@@@¡Feliz el que teme al Señor<br /><br />
+Salmo <font dir="ltr">128(127),1-2.3.4.5.</font>@@@@@¡Feliz el que teme al Señor<br /><br />
 y sigue sus caminos!<br /><br />
-Comerás del fruto de tu trabajo,<br /><br />
+Comerás del fruto de tu trabajo,<br /><br />
 serás feliz y todo te irá bien.<br /><br />
 <br /><br />
-Tu esposa será como una vid fecunda<br /><br />
-en el seno de tu hogar;<br /><br />
-tus hijos, como retoños de olivo<br /><br />
+Tu esposa será como una vid fecunda<br /><br />
+en el seno de tu hogar;<br /><br />
+tus hijos, como retoños de olivo<br /><br />
 alrededor de tu mesa.<br /><br />
 <br /><br />
-¡Así será bendecido<br /><br />
+¡Así será bendecido<br /><br />
 el hombre que teme al Señor!<br /><br />
-¡Que el Señor te bendiga desde Sión<br /><br />
-todos los días de tu vida:<br /><br />
+¡Que el Señor te bendiga desde Sión<br /><br />
+todos los días de tu vida:<br /><br />
 <br /><br />
 que contemples la paz de Jerusalén.<br />
 

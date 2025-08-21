@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. Bartolomeo, apostolo e martire (festa)<br />
+S. Bartolomeo, apostolo e martire (festa)<br />
                 B. Miroslav Bulešić, sacerdote croato e martire (1920-1947)<br />
                 B. Félix González Tejedor, sac. S.D.B. e martire (1888-1936)<br />
                 S. Taziano, martire in Asia Minore († sec. inc.)<br />

@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Santa Mónica, viúva, mãe de Santo Agostinho, +387<br />
+Santa Mónica, viúva, mãe de Santo Agostinho, +387<br />
     
 ##########
 @@@@@

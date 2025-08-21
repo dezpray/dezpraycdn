@@ -1,16 +1,11 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            St. Zephyrinus, Pope and Martyr († 217)<br />
+St. Zephyrinus, Pope and Martyr († 217)<br />
     
 ##########
 <font style="align-text:left" dir="ltr">"You have neglected the weightier things of the Law: judgment and mercy and fidelity"</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-         If you want to make your way along the road of true religion, doing the right thing with discretion and profit, then you need to be austere and hard with yourself but always appear happy and open with others, striving in your own heart to walk along the heights of uprightness while knowing how to stoop kindly towards those who are weak. In short, you should moderate the rigors of justice before the judgment of your conscience in such a way that you are not hard on sinners but open to forgiveness and indulgent…<br /><br />
-<br /><br />
-	Consider your own sin to be dangerous and mortal; that of others, the weakness of the human condition. The fault that, in your own case, you consider worthy of severe correction, think of as only deserving a light tap of the stick in others. Don’t be more just than the just! Fear to sin but don’t hesitate to forgive the sinner. True justice is not that which throws the souls of the brethren into the pit of despair… How dangerous is the fire that, in burning up the bushes, threatens to consume the whole house with the fierceness of its flames. No, someone who willingly picks their way through other people’s failings will not avoid sin since, even if moved by the zeal for justice, sooner or later that person will fall into disparagement.<br /><br />
-<br /><br />
+         If you want to make your way along the road of true religion, doing the right thing with discretion and profit, then you need to be austere and hard with yourself but always appear happy and open with others, striving in your own heart to walk along the heights of uprightness while knowing how to stoop kindly towards those who are weak. In short, you should moderate the rigors of justice before the judgment of your conscience in such a way that you are not hard on sinners but open to forgiveness and indulgent…<br /><br />
+<br /><br />
+	Consider your own sin to be dangerous and mortal; that of others, the weakness of the human condition. The fault that, in your own case, you consider worthy of severe correction, think of as only deserving a light tap of the stick in others. Don’t be more just than the just! Fear to sin but don’t hesitate to forgive the sinner. True justice is not that which throws the souls of the brethren into the pit of despair… How dangerous is the fire that, in burning up the bushes, threatens to consume the whole house with the fierceness of its flames. No, someone who willingly picks their way through other people’s failings will not avoid sin since, even if moved by the zeal for justice, sooner or later that person will fall into disparagement.<br /><br />
+<br /><br />
 	Clearly, if our own life didn’t seem so successful to us, then that of others wouldn’t seem to us so shocking. And if, as should be the case, we were severe as judges of ourselves, the faults of others would not find in us such exacting censors.<br />
 </font><br />
 
@@ -30,16 +25,16 @@ With such affection for you, we were determined to share with you not only the g
 
 ##########
 Psalms <font dir="ltr">139(138),1-3.4-6.</font>@@@@@O LORD, you have probed me and you know me;<br /><br />
-you know when I sit and when I stand; <br /><br />
+you know when I sit and when I stand; <br /><br />
 you understand my thoughts from afar.<br /><br />
-My journeys and my rest you scrutinize, <br /><br />
+My journeys and my rest you scrutinize, <br /><br />
 with all my ways you are familiar.<br /><br />
 <br /><br />
-Even before a word is on my tongue, <br /><br />
+Even before a word is on my tongue, <br /><br />
 behold, O LORD, you know the whole of it.<br /><br />
-Behind me and before, you hem me in <br /><br />
+Behind me and before, you hem me in <br /><br />
 and rest your hand upon me.<br /><br />
-Such knowledge is too wonderful for me; <br /><br />
+Such knowledge is too wonderful for me; <br /><br />
 too lofty for me to attain.<br />
 
 

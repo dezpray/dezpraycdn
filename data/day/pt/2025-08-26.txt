@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Santa Teresa de Jesus Jornet e Ibars, virgem, fundadora, +1897<br />
+Santa Teresa de Jesus Jornet e Ibars, virgem, fundadora, +1897<br />
                 Santa Micaela do Santíssimo Sacramento, religiosa, fundadora, +1865<br />
                 Beato Tiago Retouret, presbítero e mártir, +1794<br />
                 Beato Domingos da Mãe de Deus, presbítero, +1849<br />
@@ -25,17 +20,17 @@ assim nós também, pela viva afeição que vos dedicamos, desejaríamos partilh
 
 ##########
 Livro dos Salmos <font dir="ltr">139(138),1-3.4-6.</font>@@@@@Senhor, Vós conheceis o íntimo do meu ser:<br /><br />
-sabeis quando me sento e quando me levanto.<br /><br />
+sabeis quando me sento e quando me levanto.<br /><br />
 De longe penetrais o meu pensamento:<br /><br />
-Vós me vedes quando caminho e quando descanso, <br /><br />
+Vós me vedes quando caminho e quando descanso, <br /><br />
 <br /><br />
 observais todos os meus passos.<br /><br />
-Ainda a palavra me não chegou à língua <br /><br />
+Ainda a palavra me não chegou à língua <br /><br />
 e já, Senhor, a conheceis perfeitamente.<br /><br />
-Por todos os lados me envolveis <br /><br />
+Por todos os lados me envolveis <br /><br />
 <br /><br />
 e sobre mim pondes a vossa mão.<br /><br />
-Prodigiosa ciência, que não posso compreender, <br /><br />
+Prodigiosa ciência, que não posso compreender, <br /><br />
 tão sublime que a não posso alcançar!<br />
 
 ##########

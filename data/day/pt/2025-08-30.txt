@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Beato Eustáquio van Lieshout, presbítero, +1943<br />
+Beato Eustáquio van Lieshout, presbítero, +1943<br />
                 Santa Tecla, virgem, mártir, séc. I<br />
                 Santa Joana Jugan, religiosa, +1879<br />
                 Santos Félix, presbítero, e Adauto, mártires, +304<br />
@@ -21,19 +16,19 @@ E assim fazeis com todos os irmãos na Macedónia. Nós vos exortamos, irmãos, 
 tendo como ponto de honra viver em paz, ocupando-vos dos vossos assuntos e trabalhando com as vossas próprias mãos, como vos ordenámos.<br />
 
 ##########
-Livro dos Salmos <font dir="ltr">98(97),1.7-8.9.</font>@@@@@Cantai ao Senhor um cântico novo<br /><br />
-pelas maravilhas que Ele operou. <br /><br />
-A sua mão e o seu santo braço<br /><br />
+Livro dos Salmos <font dir="ltr">98(97),1.7-8.9.</font>@@@@@Cantai ao Senhor um cântico novo<br /><br />
+pelas maravilhas que Ele operou. <br /><br />
+A sua mão e o seu santo braço<br /><br />
 Lhe deram a vitória.<br /><br />
 <br /><br />
-Ressoe o mar e tudo o que ele encerra,<br /><br />
+Ressoe o mar e tudo o que ele encerra,<br /><br />
 a Terra inteira e tudo o que nela habita;<br /><br />
-aplaudam os rios<br /><br />
-e as montanhas exultem de alegria.<br /><br />
+aplaudam os rios<br /><br />
+e as montanhas exultem de alegria.<br /><br />
 <br /><br />
 Diante do Senhor que vem,<br /><br />
-que vem para julgar a Terra:<br /><br />
-julgará o mundo com justiça<br /><br />
+que vem para julgar a Terra:<br /><br />
+julgará o mundo com justiça<br /><br />
 e os povos com equidade.<br />
 
 ##########

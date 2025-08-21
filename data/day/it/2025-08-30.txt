@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            BB. Diego Ventaja e Manuel Medina, martiri († 1936)<br />
+BB. Diego Ventaja e Manuel Medina, martiri († 1936)<br />
                 B. Alfredo Ildefonso Schuster, cardinale (1880-1954)<br />
                 B. Eustáquio Van Lieshout, missionario olandese (1890-1943)<br />
                 B. María de los Ángeles Martí, vergine e martire (1894-1936)<br />
@@ -33,23 +28,23 @@ e questo voi fate verso tutti i fratelli dell&#039;intera Macedonia. Ma vi esort
 e a farvi un punto di onore: vivere in pace, attendere alle cose vostre e lavorare con le vostre mani, come vi abbiamo ordinato,<br />
 
 ##########
-Salmi <font dir="ltr">98(97),1.7-8.9.</font>@@@@@Cantate al Signore un canto nuovo, <br /><br />
-perché ha compiuto prodigi. <br /><br />
-Gli ha dato vittoria la sua destra <br /><br />
+Salmi <font dir="ltr">98(97),1.7-8.9.</font>@@@@@Cantate al Signore un canto nuovo, <br /><br />
+perché ha compiuto prodigi. <br /><br />
+Gli ha dato vittoria la sua destra <br /><br />
 e il suo braccio santo.<br /><br />
 <br /><br />
-Frema il mare e quanto racchiude, <br /><br />
+Frema il mare e quanto racchiude, <br /><br />
 il mondo e i suoi abitanti.<br /><br />
-I fiumi battano le mani, <br /><br />
+I fiumi battano le mani, <br /><br />
 esultino insieme le montagne.<br /><br />
 <br /><br />
-Esultino davanti al Signore che viene, <br /><br />
-che viene a giudicare la terra. <br /><br />
-Giudicherà il mondo con giustizia <br /><br />
+Esultino davanti al Signore che viene, <br /><br />
+che viene a giudicare la terra. <br /><br />
+Giudicherà il mondo con giustizia <br /><br />
 e i popoli con rettitudine.<br />
 
 ##########
-Dal Vangelo di Gesù Cristo secondo Matteo <font dir="ltr">25,14-30.</font>@@@@@In quel tempo, Gesù disse ai suoi discepoli questa parabola: <br /><br />
+Dal Vangelo di Gesù Cristo secondo Matteo <font dir="ltr">25,14-30.</font>@@@@@In quel tempo, Gesù disse ai suoi discepoli questa parabola: <br /><br />
 «Un uomo, partendo per un viaggio, chiamò i suoi servi e consegnò loro i suoi beni.<br /><br />
 A uno diede cinque talenti, a un altro due, a un altro uno, a ciascuno secondo la sua capacità, e partì.<br /><br />
 Colui che aveva ricevuto cinque talenti, andò subito a impiegarli e ne guadagnò altri cinque.<br /><br />

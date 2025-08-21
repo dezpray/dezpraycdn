@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Św. Małgorzata Ward<br />
+Św. Małgorzata Ward<br />
                 Św. Piotr z Trevi, wyznawca (+ 1050)<br />
                 Bł. Jan Juwenal Ancin, biskup (+ 1604)<br />
                 Śwśw. Feliks, kapłan, Adaukt, męczennicy (+ ok. 304)<br />
@@ -21,19 +16,19 @@ Czynicie to przecież w stosunku do wszystkich braci w całej Macedonii.<br /><b
 Zachęcam was jedynie, bracia, abyście coraz bardziej się doskonalili i starali zachować spokój, spełniać własne obowiązki i pracować własnymi rękami, jak to wam przykazaliśmy.<br />
 
 ##########
-Księga Psalmów <font dir="ltr">98(97),1.7-8.9.</font>@@@@@Śpiewajcie Panu pieśń nową, <br /><br />
-albowiem uczynił cuda. <br /><br />
-Zwycięstwo Mu zgotowała Jego prawica <br /><br />
+Księga Psalmów <font dir="ltr">98(97),1.7-8.9.</font>@@@@@Śpiewajcie Panu pieśń nową, <br /><br />
+albowiem uczynił cuda. <br /><br />
+Zwycięstwo Mu zgotowała Jego prawica <br /><br />
 i święte ramię Jego.<br /><br />
 <br /><br />
-Niech szumi morze i wszystko, co w nim żyje, <br /><br />
+Niech szumi morze i wszystko, co w nim żyje, <br /><br />
 krąg ziemi i jego mieszkańcy.<br /><br />
-Rzeki niech klaszczą w dłonie, <br /><br />
+Rzeki niech klaszczą w dłonie, <br /><br />
 góry niech razem wołają z radości.<br /><br />
 <br /><br />
-W obliczu Pana, który nadchodzi,  <br /><br />
-aby osądzić ziemię. <br /><br />
-On będzie sądził świat sprawiedliwie <br /><br />
+W obliczu Pana, który nadchodzi,  <br /><br />
+aby osądzić ziemię. <br /><br />
+On będzie sądził świat sprawiedliwie <br /><br />
 i ludy według słuszności.<br />
 
 ##########

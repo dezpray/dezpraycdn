@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            H. Hippolytus van Porto (gedachtenis)<br />
+H. Hippolytus van Porto (gedachtenis)<br />
                 H. Timotheus van Rome (gedachtenis)<br />
                 H. Sigfridus van Wearmouth (gedachtenis)<br />
                 H. Symphorianus van Autun (gedachtenis)<br />

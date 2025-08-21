@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Bł. Maria od Jezusa Ukrzyżowanego Baouardy<br />
+Bł. Maria od Jezusa Ukrzyżowanego Baouardy<br />
                 Św. Zefiryn, biskup, męczennik (+ 217)<br />
                 Św. Teresa od Jezusa Jornet e Ibaris, dziewica, zakonnica (+ 1897)<br />
                 Św. Aleksander z Bergamo, męczennik (+ III/IV w.)<br />
@@ -24,23 +19,23 @@ On będzie rozjemcą pomiędzy ludami i wyda wyroki dla licznych narodów. Wtedy
 Chodźcie, domu Jakuba, postępujmy w światłości Pańskiej!<br />
 
 ##########
-Księga Psalmów <font dir="ltr">48(47),2-3ab.9-11.13-15.</font>@@@@@Wielki jest Pan i godzien wielkiej chwały <br /><br />
+Księga Psalmów <font dir="ltr">48(47),2-3ab.9-11.13-15.</font>@@@@@Wielki jest Pan i godzien wielkiej chwały <br /><br />
 w mieście Boga naszego.<br /><br />
 Święta Jego góra, wspaniałe wzniesienie,<br /><br />
 radością jest całej ziemi.<br /><br />
 <br /><br />
-Co słyszeliśmy, to zobaczyliśmy<br /><br />
-w mieście Pana Zastępów,<br /><br />
-w mieście naszego Boga.<br /><br />
+Co słyszeliśmy, to zobaczyliśmy<br /><br />
+w mieście Pana Zastępów,<br /><br />
+w mieście naszego Boga.<br /><br />
 Bóg je umacnia na wieki.<br /><br />
 <br /><br />
-Rozważamy, Boże, łaskawość Twoją<br /><br />
+Rozważamy, Boże, łaskawość Twoją<br /><br />
 we wnętrzu Twojej świątyni.<br /><br />
-Jak imię Twe, Boże, <br /><br />
-tak i chwała Twoja sięga po krańce ziemi.<br /><br />
+Jak imię Twe, Boże, <br /><br />
+tak i chwała Twoja sięga po krańce ziemi.<br /><br />
 Prawica Twoja pełna jest sprawiedliwości.<br /><br />
 <br /><br />
-Obejdźcie dokoła Syjon, <br /><br />
+Obejdźcie dokoła Syjon, <br /><br />
 policzcie jego wieże.<br /><br />
 By opowiedzieć przyszłym pokoleniom,<br /><br />
 że Bóg jest naszym Bogiem na wieki.<br />

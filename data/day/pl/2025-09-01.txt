@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Bł. Bronisława<br />
+Bł. Bronisława<br />
                 Bł. Ghebre-Michał, kapłan, męczennik w Abisynii (+ 1855)<br />
                 Św. Lupus, biskup (+ 623)<br />
                 Św. Werena, dziewica (+ ok. 300 w.?)<br />
@@ -29,25 +24,25 @@ Potem my, żywi, tak pozostawieni, wraz z nimi będziemy porwani w powietrze, na
 Przeto wzajemnie się pocieszajcie tymi słowami.<br />
 
 ##########
-Księga Psalmów <font dir="ltr">96(95),1.3.4-5.11-12.13.</font>@@@@@Śpiewajcie Panu pieśń nową, <br /><br />
+Księga Psalmów <font dir="ltr">96(95),1.3.4-5.11-12.13.</font>@@@@@Śpiewajcie Panu pieśń nową, <br /><br />
 śpiewaj Panu, ziemio cała.<br /><br />
-Głoście Jego chwałę wśród wszystkich narodów, <br /><br />
-rozgłaszajcie Jego cuda <br /><br />
+Głoście Jego chwałę wśród wszystkich narodów, <br /><br />
+rozgłaszajcie Jego cuda <br /><br />
 <br /><br />
 pośród wszystkich ludów.<br /><br />
-Wielki jest Pan, godzien wszelkiej chwały, <br /><br />
+Wielki jest Pan, godzien wszelkiej chwały, <br /><br />
 budzi trwogę najwyższą, większą niż inni bogowie.<br /><br />
-Bo wszyscy bogowie pogan są tylko ułudą, <br /><br />
+Bo wszyscy bogowie pogan są tylko ułudą, <br /><br />
 <br /><br />
 Pan zaś stworzył niebiosa.<br /><br />
-Niech się radują niebiosa i ziemia weseli, <br /><br />
+Niech się radują niebiosa i ziemia weseli, <br /><br />
 niech szumi morze i wszystko, co je napełnia.<br /><br />
-Niech się cieszą pola i wszystko, co na nich rośnie, <br /><br />
+Niech się cieszą pola i wszystko, co na nich rośnie, <br /><br />
 <br /><br />
 niech wszystkie drzewa w lasach wykrzykują z radości.<br /><br />
-Przed obliczem Pana, który już się zbliża, <br /><br />
-który już się zbliża, by osądzić ziemię, <br /><br />
-On będzie sądził świat sprawiedliwie, <br /><br />
+Przed obliczem Pana, który już się zbliża, <br /><br />
+który już się zbliża, by osądzić ziemię, <br /><br />
+On będzie sądził świat sprawiedliwie, <br /><br />
 <br /><br />
 a ludy według swej prawdy.<br />
 

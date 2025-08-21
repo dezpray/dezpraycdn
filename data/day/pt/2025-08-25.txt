@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. Luís (IX), rei de França, +1270<br />
+S. Luís (IX), rei de França, +1270<br />
                 Beato Miguel de Carvalho, presbítero, mártir, +1624<br />
                 S. José de Calasâncio, presbítero, educador, +1648<br />
                 S. Gens, arcebispo lendário de Lisboa<br />
@@ -25,17 +20,17 @@ De facto, são eles próprios que relatam o acolhimento que tivemos junto de vó
 e esperar dos Céus o seu Filho, a quem ressuscitou dos mortos: Jesus, que nos livrará da ira que há de vir.<br />
 
 ##########
-Livro dos Salmos <font dir="ltr">149(148),1-2.3-4.5-6a.9b.</font>@@@@@Cantai ao Senhor um cântico novo, <br /><br />
+Livro dos Salmos <font dir="ltr">149(148),1-2.3-4.5-6a.9b.</font>@@@@@Cantai ao Senhor um cântico novo, <br /><br />
 cantai ao Senhor na assembleia dos santos.<br /><br />
-Alegre-se Israel em seu Criador, <br /><br />
+Alegre-se Israel em seu Criador, <br /><br />
 rejubilem os filhos de Sião em seu Rei.<br /><br />
 <br /><br />
-Louvem o seu nome com danças, <br /><br />
+Louvem o seu nome com danças, <br /><br />
 cantem ao som do tímpano e da cítara,<br /><br />
-porque o Senhor ama o seu povo, <br /><br />
+porque o Senhor ama o seu povo, <br /><br />
 coroa os humildes com a vitória.<br /><br />
 <br /><br />
-Exultem de alegria os fiéis, <br /><br />
+Exultem de alegria os fiéis, <br /><br />
 cantem jubilosos em suas casas;<br /><br />
 em sua boca os louvores de Deus.<br /><br />
 Esta é a glória de todos os seus fiéis.<br />

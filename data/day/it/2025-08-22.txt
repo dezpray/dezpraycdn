@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. Filippo Benizi, sacerdote O.S.M. (1233-1285)<br />
+S. Filippo Benizi, sacerdote O.S.M. (1233-1285)<br />
                 B. Symeon (Simeone) Lukac, vescovo e martire (1893-1964)<br />
                 S. Sinforiano, martire († sec. III/IV)<br />
                 S. Timoteo, martire a Roma († 303)<br />
@@ -32,24 +27,24 @@ Ma Rut rispose: &quot;Non insistere con me perché ti abbandoni e torni indietro
 Così Noemi tornò con Rut, la Moabita, sua nuora, venuta dalle campagne di Moab. Esse arrivarono a Betlemme quando si cominciava a mietere l&#039;orzo.<br />
 
 ##########
-Salmi <font dir="ltr">146(145),5-6.7.8-9a.9bc-10.</font>@@@@@Beato chi ha per aiuto il Dio di Giacobbe, <br /><br />
+Salmi <font dir="ltr">146(145),5-6.7.8-9a.9bc-10.</font>@@@@@Beato chi ha per aiuto il Dio di Giacobbe, <br /><br />
 chi spera nel Signore suo Dio,<br /><br />
-creatore del cielo e della terra, <br /><br />
-del mare e di quanto contiene. <br /><br />
+creatore del cielo e della terra, <br /><br />
+del mare e di quanto contiene. <br /><br />
 <br /><br />
 Egli è fedele per sempre.<br /><br />
-rende giustizia agli oppressi, <br /><br />
-dà il pane agli affamati. <br /><br />
+rende giustizia agli oppressi, <br /><br />
+dà il pane agli affamati. <br /><br />
 Il Signore libera i prigionieri,<br /><br />
 <br /><br />
-Il Signore ridona la vista ai ciechi, <br /><br />
-il Signore rialza chi è caduto, <br /><br />
+Il Signore ridona la vista ai ciechi, <br /><br />
+il Signore rialza chi è caduto, <br /><br />
 il Signore ama i giusti,<br /><br />
 il Signore protegge lo straniero.<br /><br />
 <br /><br />
 Egli sostiene l&#039;orfano e la vedova,<br /><br />
 ma sconvolge le vie degli empi.<br /><br />
-Il Signore regna per sempre, <br /><br />
+Il Signore regna per sempre, <br /><br />
 il tuo Dio, o Sion, per ogni generazione.<br />
 
 ##########

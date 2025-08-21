@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            H. Gregorius van Utrecht (gedachtenis)<br />
+H. Gregorius van Utrecht (gedachtenis)<br />
                 H. Patricia van Napels (gedachtenis)<br />
                 H. Lodewijk (gedachtenis)<br />
                 H. Jozef de Calasanz, priester (gedachtenis)<br />
@@ -11,10 +6,10 @@
     
 ##########
 <font style="align-text:left" dir="ltr">God roept ons tot vrijheid</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-      God roept de mens op om zich uit de zonde te verheffen. (...) Nog directer zal de mens zijn ellende erkennen, ook zal hij zich snel vernederen en zich overgeven aan God, wetend dat het God is aan wie hij toebehoort en die dit werk van bekering in hem doet. Hij is er zich beetje bij beetje bewust van door de voortdurende inspiratie die God hem stuurt, en als hij de werken ziet en het voordeel wat hij ervan heeft, zal hij bij zichzelf zeggen: het lijkt werkelijk wel of God niets anders te doen heeft dan zich om mij te bekommeren. Wat zijn de werken van God voor ons zoet en vol van liefde! (...) <br /><br />
-<br /><br />
-      Vanaf dit leven is God dienen, werkelijk heersen. Wanneer God de mens vrij maakt van de zonde, die hem slaaf maakt, bevrijdt Hij hem van alle slavernij en richt zijn leven in ware vrijheid in. Anders gaat de mens altijd van wens naar wens zonder ooit voldaan te zijn; hoe meer hij zou willen hebben; om te proberen zich voldaan te voelen, zal hij nooit tevreden zijn. Wie immers een verlangen heeft, wordt er door bezet; hij heeft zich verkocht aan hetgeen dat hij liefheeft; hij zoekt zijn vrijheid, en volgt zijn eigen smaak, beledigt God, en maakt zich een slaaf zonder einde.<br /><br />
-<br /><br />
+      God roept de mens op om zich uit de zonde te verheffen. (...) Nog directer zal de mens zijn ellende erkennen, ook zal hij zich snel vernederen en zich overgeven aan God, wetend dat het God is aan wie hij toebehoort en die dit werk van bekering in hem doet. Hij is er zich beetje bij beetje bewust van door de voortdurende inspiratie die God hem stuurt, en als hij de werken ziet en het voordeel wat hij ervan heeft, zal hij bij zichzelf zeggen: het lijkt werkelijk wel of God niets anders te doen heeft dan zich om mij te bekommeren. Wat zijn de werken van God voor ons zoet en vol van liefde! (...) <br /><br />
+<br /><br />
+      Vanaf dit leven is God dienen, werkelijk heersen. Wanneer God de mens vrij maakt van de zonde, die hem slaaf maakt, bevrijdt Hij hem van alle slavernij en richt zijn leven in ware vrijheid in. Anders gaat de mens altijd van wens naar wens zonder ooit voldaan te zijn; hoe meer hij zou willen hebben; om te proberen zich voldaan te voelen, zal hij nooit tevreden zijn. Wie immers een verlangen heeft, wordt er door bezet; hij heeft zich verkocht aan hetgeen dat hij liefheeft; hij zoekt zijn vrijheid, en volgt zijn eigen smaak, beledigt God, en maakt zich een slaaf zonder einde.<br /><br />
+<br /><br />
       Beschouw dus de kracht en de macht van onze vrije wil die twee dingen inhoudt die zo tegengesteld zijn aan elkaar: het leven of de eeuwige dood. Het kan door geen enkel schepsel ontkracht worden als Hij het niet wil; daarom voor zover het in je macht ligt, denk goed na en let op hetgeen je doet.<br />
 </font><br />
 
@@ -31,17 +26,17 @@ Zij vertellen zelf hoe wij bij u zijn gekomen en hoe wij door u zijn ontvangen: 
 en uit de hemel zijn Zoon te verwachten, die Hij uit de dood heeft opgewekt, Jezus, die ons redt van de komende toorn.<br />
 
 ##########
-Psalmen <font dir="ltr">149(148),1-2.3-4.5-6a.9b.</font>@@@@@Zingt voor de Heer een nieuw gezang, <br /><br />
+Psalmen <font dir="ltr">149(148),1-2.3-4.5-6a.9b.</font>@@@@@Zingt voor de Heer een nieuw gezang, <br /><br />
 zijn lof weerklinke te midden der zijnen<br /><br />
-Israël juiche zijn Schepper toe,<br /><br />
+Israël juiche zijn Schepper toe,<br /><br />
 Laat Sions zonen hun Koning begroeten.<br /><br />
 <br /><br />
-Looft zijn Naam in een heilige dans<br /><br />
+Looft zijn Naam in een heilige dans<br /><br />
 bespeelt voor Hem harp en citer.<br /><br />
-Want onze Heer, die zijn volk bemint,<br /><br />
+Want onze Heer, die zijn volk bemint,<br /><br />
 omkranst de verdrukten met zegekransen.<br /><br />
 <br /><br />
-Jubelt dus heiligen, om uw triomf,<br /><br />
+Jubelt dus heiligen, om uw triomf,<br /><br />
 viert feest in uw legerplaatsen.<br /><br />
 Gaat met het lied van God in uw mond,<br /><br />
 een taak die zijn vromen tot eer strekt.<br />

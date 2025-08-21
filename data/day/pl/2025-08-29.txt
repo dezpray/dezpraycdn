@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Śwśw. Andrzej, kapłan, Hipacy, biskup, męczennicy (+ ok. 740)<br />
+Śwśw. Andrzej, kapłan, Hipacy, biskup, męczennicy (+ ok. 740)<br />
                 Bł. Michał Ghebr, męczennik (+ 1855)<br />
                 Św. Mederyk, kapłan (+ ok.700)<br />
                 Św. Sabina, męczennica (w. II?)<br />

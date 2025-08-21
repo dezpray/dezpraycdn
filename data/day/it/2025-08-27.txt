@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            S. Monica, madre di S. Agostino (331-387) - memoria -<br />
+S. Monica, madre di S. Agostino (331-387) - memoria -<br />
                 B. María Pilar Izquierdo Albero, vergine, fondatrice (1906-1945)<br />
                 B. Domenico Barberi, sacerdote C.P. (1792-1849)<br />
                 B. Angelo da Foligno, sacerdote O.E.S.A. (1226-1312)<br />
@@ -37,17 +32,17 @@ incoraggiandovi e scongiurandovi a comportarvi in maniera degna di quel Dio che 
 Proprio per questo anche noi ringraziamo Dio continuamente, perché, avendo ricevuto da noi la parola divina della predicazione, l&#039;avete accolta non quale parola di uomini, ma, come è veramente, quale parola di Dio, che opera in voi che credete.<br />
 
 ##########
-Salmi <font dir="ltr">139(138),7-8.9-10.11-12ab.</font>@@@@@Dove andare lontano dal tuo spirito, <br /><br />
+Salmi <font dir="ltr">139(138),7-8.9-10.11-12ab.</font>@@@@@Dove andare lontano dal tuo spirito, <br /><br />
 dove fuggire dalla tua presenza?<br /><br />
-Se salgo in cielo, là tu sei, <br /><br />
+Se salgo in cielo, là tu sei, <br /><br />
 se scendo negli inferi, eccoti.<br /><br />
 <br /><br />
-Se prendo le ali dell&#039;aurora <br /><br />
+Se prendo le ali dell&#039;aurora <br /><br />
 per abitare all&#039;estremità del mare,<br /><br />
-anche là mi guida la tua mano <br /><br />
+anche là mi guida la tua mano <br /><br />
 e mi afferra la tua destra.<br /><br />
 <br /><br />
-Se dico: &quot;Almeno l&#039;oscurità mi copra <br /><br />
+Se dico: &quot;Almeno l&#039;oscurità mi copra <br /><br />
 e intorno a me sia la notte&quot;;<br /><br />
 nemmeno le tenebre per te sono oscure<br /><br />
 e la notte è chiara come il giorno.<br />

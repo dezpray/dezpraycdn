@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Santa Rosa de Lima, virgem, padroeira da América Latina, +1617<br />
+Santa Rosa de Lima, virgem, padroeira da América Latina, +1617<br />
                 Beato Bernardo de Offida, religioso capuchinho, +1694<br />
     
 ##########

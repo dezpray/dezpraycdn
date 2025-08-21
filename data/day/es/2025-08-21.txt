@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            San Pío X<br />
+San Pío X<br />
                 San Euprepio<br />
                 Santa Ciriaca<br />
                 San Cuadrato Verona<br />
@@ -20,10 +15,10 @@
     
 ##########
 <font style="align-text:left" dir="ltr">¿Cómo has entrado sin la vestimenta de bodas?</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-           3. Se narra en los Evangelios que alguien fue a una boda, pero entró con una vestimenta inapropiada. Se acomodó y comió, ya que el esposo lo había permitido. Sin embargo, cuando vio la vestimenta blanca de los otros invitados, tendría que haberse vestido del mismo color. <br /><br />
-<br /><br />
-             A pesar de todo, se servía los mismos platos que los demás, pero se diferenciaba por su vestimenta e intención. El esposo, aunque magnánimo, era hombre con discernimiento. Al dar una vuelta mirando a cada uno de los comensales, ponía su atención no en el hecho de que comían sino en el modo de comportarse. Al ver a un extraño vestido con un traje que no era para una fiesta de bodas, le dijo: «Amigo, ¿cómo has entrado aquí?» (Mt 22,12) ¿Con qué color de vestimenta? ¿Con qué conciencia? Entiendo que el portero no te lo haya prohibido por la liberalidad del intendente. Entiendo también que ignorabas con qué vestimenta era preciso entrar al banquete. Pero, una vez dentro, viste las vestimentas resplandecientes de los comensales. ¿No debías haber aprendido una lección de tus observaciones? ¿No debiste entrar del modo honesto adecuado para poder salir también adecuadamente? Pero entraste de manera intempestiva y eres también intempestivamente expulsado. (…)<br /><br />
-<br /><br />
+           3. Se narra en los Evangelios que alguien fue a una boda, pero entró con una vestimenta inapropiada. Se acomodó y comió, ya que el esposo lo había permitido. Sin embargo, cuando vio la vestimenta blanca de los otros invitados, tendría que haberse vestido del mismo color. <br /><br />
+<br /><br />
+             A pesar de todo, se servía los mismos platos que los demás, pero se diferenciaba por su vestimenta e intención. El esposo, aunque magnánimo, era hombre con discernimiento. Al dar una vuelta mirando a cada uno de los comensales, ponía su atención no en el hecho de que comían sino en el modo de comportarse. Al ver a un extraño vestido con un traje que no era para una fiesta de bodas, le dijo: «Amigo, ¿cómo has entrado aquí?» (Mt 22,12) ¿Con qué color de vestimenta? ¿Con qué conciencia? Entiendo que el portero no te lo haya prohibido por la liberalidad del intendente. Entiendo también que ignorabas con qué vestimenta era preciso entrar al banquete. Pero, una vez dentro, viste las vestimentas resplandecientes de los comensales. ¿No debías haber aprendido una lección de tus observaciones? ¿No debiste entrar del modo honesto adecuado para poder salir también adecuadamente? Pero entraste de manera intempestiva y eres también intempestivamente expulsado. (…)<br /><br />
+<br /><br />
             4. Has visto lo que le ocurrió a ese hombre aquel día, sé vigilante en tu situación. (…) Es posible que hayas entrado con un alma pecadora y una intención deshonesta. (…) Haz hoy una salida honesta y mañana un honestísimo retorno. Si tu alma tenía por vestimenta la avaricia, entra con otra vestimenta.  Despójate de la vestimenta que has portado, no pongas nada por encima, líbrate de la fornicación e impureza y revístete de la castidad. Te doy este aviso para que, cuando entre Jesús, el Esposo de las almas, no vea tu vestimenta.<br />
 </font><br />
 
@@ -43,24 +38,24 @@ Su padre le respondió: &quot;Puedes hacerlo&quot;. Ella se fue a las montañas 
 Al cabo de los dos meses regresó, y su padre cumplió con ella el voto que había hecho. La joven no había tenido relaciones con ningún hombre. De allí procede una costumbre, que se hizo común en Israel:<br />
 
 ##########
-Salmo <font dir="ltr">40(39),5.7-8a.8b-9.10.</font>@@@@@¡Feliz el que pone en el Señor<br /><br />
-toda su confianza,<br /><br />
-y no se vuelve hacia los rebeldes<br /><br />
+Salmo <font dir="ltr">40(39),5.7-8a.8b-9.10.</font>@@@@@¡Feliz el que pone en el Señor<br /><br />
+toda su confianza,<br /><br />
+y no se vuelve hacia los rebeldes<br /><br />
 que se extravían tras la mentira!<br /><br />
 <br /><br />
-Tú no quisiste víctima ni oblación;<br /><br />
-pero me diste un oído atento;<br /><br />
+Tú no quisiste víctima ni oblación;<br /><br />
+pero me diste un oído atento;<br /><br />
 no pediste holocaustos ni sacrificios,<br /><br />
 entonces dije: “Aquí estoy.<br /><br />
 <br /><br />
 En el libro de la Ley está escrito<br /><br />
-lo que tengo que hacer:<br /><br />
-yo amo, Dios mío, tu voluntad,<br /><br />
+lo que tengo que hacer:<br /><br />
+yo amo, Dios mío, tu voluntad,<br /><br />
 y tu ley está en mi corazón».<br /><br />
 <br /><br />
-Proclamé gozosamente tu justicia<br /><br />
-en la gran asamblea;<br /><br />
-no, no mantuve cerrados mis labios,<br /><br />
+Proclamé gozosamente tu justicia<br /><br />
+en la gran asamblea;<br /><br />
+no, no mantuve cerrados mis labios,<br /><br />
 Tú lo sabes, Señor.<br />
 
 ##########

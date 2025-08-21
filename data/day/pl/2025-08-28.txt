@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Św. Augustyn<br />
+Św. Augustyn<br />
                 Św. Hermes, męczennik (+ III w.)<br />
                 Św. Joachima de Vedruna, małżonka, matka, zakonnica (+ 1181)<br />
                 Św. Wiwian, biskup w Saintes (+ V w.)<br />
@@ -28,22 +23,22 @@ A Pan niech pomnoży was liczebnie i niech spotęguje miłość waszą nawzajem 
 aby serca wasze utwierdzone zostały w nienagannej świętości wobec Boga, Ojca naszego, na przyjście Pana naszego, Jezusa, wraz ze wszystkimi Jego świętymi.<br />
 
 ##########
-Księga Psalmów <font dir="ltr">90(89),3-4.12-13.14.17.</font>@@@@@Obracasz w proch człowieka <br /><br />
+Księga Psalmów <font dir="ltr">90(89),3-4.12-13.14.17.</font>@@@@@Obracasz w proch człowieka <br /><br />
 i mówisz: „Wracajcie synowie ludzcy”.<br /><br />
-Bo tysiąc lat w Twoich oczach <br /><br />
-jest jak wczorajszy dzień, który minął, <br /><br />
+Bo tysiąc lat w Twoich oczach <br /><br />
+jest jak wczorajszy dzień, który minął, <br /><br />
 albo straż nocna.<br /><br />
 <br /><br />
-Naucz nas liczyć dni nasze, <br /><br />
+Naucz nas liczyć dni nasze, <br /><br />
 byśmy zdobyli mądrość serca.<br /><br />
-Powróć, Panie, jak długo będziesz zwlekał? <br /><br />
+Powróć, Panie, jak długo będziesz zwlekał? <br /><br />
 Bądź litościwy dla sług Twoich!<br /><br />
 <br /><br />
-Nasyć nas o świcie swoją łaską, <br /><br />
-abyśmy przez wszystkie dni nasze <br /><br />
+Nasyć nas o świcie swoją łaską, <br /><br />
+abyśmy przez wszystkie dni nasze <br /><br />
 mogli się radować i cieszyć.<br /><br />
-Dobroć Pana Boga naszego niech będzie nad nami  <br /><br />
-i wspieraj pracę rąk naszych, <br /><br />
+Dobroć Pana Boga naszego niech będzie nad nami  <br /><br />
+i wspieraj pracę rąk naszych, <br /><br />
 dzieło rąk naszych wspieraj!<br />
 
 ##########

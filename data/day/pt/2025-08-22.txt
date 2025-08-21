@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Santa Maria, Rainha<br />
+Santa Maria, Rainha<br />
     
 ##########
 @@@@@
@@ -21,25 +16,25 @@ Rute respondeu-lhe: «Não insistas comigo, para que te deixe e me afaste de ti,
 Foi assim que Noémi regressou dos campos de Moab, trazendo consigo sua nora Rute, a moabita. Chegaram a Belém no início da ceifa da cevada.<br />
 
 ##########
-Livro dos Salmos <font dir="ltr">146(145),5-6.7.8-9a.9bc-10.</font>@@@@@Feliz o que tem por auxílio o Deus de Jacob, <br /><br />
+Livro dos Salmos <font dir="ltr">146(145),5-6.7.8-9a.9bc-10.</font>@@@@@Feliz o que tem por auxílio o Deus de Jacob, <br /><br />
 o que põe a sua confiança no Senhor, seu Deus,<br /><br />
-que fez o céu e a terra, o mar e quanto neles existe.<br /><br />
+que fez o céu e a terra, o mar e quanto neles existe.<br /><br />
 <br /><br />
 Eternamente fiel à sua palavra,<br /><br />
-faz justiça aos oprimidos,<br /><br />
-e dá pão aos que têm fome.<br /><br />
+faz justiça aos oprimidos,<br /><br />
+e dá pão aos que têm fome.<br /><br />
 <br /><br />
 O Senhor dá liberdade aos cativos.<br /><br />
-O Senhor ilumina os olhos dos cegos,<br /><br />
-o Senhor levanta os abatidos.<br /><br />
+O Senhor ilumina os olhos dos cegos,<br /><br />
+o Senhor levanta os abatidos.<br /><br />
 <br /><br />
 O Senhor ama os justos,<br /><br />
 O Senhor protege os peregrinos,<br /><br />
 ampara o órfão e a viúva<br /><br />
 <br /><br />
 e entrava o caminho aos pecadores.<br /><br />
-O Senhor reina eternamente. <br /><br />
-O teu Deus, ó Sião, <br /><br />
+O Senhor reina eternamente. <br /><br />
+O teu Deus, ó Sião, <br /><br />
 <br /><br />
 é Rei por todas as gerações.<br />
 

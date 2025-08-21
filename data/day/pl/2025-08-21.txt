@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Św. Pius X<br />
+Św. Pius X<br />
                 Św. Kwadrat, biskup (+ III/IV w.)<br />
                 Śwśw. Bassa i jej synowie, męczennicy (+ IV w.)<br />
                 Bł. Bernard Tolomei, opat (+ 1348)<br />
@@ -33,21 +28,21 @@ Nadto rzekła do swego ojca: «Pozwól mi uczynić tylko to jedno: puść mnie n
 Minęły dwa miesiące i wróciła do swego ojca, który wypełnił na niej swój ślub.<br />
 
 ##########
-Księga Psalmów <font dir="ltr">40(39),5.7-8a.8b-9.10.</font>@@@@@Szczęśliwy człowiek, <br /><br />
-który nadzieję pokłada w Panu,<br /><br />
-a nie naśladuje pysznych <br /><br />
+Księga Psalmów <font dir="ltr">40(39),5.7-8a.8b-9.10.</font>@@@@@Szczęśliwy człowiek, <br /><br />
+który nadzieję pokłada w Panu,<br /><br />
+a nie naśladuje pysznych <br /><br />
 i skłonnych do kłamstwa.<br /><br />
 <br /><br />
-Nie chciałeś ofiary krwawej ani z płodów ziemi, <br /><br />
-lecz otwarłeś mi uszy. <br /><br />
+Nie chciałeś ofiary krwawej ani z płodów ziemi, <br /><br />
+lecz otwarłeś mi uszy. <br /><br />
 Nie żądałeś całopalenia i ofiary za grzechy.<br /><br />
 Wtedy powiedziałem: «Oto przychodzę.<br /><br />
 <br /><br />
-W zwoju księgi jest o mnie napisane: <br /><br />
+W zwoju księgi jest o mnie napisane: <br /><br />
 Radością jest dla mnie pełnić Twoją wolę, mój Boże<br /><br />
 a Twoje Prawo mieszka w moim sercu».<br /><br />
-Głosiłem Twą sprawiedliwość w wielkim zgromadzeniu <br /><br />
-i nie powściągałem warg moich, <br /><br />
+Głosiłem Twą sprawiedliwość w wielkim zgromadzeniu <br /><br />
+i nie powściągałem warg moich, <br /><br />
 o czym Ty wiesz, Panie.<br />
 
 ##########

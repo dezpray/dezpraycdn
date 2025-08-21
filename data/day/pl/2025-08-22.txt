@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Św. Jan Kemble i Św. Jan Wali<br />
+Św. Jan Kemble i Św. Jan Wali<br />
                 Bł. Tymoteusz z Montecchio, kapłan, zakonnik (+ 1504)<br />
                 Św. Symforian, męczennik (+ 257)<br />
                 Św. Hipolit, biskup, męczennik (+ ok. 235)<br />
@@ -23,24 +18,24 @@ Albowiem dziecię nam się narodziło, Syn został nam dany, na Jego barkach spo
 Wielkie będzie Jego panowanie w pokoju bez granic na tronie Dawida i nad Jego królestwem, które On utwierdzi i umocni prawem i sprawiedliwością, odtąd i na wieki. Zazdrosna miłość Pana Zastępów tego dokona.<br />
 
 ##########
-Księga Psalmów <font dir="ltr">113(112),1-2.3-4.5-6.7-8.</font>@@@@@Chwalcie, słudzy Pańscy, <br /><br />
+Księga Psalmów <font dir="ltr">113(112),1-2.3-4.5-6.7-8.</font>@@@@@Chwalcie, słudzy Pańscy, <br /><br />
 chwalcie imię Pana.<br /><br />
-Niech imię Pańskie będzie błogosławione <br /><br />
+Niech imię Pańskie będzie błogosławione <br /><br />
 teraz i na wieki.<br /><br />
 <br /><br />
-Od wschodu aż do zachodu słońca <br /><br />
+Od wschodu aż do zachodu słońca <br /><br />
 niech będzie pochwalone imię Pana.<br /><br />
-Pan jest wywyższony nad wszystkie ludy, <br /><br />
+Pan jest wywyższony nad wszystkie ludy, <br /><br />
 ponad niebiosa sięga Jego chwała.<br /><br />
 <br /><br />
-Kto jest jak nasz Pan Bóg, <br /><br />
+Kto jest jak nasz Pan Bóg, <br /><br />
 który mieszka w górze<br /><br />
-co w dół spogląda <br /><br />
+co w dół spogląda <br /><br />
 na niebo i na ziemię?<br /><br />
 <br /><br />
-Podnosi nędzarza z prochu  <br /><br />
+Podnosi nędzarza z prochu  <br /><br />
 i dźwiga z gnoju ubogiego.<br /><br />
-by go posadzić wśród książąt, <br /><br />
+by go posadzić wśród książąt, <br /><br />
 wśród książąt swojego ludu.<br />
 
 ##########

@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Eufrasia del Sagrado Corazón<br />
+Eufrasia del Sagrado Corazón<br />
                 Beato Ricardo Herst<br />
                 Beato Domingo Jedrzejewski<br />
                 San Osorio Gutierrez<br />
@@ -45,24 +40,24 @@ Mira que hoy hago de ti una plaza fuerte, una columna de hierro, una muralla de 
 Ellos combatirán contra ti, pero no te derrotarán, porque yo estoy contigo para librarte -oráculo del Señor-&quot;.<br />
 
 ##########
-Salmo <font dir="ltr">71(70),1-2.3-4a.5-6ab.15ab.17.</font>@@@@@Yo me refugio en Ti, Señor, <br /><br />
+Salmo <font dir="ltr">71(70),1-2.3-4a.5-6ab.15ab.17.</font>@@@@@Yo me refugio en Ti, Señor, <br /><br />
 ¡que nunca tenga que avergonzarme!<br /><br />
-Por tu justicia, líbrame y rescátame, <br /><br />
+Por tu justicia, líbrame y rescátame, <br /><br />
 inclina tu oído hacia mí, y sálvame.<br /><br />
 <br /><br />
-Sé para mí una roca protectora, <br /><br />
-tú que decidiste venir siempre en mi ayuda,<br /><br />
+Sé para mí una roca protectora, <br /><br />
+tú que decidiste venir siempre en mi ayuda,<br /><br />
 porque tú eres mi Roca y mi fortaleza.<br /><br />
 ¡Líbrame, Dios mío, de las manos del impío!<br /><br />
 <br /><br />
-Porque tú, Señor, eres mi esperanza <br /><br />
+Porque tú, Señor, eres mi esperanza <br /><br />
 y mi seguridad desde mi juventud.<br /><br />
 En ti me apoyé desde las entrañas de mi madre;<br /><br />
 desde el seno materno fuiste mi protector.<br /><br />
 <br /><br />
 Mi boca anunciará incesantemente<br /><br />
 tus actos de justicia y salvación,<br /><br />
-Dios mío, tú me enseñaste desde mi juventud, <br /><br />
+Dios mío, tú me enseñaste desde mi juventud, <br /><br />
 y hasta hoy he narrado tus maravillas.<br />
 
 ##########

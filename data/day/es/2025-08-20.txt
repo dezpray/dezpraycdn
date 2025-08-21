@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            San Bernardo de Claraval<br />
+San Bernardo de Claraval<br />
                 San Porfirio Roma<br />
                 San Leovigildo Córdoba<br />
                 San Maneto de Montesenario<br />
@@ -27,8 +22,8 @@
     
 ##########
 <font style="align-text:left" dir="ltr">¿Por qué permanecisteis allí todo el día sin hacer nada?</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-      Podemos repartir estas diversas horas del día entre los años de vida del hombre. El amanecer, es la infancia de nuestra inteligencia. La tercera hora puede aplicarse a la adolescencia, porque el sol deslumbra ya, por decirlo así, desde la altura, en los ardores de la juventud que empiezan a calentarse. La sexta hora, es la edad de la madurez: el sol se establece allí como su punto de equilibrio, ya que el hombre está en la plenitud de su fuerza. La novena hora designa la vejez, dónde el sol desciende, en cierto modo, desde lo alto del cielo, para que los ardores de la edad madura se refresquen. En fin, la undécima hora es la edad que se nombra como vejez avanzada...<br /><br />
-<br /><br />
+      Podemos repartir estas diversas horas del día entre los años de vida del hombre. El amanecer, es la infancia de nuestra inteligencia. La tercera hora puede aplicarse a la adolescencia, porque el sol deslumbra ya, por decirlo así, desde la altura, en los ardores de la juventud que empiezan a calentarse. La sexta hora, es la edad de la madurez: el sol se establece allí como su punto de equilibrio, ya que el hombre está en la plenitud de su fuerza. La novena hora designa la vejez, dónde el sol desciende, en cierto modo, desde lo alto del cielo, para que los ardores de la edad madura se refresquen. En fin, la undécima hora es la edad que se nombra como vejez avanzada...<br /><br />
+<br /><br />
       Unos son conducidos a una vida honrada desde la infancia, otros durante la adolescencia, otros en la edad madura, otros en la vejez y otros por fin en edad muy avanzada, es como si fueran llamados a la vid, a diferentes horas del día. Examinad pues vuestro modo de vivir, hermanos, y ved si vosotros actuáis como obreros de Dios. Reflexionad bien, y considerad si trabajáis en la vid del Señor... El que se descuidó de vivir para Dios hasta su última edad, es como el obrero que ha estado sin hacer nada hasta la undécima hora... &quot;¿Por qué habéis estado todo el día sin hacer nada?&quot; Es como si dijéramos claramente: &quot;Si no habéis querido vivir para Dios durante vuestra juventud y edad madura, arrepentíos, por lo menos, en vuestra última edad... Venid, a pesar de todo, hacia los caminos de la vida&quot;... ¿No fue a la undécima hora cuando el ladrón regresó? (Lc 23,39s) No fue por su edad avanzada, sino por el suplicio con que se encontró al llegar a la tarde de su vida. Confesó a Dios sobre la cruz, y expiró casi en el momento en el que el Señor le daba su sentencia. Y el Dueño de todo, admitiendo al ladrón antes que a Pedro en el descanso del paraíso, distribuyó bien el salario comenzando por el último.<br />
 </font><br />
 
@@ -47,19 +42,19 @@ Entonces, todos los árboles dijeron a la zarza: &#039;Ven tú a reinar sobre no
 Pero la zarza respondió a los árboles: &#039;Si de veras quieren ungirme para que reine sobre ustedes, vengan a cobijarse bajo mi sombra; de lo contrario, saldrá fuego de la zarza y consumirá los cedros del Líbano&#039;.<br />
 
 ##########
-Salmo <font dir="ltr">21(20),2-3.4-5.6-7.</font>@@@@@Señor, el rey se regocija por tu fuerza,<br /><br />
+Salmo <font dir="ltr">21(20),2-3.4-5.6-7.</font>@@@@@Señor, el rey se regocija por tu fuerza,<br /><br />
 ¡y cuánto se alegra por tu victoria!<br /><br />
-Tú has colmado los deseos de su corazón,<br /><br />
+Tú has colmado los deseos de su corazón,<br /><br />
 no le has negado lo que pedían sus labios.<br /><br />
 <br /><br />
-Porque te anticipas a bendecirlo con el éxito<br /><br />
+Porque te anticipas a bendecirlo con el éxito<br /><br />
 y pones en su cabeza una corona de oro puro.<br /><br />
-Te pidió larga vida y se la diste:<br /><br />
+Te pidió larga vida y se la diste:<br /><br />
 días que se prolongan para siempre.<br /><br />
 <br /><br />
-Su gloria se acrecentó por tu triunfo,<br /><br />
+Su gloria se acrecentó por tu triunfo,<br /><br />
 tú lo revistes de esplendor y majestad;<br /><br />
-le concedes incesantes bendiciones,<br /><br />
+le concedes incesantes bendiciones,<br /><br />
 lo colmas de alegría en tu presencia.<br />
 
 ##########

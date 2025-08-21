@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            St. Monica, Layperson (332-387)<br />
+St. Monica, Layperson (332-387)<br />
     
 ##########
 <font style="align-text:left" dir="ltr">Take from me, O Lord, my heart of stone</font>@@@@@<font style="align-text:left" dir="ltr"><br />
@@ -24,17 +19,17 @@ And for this reason we too give thanks to God unceasingly, that,in receiving the
 
 
 ##########
-Psalms <font dir="ltr">139(138),7-8.9-10.11-12ab.</font>@@@@@Where can I go from your spirit? <br /><br />
+Psalms <font dir="ltr">139(138),7-8.9-10.11-12ab.</font>@@@@@Where can I go from your spirit? <br /><br />
 from your presence where can I flee?<br /><br />
-If I go up to the heavens, you are there; <br /><br />
+If I go up to the heavens, you are there; <br /><br />
 if I sink to the nether world, you are present there.<br /><br />
 <br /><br />
-If I take the wings of the dawn, <br /><br />
+If I take the wings of the dawn, <br /><br />
 if I settle at the farthest limits of the sea,<br /><br />
-even there your hand shall guide me, <br /><br />
+even there your hand shall guide me, <br /><br />
 and your right hand hold me fast.<br /><br />
 <br /><br />
-If I say, “Surely the darkness shall hide me, <br /><br />
+If I say, “Surely the darkness shall hide me, <br /><br />
 and night shall be my light”–<br /><br />
 For you darkness itself is not dark,<br /><br />
 and night shines as the day.<br />

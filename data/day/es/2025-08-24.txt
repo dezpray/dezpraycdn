@@ -1,9 +1,4 @@
-
-
-
-<br />
-<b>Warning</b>:  Undefined array key "psalm" in <b>/www/wwwroot/dezprayapi.dezmonde.net/prod/day-v3.php</b> on line <b>656</b><br />
-            Beata Alfonsa Clerici<br />
+Beata Alfonsa Clerici<br />
                 San Tación de Claudiópolis<br />
                 Santa  Thouret<br />
                 Beato Maximiano Binkiewicz<br />
@@ -24,10 +19,10 @@
     
 ##########
 <font style="align-text:left" dir="ltr">“Traten de entrar por la puerta estrecha” (Lc 13,24)</font>@@@@@<font style="align-text:left" dir="ltr"><br />
-            No podemos tener nada estable en un mundo en el que hemos venido para pasar. Para nosotros, vivir es cada día dejar la vida y pasar. (…)<br /><br />
-<br /><br />
-            La mutabilidad, el hombre no la sigue solamente en su cuerpo, sino también en su alma, cuando se esfuerza en subir hacia lo mejor. Bajo el peso de su mutabilidad, el alma es llevada sin cesar  hacia lo que ella no es. Si ella no es retenida en su primer estado por la estricta vigilancia de la disciplina, resbala hacia lo peor. Manteniendo su esfuerzo hacia lo mejor, realiza una subida a contra corriente. Si se relaja en su intención de subir, es llevada sin esfuerzo hacia el bajo fondo.<br /><br />
-<br /><br />
+            No podemos tener nada estable en un mundo en el que hemos venido para pasar. Para nosotros, vivir es cada día dejar la vida y pasar. (…)<br /><br />
+<br /><br />
+            La mutabilidad, el hombre no la sigue solamente en su cuerpo, sino también en su alma, cuando se esfuerza en subir hacia lo mejor. Bajo el peso de su mutabilidad, el alma es llevada sin cesar  hacia lo que ella no es. Si ella no es retenida en su primer estado por la estricta vigilancia de la disciplina, resbala hacia lo peor. Manteniendo su esfuerzo hacia lo mejor, realiza una subida a contra corriente. Si se relaja en su intención de subir, es llevada sin esfuerzo hacia el bajo fondo.<br /><br />
+<br /><br />
              Sí, subir es esfuerzo y descender facilidad, y es por la puerta estrecha que entraremos. El Señor lo recuerda: “Traten de entrar por la puerta estrecha” (Lc 13,24). En el momento que menciona la entrada por la puerta estrecha, primero recuerda: “Traten”, ya que sin la ferviente contención del espíritu, es invencible la fuerza de este mundo que lleva sin cesar el alma hacia lo bajo. <br />
 </font><br />
 
@@ -40,11 +35,11 @@ Ellos traerán a todos los hermanos de ustedes, como una ofrenda al Señor, hast
 Y también de entre ellos tomaré sacerdotes y levitas, dice el Señor.<br />
 
 ##########
-Salmo <font dir="ltr">117(116),1.2.</font>@@@@@¡Alaben al Señor, todas las naciones,<br /><br />
+Salmo <font dir="ltr">117(116),1.2.</font>@@@@@¡Alaben al Señor, todas las naciones,<br /><br />
 glorifíquenlo, todos los pueblos!<br /><br />
 <br /><br />
-Porque es inquebrantable su amor por nosotros,<br /><br />
-y su fidelidad permanece para siempre.<br /><br />
+Porque es inquebrantable su amor por nosotros,<br /><br />
+y su fidelidad permanece para siempre.<br /><br />
 <br /><br />
 ¡Aleluya!<br />
 
